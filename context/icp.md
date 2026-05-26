@@ -20,6 +20,30 @@ The sharpest version: an operator running **2-5 full-service locations with 30+ 
 
 **Read the penetration numbers:** FSR Scale and Franchise are already at 13% (proven, defend and grow). Multi-Loc and Single Loc sit at 8% with the largest headroom (Single Loc alone is a ~245K-location market). Single Loc is where PLG volume lives; FSR Scale is where the highest-value, best-fit revenue lives.
 
+## Market sizing (DataLane, May 2026)
+
+A more current and analytical cut than the segment table above. Source: DataLane pull 2026-05-20, scoped to 1-100 location groups (franchise / 100+ excluded). The segment table is the strategic view (fit tiers + GTM motion); this is the raw TAM/SAM by group size. Note they use different cuts: the segment table keys on service type and employees/location, these bands key on group size only.
+
+**The answer first:** we've barely scratched the SMB market. Penetration climbs steeply with group size, so we're far better at winning multi-location groups than single independents. But even where group penetration is high, we win only a fraction of each group's locations.
+
+- **1-100 location SAM: ~793K groups / ~945K locations.** Matched to ~2.3% of groups and 2.8% of locations.
+- **The structural insight:** in the 51-100 band we're in **36% of groups but only 5.7% of their locations.** When we win a group, we win a slice of it. That within-group whitespace is the single biggest expansion opportunity.
+
+| Band | Groups | Locations | Group pen. | Loc pen. |
+|---|---:|---:|---:|---:|
+| 1 (single) | 743,422 | 743,422 | 1.9% | 1.9% |
+| 2-5 | 43,598 | 107,254 | 7.8% | 5.6% |
+| 6-10 | 3,372 | 24,903 | 16.8% | 9.0% |
+| 11-25 | 1,612 | 25,210 | 20.9% | 8.2% |
+| 26-50 | 570 | 20,246 | 29.8% | 7.0% |
+| 51-100 | 336 | 24,011 | 36.0% | 5.7% |
+
+**Caveats, read before quoting:**
+1. ~40% of customers don't map to DataLane, so every penetration figure is understated. True penetration is likely ~1.5x these numbers.
+2. ~42% of file rows have a blank location count and were excluded, so single-location TAM is understated (real number is larger than 743K).
+3. DataLane counts whole-system locations for big brands (Jimmy John's = 2,794, etc.), which land in the out-of-scope 100+ bands.
+4. Mid-Market and franchise TAM are separate pulls, not in this data.
+
 ## Who cares a lot
 
 North American SMB restaurants, 16-75 employees/location, up to 20 locations:

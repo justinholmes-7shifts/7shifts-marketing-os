@@ -4,6 +4,7 @@ Repeatable thinking tools the whole team shares. Each skill is a folder with a `
 
 ## What goes here
 Team-level skills, not personal ones. For example:
+- **clear-communications-v2** — rate and improve any writing with the Pyramid Principle (answer first, SCQA). Generic clarity tool, useful for readouts and memos. (Shared from the CMO OS; team repo is now its canonical home.)
 - **campaign-orchestration** (Tamara) — drop the skill folder here.
 - Any skill more than one person should run the same way.
 
