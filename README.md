@@ -21,7 +21,7 @@ Start in whichever feels comfortable. The files are the same either way, so movi
 
 | Folder | What it holds |
 |---|---|
-| `context/` | The reference brain. `brand-guidelines.md` (how we look), `voice.md` (how we sound), `icp.md` (who we sell to), `positioning.md` (how we talk about 7shifts). |
+| `context/` | The reference brain. `company-context.md` (what 7shifts is), `positioning.md` (how we talk about it), `icp.md` (who we sell to), `personas.md` (the 7 buyers and users), `voice.md` (how we sound), `brand-guidelines.md` (how we look), `source/` (the raw messaging guide). |
 | `skills/` | The team's repeatable thinking tools (e.g. campaign orchestration). Canonical source, symlinked into Claude Code. |
 | `campaigns/` | One file per campaign. Working notes and outcomes. The running log. |
 | `research/` | Deep research outputs that feed the brain. |

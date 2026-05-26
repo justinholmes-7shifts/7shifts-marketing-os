@@ -1,0 +1,1391 @@
+
+==========================================================================================
+SHEET: ⭐ Positioning 7shifts
+==========================================================================================
+r3c1: 7shifts
+r4c1: Value Proposition
+r4c2: Scheduling, payroll, and tip management in one easy-to-use app. 7shifts helps small & medium-sized restaurants save time, cut costs, and makes their life easier so they can focus on serving their staff and customers.
+r5c1: Elevator Pitch
+r5c2: Coming soon
+r6c1: Positioning Statement
+r6c2: For QSR, FSR, and franchised restaurants with 16-75 employees per location who need to effectively manage their teams and labor costs, 7shifts is a restaurant scheduling, payroll, and tip management app, that saves time, reduces errors & costs, and gives restaurants peace of mind. Unlike Excel, Toast, Square, Homebase, or HotSchedules, 7shifts is the only tool that is restaurant-specific, easy to use, and built in one app.
+r7c1: Long Description
+r7c2: Scheduling, payroll, and tip management in one easy-to-use app. 7shifts helps small & medium-sized restaurants save time, cut costs, and makes their life easier so they can focus on serving their staff and customers.
+r8c1: Positioning our product/feature  ⏎ How are we poisoning our product/feature this way? Why?
+r8c2: We're moving away from "team management" as it's not a common term in the industry and among our customers. 7shifts is positioned to highlight out 3 core products where we serve customer well and call out who we serve best. We considered Time Clocking instead of Tip Management, but Homebase's posotion is "scheduling, payroll, and time clocks for small businessses" which would be too similar. Because rbering restaurant exclusive is one of our differentiators, Tip Management is a product that fits. https://docs.google.com/presentation/d/1hKsRlpKskpAg44E_MTLkrxAGUxEbzVfUuO3mhMKi_oQ/edit#slide=id.g2e12d5d0044_0_435
+r9c1: COMPLETE THE FOLLOWING SECTIONS BELOW FIRST
+r10c1: Market Category ⏎ The macro market (and submarket as applicable) that your product competes in
+r10c2: Workforce management for restaurants ⏎  ⏎ Externally: scheduling, payroll, and tip management for restaurants
+r11c1: Competitive Alternatives ⏎ If we didn’t exist, what would a customer do?
+r11c2: All-in-one bundles: Sling/Toast, Restaurant365, Homebase, Teamwork by SpotOn, Square ⏎ Point solutions: When I Work, Deputy, HotSchedules, Jolt, Asana, Harri, Indeed, Toast Payroll, ADP, Gusto, Tiphaus, Gratshare, Kickfin, SMS, email, Messenger, WhatsApp ⏎ Manual: Excel/spreadsheets, pen & paper, cash, 3rd party managed service (payroll & accounting)
+r12c1: Competitive Positioning  ⏎ How is the market positioning their product?
+r12c2: Here's what our competitors (Toast, Homebase, Harri, Restaurant365, When I Work, Deputy) are positioning temselves as: ⏎ https://docs.google.com/presentation/d/1hKsRlpKskpAg44E_MTLkrxAGUxEbzVfUuO3mhMKi_oQ/edit#slide=id.g2e12d5d0044_0_827    ⏎  ⏎ Most focus on 1 cateogory such as restauranat management software, workforce managment technology, etc. or call out 2-3 core products they offer (scheduling, time clocks, etc.
+r13c1: Target ICP  ⏎ Who is our ideal customer profile?
+r13c2: QSR and FSR restaurants with 16-75 employees per location who are looking to consolidate into one app that manages their workforce/labor ⏎  ⏎ More details: 7shifts Ideal Customer Profiles (ICP)
+r14c1: Pain Points
+r14c2: - Struggle with rising labor, food, and operating costs ⏎ - Spending too much managing schedules, tips, and payroll across different systems ⏎ - Finding and retaining employees ⏎ - Expensive and disconnected tech stack
+r15c1: PRODUCT DIFFERENTIATORS ⏎ Product differentiators are the characteristics that make a product stand out while also solving the previously identified pain point.
+r16c1: Unique Attributes / Differentiator Drivers ⏎ Features that make us different
+r16c2: Restaurant focused
+r16c5: Simple, all-in-one app
+r16c8: Employee retention
+r16c11: Labor cost & compliance
+r16c14: Tip management
+r17c1: ⭐ Differentiated Value ⏎ What is the benefit/value that makes us different? Translate your unique attributes to value by asking repeatedly, "So what? Why does this matter to my custoer and theur business?"
+r17c2: Serve and build workforce management tools specifically for restaurants
+r17c5: Easy-to-use app for a better user experience with all the workforce management tools restaurants need
+r17c8: Manage the employee experience from hiring to onboarding to performance management
+r17c11: Robust budgeting, prediction, and labor cost tracking & insights
+r17c14: Deep tips calculations, automation, and distribution
+r18c1: Differentiated Value Theme ⏎ Cluster yor differentiated value points into 1-3 value themes. People can’t remember 15 things, they can only remember 2-3 things.
+r18c2: Time savings ⏎ Cost savings ⏎ Increase employee retention
+r18c5: Time savings ⏎ Cost savings ⏎ Increase employee retention
+r18c8: Cost savings ⏎ Increase employee retention
+r18c11: Time savings ⏎ Cost savings
+r18c14: Time savings ⏎ Increase employee retention
+r19c1: Differentiated Level ⏎ How differerent is this from alternatives?
+r19c2: High
+r19c5: High
+r19c8: High
+r19c11: Medium
+r19c14: Medium
+r20c1: Who Cares a Lot ⏎ What are the characteristics of a customer that makes them care a lot about the value you deliver?
+r20c2: North American SMB Restaurants with 16-75 employees per location, up to 20 locations ⏎ - Restaurant type: FSR + QSR ⏎ - POS: Cloud-supported  ⏎ - Payroll: Supported payroll integration or looking to switch ⏎ - Business structure: Independently owned, corporate, or franchise groups
+r21c1: Proof Points / Reasons to Believe
+r21c2: Restaurants who use 7shifts ⏎ - Save 79 hours and $2,100 per month using 7shifts’ full suite of tools ⏎ - Save over $2,100 per month using 7shifts' full suite of tools ⏎ - Save 14 hours per month scheduling ⏎ - Save $1,045 per month in overtime pay ⏎ - Increase employee retention by 13% ⏎ - Trusted by 50,000 restaurants and over 1.5 million restaurant professionals ⏎  ⏎ 7shifts has an average score of 4.7 out of 5, based on over 16,000 reviews from multiple platforms ⏎  ⏎ "Our team has been impressed by what 7shifts has built. We look forward to helping 7shifts become our industry’s gold standard." — Danny Meyer, Founder & CEO at Union Square Hospitality Group ⏎  ⏎ "So much time was spent scheduling, putting together tasks, and getting that schedule up. We're literally saving hours a week out of each one of the manager's schedules." — David Adjey, Owner at BOUFFE by Adjey ⏎  ⏎  ⏎ One connected app: Simplify scheduling, payroll, and tip management in one easy-to-use app that flows together, not separate systems that run side by side. Reduce human error and time compiling data from multiple apps, so your data lives in one place. ⏎  ⏎ Restaurant-specific: Built to solve restaurant-specific needs, 7shifts helps free up time for managers to focus on serving their staff and customers.  ⏎  ⏎ Make (more) profitable decisions: Eliminate unbudgeted labor costs and compliance fees through automated labor tools such as labor forecasting, early punch-in prevention, and state-based labor compliance. 7shifts helps customers identify and avoid an average of $589 in labor infractions per month. ⏎  ⏎ Get your time back: Automate processes and sync data from other systems to reduce spending extra hours on manual tasks. Make scheduling, payroll, and tip management a lot faster by pulling in data in real-time and automating this work. ⏎  ⏎ Boost team retention: Keep a pulse on team engagement, sentiment, and satisfaction to reduce turnover by up to 13%.
+r22c1: ADDITIONAL RESOURCES
+r23c2: Product Positioning: How does 7shifts help? ⏎  ⏎ 7shifts Product Positioning  ⏎ 7shifts Positioning POV - May 2024  ⏎ 7shifts Ideal Customer Profiles (ICP) ⏎ 7shifts Customer-Facing Statistics
+
+==========================================================================================
+SHEET: ⭐ 7shifts Value Props
+==========================================================================================
+r2c1: Description ⏎ What is 7shifts?
+r2c2: ⭐ Scheduling, payroll, and tip management in one easy-to-use app. 7shifts helps small & medium-sized restaurants save time, cut costs, and makes their life easier so they can focus on serving their staff and customers.
+r3c1: Positioning statement ⏎ Positioning defines how your product is a leader at delivering something that a well-defined set of customers cares a lot about.  This statement is internal-facing only.
+r3c2: For QSR, FSR, and franchised restaurants with 16-75 employees per location who need to effectively manage their teams and labor costs, 7shifts is a restaurant scheduling, payroll, and tip management app, that saves time, reduces errors & costs, and gives restaurants peace of mind. Unlike Excel, Toast, Square, Homebase, or HotSchedules, 7shifts is the only tool that is restaurant-specific, easy to use, and built in one app.
+r4c1: Ideal Customer Profile (ICP) ⏎ The ideal customer profile defines the attributes of customers that will be 7shifts’ most valuable and best-fit customer. ⏎  ⏎ An ICP help to define the problems 7shifts solves for, aligns products with customers’ needs, assists in defining the product roadmap, and enables targeted & strategic marketing and sales.
+r4c2: North American QSR, FSR, and franchised restaurants with 16-75 employees per location, up to 20 locations, and a cloud-supported POS (details here).
+r5c1: Customer key pain points ⏎ What are challenges that our ideal customers face? This will help us emphathize and understand how 7shifts helps them overcome these.
+r5c2: - Spending too much time managing schedules, payroll, tips, etc. across different systems ⏎ - Expensive and disconnected tech stack ⏎ - Struggle with rising labor, food, and operating costs ⏎ - Finding and retaining employees ⏎ - Lack of automation and too much time wasted doing manual work ⏎ - Difficulties forecasting sales and labor to make informed decisions ⏎ - Overwhelming time off and availability requests and subsequently making schedule changes ⏎ - If not integrated with POS and payroll, lack of data to make payroll—requires manual entry which can take 45 minutes a pay run ⏎ - Tedious and time-consuming to calculate and distribute tips
+r6c1: Core product's key benefits ⏎ What does the 7shifts product do to help our customers solve those problems? What will this result in?
+r6c2: - One connected app: Simplify scheduling, payroll, and tip management in one easy-to-use app that flows together, not separate systems that run side by side. Reduce human error and time compiling data from multiple apps, so your data lives in one place. ⏎ - Restaurant-specific: Built to solve restaurant-specific needs, 7shifts helps free up time for managers to focus on serving their staff and customers.  ⏎ - Make (more) profitable decisions: Eliminate unbudgeted labor costs and compliance fees through automated labor tools such as labor forecasting, early punch-in prevention, and state-based labor compliance. 7shifts helps customers identify and avoid an average of $589 in labor infractions per month,. ⏎ - Get your time back: Automate processes and sync data from other systems to reduce spending extra hours on manual tasks. Make scheduling, payroll, and tip management a lot faster by pulling in data in real-time and automating this work. ⏎ - Boost team retention: Keep a pulse on team engagement, sentiment, and satisfaction to reduce turnover by up to 13%.
+r7c1: ⭐ Core value props ⏎ Bringing together the pain points with the benefits, these 7shifts value props illustrates how customers can avoid the loss and gain the benefit—illustrating in a simple way why they should care. ⏎  ⏎ Customers need to understand the value of the products but also be reinforced of the problems/challenge they face that they need to overcome. ⏎  ⏎ e.g., "Automate repetitive tasks" < "Stop wasting time doing repetitive tasks that are easy to automate."
+r7c2: ⭐ One connected app for all your restaurant needs  ⏎ - Using multiple, disconnected tech systems to run your restaurant team? Consolidate your tech stack and decrease costs by moving to one single app—all while connecting your POS data to unlock even more capabilities. ⏎  ⏎ ⭐ Automate manual processes ⏎ - Stop spending dozens of hours each month manually building schedules, calculating & paying tips, and running payroll. Automating your time-consuming operational tasks gives you back time in your day and improves data accuracy. ⏎  ⏎ ⭐ Gain back valuable time in your day ⏎ - Reduce time and errors spent compiling data from multiple apps. Seamlessly connect scheduling, time clocking, payroll, and tips so all your data integrates together. ⏎  ⏎ ⭐ Cut expensive labor costs  ⏎ - Labor, food, and operating costs continue to rise, making running a restaurant even more challenging. Stop paying unbudgeted labor costs and avoidable compliance fees. Automatically forecast accurate sales & labor projections to save $1,000s in labor costs each year.  ⏎  ⏎ ⭐ Make your life easier ⏎ - Stop your team from missing important updates and changes to their shifts. Quickly build schedules and make changes on the go. Give your team the ability to view schedule changes, request shift changes, and submit time off requests, all while managers can approve or decline those requests. ⏎  ⏎ ⭐ Reduce employee turnover ⏎ - One employee quitting can cost a restaurant thousands of dollars to backfill due to hiring, onboarding, and training. Keep a pulse on team engagement, sentiment, and satisfaction to reduce turnover by up to 13%.
+r8c1: PMM owners
+r8c2: Accountable: Danielle Wong ⏎ Responsible: Danielle Wong (7shifts), Corina Lee (Scheduling, Team Engagement), Shanelle Holder (Time Clocking, Payroll), Melissa Venditti (Tip Management)
+r9c1: Core product name & ICP
+r9c2: Core product description ⏎ A high level overview of what the product does/how it works.
+r9c3: Customer pain points ⏎ Illustrates the situation our customers deal with and pinpoints the pain points that situation is causing.
+r9c4: Customer benefits ⏎ What are the benefits that makes us different? Asking ourselves repeatedly, "So what? Why does this matter to our customer and their business? Why should they care?"
+r9c5: Value propositions ⏎ This incorporates the loss aversion + the benefit gained. Customers need to understand the value of the products but also be reinforced of the problems/challenges they face that they need to overcome.  ⏎  ⏎ These value props are meant to be more detailed and long, so that those who used them can simpify and tweak the copy to what you need them for (e.g., website copy, Sales pitches, etc.)
+r10c1: Scheduling ⏎ SMB restaurants, 1-50 employees/location
+r10c2: Easy to use and built exclusively for restaurants, 7shifts Scheduling simplifies time-consuming and difficult-to-manage processes. Restaurant managers can quickly build schedules and make changes on the go, while employees can update their availability and swap shifts through a free mobile app.
+r10c3: - Time wasted: Manual processes and lack of automation cause restaurant operators to spend too much time building and creating schedules. ⏎ - Too many systems to manage: Lack of supporting integrations with other software and managing multiple expensive and siloed systems to run your restaurant ⏎ - Lack of flexibility: Schedules can feel rigid and inflexible. Not having a detailed schedule audit/history (especially when there are multiple managers) makes it more difficult to stay in-sync and make new scheduling decisions.
+r10c4: Save time, reduce labor costs, and increase your team’s accountability by simplifying complex scheduling processes. ⏎  ⏎ - Save time: Put more time back in your workday creating and managing your schedules. ⏎ - Reduce $1000s in labor costs each year: Automatically forecast sales and labor projections to build more accurate schedules and avoid over- or under-staffing. ⏎ - Increase team accountability: Make schedule changes from anywhere to keep your entire team up-to-date—staff get automatic reminders about upcoming shifts to help increase accountability. ⏎ - Save money: Make stronger, more informed business decisions using data & insights to drive significant cost savings. ⏎ - Increase team satisfaction: Your staff will be pleased that they can easily offer up shifts and submit availability to keep your schedules more accurate. Offering your team work flexibility can lead to a happier team.
+r10c5: - Stop wasting time manually creating schedules. Use 7shifts to manage scheduling and automate workflows to get more time back in your day. ⏎  ⏎ - Avoid guesswork and overspending on labor costs. Get automatic sales forecasts & labor projections to build more accurate schedules, avoid over- or under-staffing, and save $1,000s in labor costs each year. ⏎  ⏎ - Software not talking to one another? Integrate your POS and Payroll software with 7shifts to make stronger, more informed business decisions that help you reduce costs.  ⏎  ⏎ - Stop managing multiple, siloed apps. 7shifts seamlessly integrates dozens of POS, payroll, and other software solutions, bringing all your valuable data into one place. ⏎  ⏎ - Making schedule updates with pen & paper and spreadsheets can cause staff to miss shifts. Make schedule changes from anywhere that update in real-time and keep your entire team up-to-date—staff can easily trade shifts and submit availability.
+r11c1: Time Clocking
+r11c2: As the single source of truth for your labor data, save time and simplify time & attendance management with 7shifts Time Clocking, equipped with built-in labor compliance tools to avoid costly fees.
+r11c3: - Inaccurate time tracking: Manual entry increases the risk of errors in recording employee hours, leading to discrepancies in payroll and potential disputes. ⏎ - Time theft and buddy punching: Without automated systems, it's easier for employees to clock in or out for each other, resulting in inaccurate labor cost tracking and increased labor costs. ⏎ - Compliance risks: Manually managing time clocking makes it challenging to stay compliant with labor laws and regulations, such as break times and overtime, increasing the risk of fines and legal issues. ⏎ - Administrative burden: Manual time tracking requires significant administrative effort for data entry, verification, and correction, consuming valuable time that could be spent on other operational tasks. ⏎ - Difficulty in reporting: Generating accurate reports for payroll, labor costs, and compliance audits is more challenging and time-consuming without automated systems, leading to inefficiencies and potential errors.
+r11c4: Easily keep track of your team's hours, ensure only scheduled staff can clock in, enforce breaks to stay compliant, and sync your timesheets to your payroll. ⏎  ⏎ - Save $100s in unbudgeted labor: Increase punch accuracy and prevent your restaurant from paying unbudgeted labor by only allowing staff who are scheduled to work to clock-in. ⏎ - Save money and remain compliant: With built-in compliance tools, be proactively labor compliant and avoid costly compliance fees. ⏎ - Save time from manual work: Automatically set shift flags and document late/sick/missed shifts, and adjust punches to reduce manual labor and save time. ⏎ - Reduce errors: Reduce costly punch inaccuracies or mistakes, eliminate payroll errors, and increase profitability by allowing only staff who are scheduled to work and on-site clock in. ⏎ - Gain peace of mind: Get that added sense of security to ensure you’re not making any mistakes that could cost you thousands of dollars if an employee were to ever pursue legal action—it’s the best peace of mind you can have.
+r11c5: - Stop making last-minute changes extending shifts or cutting shifts early. Improve your labor targets and build more effective schedules by bringing together time clocking and scheduling in one place—audit and make edits to what was scheduled vs. actuals so you can avoid unplanned labor cost changes. ⏎  ⏎ - Eliminate unbudgeted labor costs from time theft and payroll errors. Increase punch accuracy and prevent your restaurant from overpaying up to $2,000 in labor costs each month by only allowing staff who are scheduled to work to clock in.  ⏎  ⏎ - Avoid errors and inaccuracies with staff clocking in and out to prevent payroll discrepancies and potential disputes. Gain hours back in your workday by automating employee time tracking, ensuring accurate records, and streamlining payroll processing.  ⏎  ⏎ - Avoid costly compliance fees within your restaurant’s jurisdiction. Proactively stay labor compliant by accurately tracking employee hours and adhering to labor laws & regulations. 7shifts helps customers surface an average of $589 in labor infractions per month. ⏎  ⏎ - Time clocking and payroll mistakes could cost you thousands of dollars in legal action. Get added sense of security to ensure you’re not making any errors with automated reports synced directly from your POS and payroll.
+r12c1: Payroll ⏎ 1 location, 10-50 employees, utilizing time clocking in 7shifts
+r12c2: 7shifts Payroll is a payroll system that gives you onboarding, time clocking, compliance, and payroll all without leaving the app. Setup and run payroll according to the needs of your restaurant.
+r12c3: - Accuracy and compliance: Manually handling payroll increases the risk of errors in calculations, tax withholdings, and compliance with labor laws, leading to potential penalties and legal issues for businesses. ⏎ - Cost control: Manually managing payroll leads to difficulty tracking labor costs accurately, resulting in overspending. ⏎ - Employee satisfaction: Manually managing payroll can lead to delayed or inaccurate payments, lack of transparency, and administrative errors, resulting in decreased employee satisfaction and trust in your restaurant among staff.
+r12c4: A single source of truth so you can save time without worrying about data errors and your employees can get paid on time and without issue. ⏎  ⏎ - Save time: Manage employee records including time clocking, attendance, payroll, and more directly in the 7shifts app, rather than managing multiple, complex systems. ⏎ - Increase efficiency: Improve efficiency and accuracy with one platform to house all labor, wage, payroll, tip, and onboarding data. ⏎ - Support your employees’ experience: Make your employees’ lives easier with a single place for them to onboard and understand their pay. ⏎ - Unlock more capabilities: Syncing your data with 7shifts’ Payroll helps manage [get more specific] tips, compliance, and other fees associated with running payroll. ⏎ - Reduce manual work & errors: Automatic tip credit calculations ensure your tipped minimum wage employees' wages are adjusted and employees are paid correctly every time.
+r12c5: - Save time on your payroll processes by automating, minimizing manual data entry, calculations, and administrative tasks. ⏎  ⏎ - Streamline payroll compliance & accuracy to ensure precise pay calculations and adherence to tax regulations and labor laws, minimize errors, reduce the risk of costly penalties, and provide peace of mind. ⏎  ⏎ - Save time with an all-in-one app that eliminates the need for multiple apps or systems by combining scheduling, time clocking, tips management & payroll into one easy-to-use app, streamlining your operations. ⏎  ⏎ - Make it easy for your employees to have seamless access to schedules, time tracking, pay stubs, and more, saving you time & fostering higher team engagement.
+r13c1: Tip Management
+r13c2: An end-to-end tip management experience from collection to payment. 7shifts syncs your shift data for accurate, automated tip calculations and payouts.
+r13c3: - Lack of accuracy: Calculating tip pools manually is more prone to errors, for which managers get many questions from employees. They spend a lot of time answering questions and disassembling tip pools and distribution to make corrections and build team trust. ⏎ - Cash handling risks: Handling cash is a nuisance because it requires having cash on hand and the restaurant holding a large amount of cash is a security risk. Carrying all that cash from the restaurant to their homes is also a risk to employees' safety. ⏎ - Time-consuming processes: Doing tip calculations and distribution manually takes a lot of time and expertise. To move over earned tips, managers have to copy fields over from where they're calculating tips into payroll or manually counting cash, adding more hours to the workday.
+r13c4: Automate your time-consuming tip calculation and distribution processes to avoid errors, cut down on apps, and ensure your team gets paid early & accurately. ⏎  ⏎ - Increase accuracy with automation: Say goodbye to the manual work of importing and inputting labor data, and simply click pay.  ⏎ - Make payroll a breeze: If you pool and payout tips, those amounts can easily be forwarded to your payroll to accurately tax employees. ⏎ - Utilize your existing tips processes: Move over the existing processes you're comfortable with, but automate them with 7shifts. ⏎ - Manage less systems: Everything you need to manage your tips is already in the 7shifts app. Stop using six tools and switch to one, saving time switching between systems.
+r13c5: - Say goodbye to the manual work of importing and inputting labor data. Automate tip calculation and distribution processes to save hours each day, while still ensuring tips are paid on time.  ⏎  ⏎ - Ditch the human error-prone spreadsheets. Distribute tips accurately every time with hands-free calculations matching your restaurant’s current tipping policy. ⏎  ⏎ - Handling and carrying cash is a security risk for both your restaurant and your staff. Rest easy knowing employees’ tips are delivered straight to their bank accounts, and your restaurant is holding the least amount of cash possible. ⏎  ⏎ - Stop using multiple tools and switch to one—saving time managing multiple systems. Centralize your tip distribution processes by tracking, splitting, and paying daily tips with one app. ⏎  ⏎ - Reduce the number of questions your team has about their tips. Build trust and reward employees daily for their hard work, helping you attract top talent and keep them around longer.
+r14c1: Team Engagement
+r14c2: One restaurant employee quitting can cost a business thousands of dollars in backfilling, hiring, and training, only for another person to quit. The best way to control these excruciating labor costs is to prevent or at least reduce turnover in the first place, and 7shifts Team Engagement gives you all of the tools to do that.
+r14c3: - Staff turnover: Restaurants are struggling with high employee turn over and poor team culture. ⏎ - Trouble tracking performance: It's difficult to track employee performance and engagement over time, making it difficult to have impactful performance-related conversations. ⏎ - Time wasted: It's time consuming to ensure everyone at the restaurant are in sync and connected. ⏎ - Legal risks: There is a lack of control and visibility in communication between management and employees, which can pose legal risks.
+r14c4: Monitor your team’s engagement to gather actionable insights from your team, improve coaching, and identify operational issues early, ultimately increasing employee retention. ⏎  ⏎ - Improve team retention: Proactively uncover and solve issues early—recognize top performers and improve training & coaching with low performers ⏎ - Let your team be heard: Team members receive automated shift feedback surveys so you can quickly identify and address issues before they become problems ⏎ - Increase team happiness & morale: Encourage engagement, give shout-outs, and highlight milestones like work anniversaries & birthdays to recognize your team ⏎ - Increase team communication & accountability: Streamline communication between staff, quickly deliver critical information to your team, and increase collaboration to build a closer, higher-functioning team.
+r14c5: - Spend less time digging through data to track employee performance and engagement. Spend more time on creating a culture that fosters collaboration, accountability, and continuous improvement—ultimately helping reduce staff turnover. ⏎  ⏎ - Stop juggling multiple apps and having your staff give away their personal contact information. Ensure your team stays connected with a single, secured communication app.
+r15c1: Additional Resources
+r16c1: Testimonials
+r16c2: "Our team has been impressed by what 7shifts has built. We look forward to helping 7shifts become our industry’s gold standard." — Danny Meyer, Founder & CEO at Union Square Hospitality Group ⏎  ⏎ "So much time was spent scheduling, putting together tasks, and getting that schedule up. We're literally saving hours a week out of each one of the manager's schedules." — David Adjey, Owner at BOUFFE by Adjey
+r17c1: ROI statistics
+r17c2: Restaurants who use 7shifts: ⏎ - Save 79 hours and $2,100 per month using 7shifts’ full suite of tools ⏎ - Save over $2,100 per month using 7shifts' full suite of tools ⏎ - Save 14 hours per month scheduling ⏎ - Save $1,045 per month in overtime pay ⏎ - Increase employee retention by 13% ⏎  ⏎ Trusted by 50,000 restaurants and over 1.5 million restaurant professionals ⏎ 7shifts has an average score of 4.7 out of 5, based on over 16,000 reviews from multiple platforms
+r18c1: Related case studies
+r18c2: - How Andolini’s Uses 7shifts To Help Schedule With Empathy ⏎ - How gusto! Simplified Payroll and Stays Engaged With Their Team ⏎ - How Chatime Canada Conquered Spreadsheet Mountain
+r19c1: Marketing collateral
+r19c2: Restaurants who use 7shifts: ⏎ - Save 79 hours and $2,100 per month using 7shifts’ full suite of tools ⏎ - Save over $2,100 per month using 7shifts' full suite of tools ⏎ - Save 14 hours per month scheduling ⏎ - Save $1,045 per month in overtime pay ⏎ - Increase employee retention by 13% ⏎  ⏎ Trusted by 50,000 restaurants and over 1.5 million restaurant professionals ⏎ 7shifts has an average score of 4.7 out of 5, based on over 16,000 reviews from multiple platforms ⏎  ⏎ 7shifts Customer-Facing Statistics
+r20c1: Video assets
+r20c2: 7shifts overview https://www.youtube.com/watch?v=2i5e9tfqQBI&ab_channel=7shifts
+r21c1: Market & competitive analysis
+r21c2: Market & category research: https://docs.google.com/presentation/d/19gnd3gVj0yPbXcmp0oZvrW5tZ48S4J6TSFBBBGiCv_M/edit#slide=id.g27a78355628_0_65 ⏎ Competitor analysis: https://docs.google.com/presentation/d/19gnd3gVj0yPbXcmp0oZvrW5tZ48S4J6TSFBBBGiCv_M/edit#slide=id.g28c7e6d1a5f_0_0
+
+==========================================================================================
+SHEET: Scheduling Value Props (WIP)
+==========================================================================================
+r1c1: Product name: Scheduling
+r2c1: Description
+r2c2: Easy to use and built exclusively for restaurants, 7shifts’ Scheduling simplifies time-consuming and difficult-to-manage processes. Restaurant managers can quickly build schedules and make changes on the go, while employees can update their availability and swap shifts through a free mobile app.
+r3c1: Positioning statement
+r3c2: For QSR and FSR looking for an efficient way to manage their team's schedule, 7shifts' Scheduling product helps you and your team save time, stay accountable, and prevent over- or under-staffing. Unlike Homebase, Deputy, and Sling, our product is easy to use, integrates with your tech stack, and is restaurant-specific.
+r4c1: Ideal Customer Profile (ICP)
+r4c2: SMB restaurants, 1-2 locations, 1-50 employees
+r5c1: Core product's key pain points
+r5c2: - Manual process causing too much time spent building schedules that take labor goals and team's availability into account  ⏎ - Manual process causing too much time spent updating schedules when team's availability changes ⏎ - Not having a detailed schedule audit/history (especially when there are multiple managers) ⏎ - Lack of automation in building a schedule ⏎ - Lack if supporting integrations with other software
+r6c1: Core product's key benefits
+r6c2: Optimize your restaurant's efficiency and profitability by saving time, reducing labor costs, and increasing your team’s accountability by simplifying your complex scheduling processes. ⏎ - Save time: Put more time back in your workday creating and managing your schedules ⏎ - Reduce $1000s in labor costs each year: Automatically forecast sales and labor projections to build more accurate schedules and avoid over- or under-staffing ⏎ - Increase team accountability: Make schedule changes from anywhere to keep your entire team up-to-date—staff get automatic reminders about upcoming shifts to help increase accountability ⏎ - Save money: Make stronger, more informed business decisions using data & insights to drive significant cost savings ⏎ - Increase team satisfaction: Your staff will be pleased that they can easily offer up shifts and submit availability to keep your schedules more accurate
+r7c1: ⭐ Core value props
+r7c2: ⭐ Automate manual processes ⏎ - Stop spending hours each week manually building schedules. Automating your time-consuming scheduling tasks gives you back time in your day and ensures your team always has the most up-to-date schedule ⏎  ⏎ ⭐ Cut expensive labor costs  ⏎ - Labor, food, and operating costs continue to rise, making running a restaurant even more challenging. Avoid costly compliance fees with automatic scheduling warnings and ensure you're always scheduling the right amount of staff with accurate sales & labor projections.
+r8c1: PMM owner
+r8c2: Corina Lee
+r9c1: Feature name
+r9c2: Feature description
+r9c3: Customer pain points
+r9c4: Customer benefits
+r9c5: Value proposition
+r10c1: Sales Forecasting & Labor Budgeting
+r10c2: A group of tools that forecast your sales, predict your staffing needs, and identify when you're not scheduling effectively.
+r10c3: Manual forecasting and budgeting is time consuming and hard to get right, leading to:  ⏎ - Overstaffing causing increased labor costs ⏎ - Understaffing causing an overworked team that's more likely to quit
+r10c4: - Save time by forecasting and budgeting faster ⏎ - Save money by setting accurate budgets you can hit ⏎ - Help retain top talent by staffing your restaurant correctly
+r10c5: Stop overspending on labor. Stay within budget by scheduling based on accurate sales and labor forecasts.
+r11c1: Scheduling Automation
+r11c2: Efficiently organizes and manages tasks,  to streamline workflows and optimize productivity for businesses.
+r11c3: -
+r11c4: Streamline workflows and optimize productivity for businesses. ⏎ Streamline tasks, freeing up time
+r11c5: EXAMPLES ⏎ You'll stop wasting time doing repetitive tasks that are easy to automate ⏎ Your team can stop putting off decisions while they wait for metrics ⏎ Your team can stop missing deadlines due to lack of visibility into other team members' work
+r12c1: Advanced Scheduling
+r12c2: High-performance scheduling capabilities for greater versality and functionality
+r12c3: -
+r13c1: Basic Scheduling
+r13c2: The fundamental tools you need to create and manage your restaurant's schedules
+r13c3: -
+r14c1: Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r14c2: Subfeature description
+r14c3: Customer pain points
+r14c4: Customer benefits
+r14c5: Value proposition
+r15c1: Labor Budget Tool ⏎ Sales Forecasting & Labor Budgeting
+r15c2: A built-in tool on the schedule that compares your labor costs to your labor budgets. As you start scheduling your staff, the Labor Budget Tool calculates your labor costs and updates in real-time to show you how much of your sales are allotted to labor.
+r15c3: There's many variables that go into creating labor targets you can hit, which is the metric restaurants use to help stay profitable. Inaccurate targets day over day leads to:  ⏎ - Overstaffing causing increased labor costs ⏎ - Understaffing causing missed sales and unhappy employees
+r15c4: - Money saved from hitting labor targets ⏎ - Maximize sales from being staffed appropriately  ⏎ - Happier employees who don't feel overworked, therefore they're less likely to quit
+r15c5: Stop wasting money missing labor targets. Build cost effective schedules by understanding how and where you're spending on labor.
+r16c1: Optimal Labor Tool ⏎ Sales Forecasting & Labor Budgeting
+r16c2: A built-in tool on the schedule that gives 15-minute interval recommendations for how much labor you need. The visual graph highlights the times of day when you've scheduled too many staff or not enough, so you can adjust accordingly.
+r16c3: Managers/operators don't feel confident knowing how many people to schedule, at what time. Then, floor management makes decisions about who to cut and when based on feeling, because they don't have the data. Both scenarios lead to: ⏎ - Overstaffing causing increased labor costs ⏎ - Understaffing causing missed sales and unhappy employees
+r16c4: Managers and operators are equipped with data to schedule and cut labor effectively, leading to: ⏎ - Money saved from hitting labor targets ⏎ - Maximized sales from being staffed appropriately  ⏎ - Happier employees who don't feel overworked, therefore they're less likely to quit
+r16c5: Stop scheduling labor on a whim. Hit your labor targets by using data-backed insights to schedule the right amount of people at the right time.
+r17c1: Department-Based Budgeting ⏎ Budgeting & Sales Forecasting
+r17c2: Plan and budget each department independently with sales data pulled from your POS ⏎  ⏎ (Note: This feature is only available with a supported Actual Sales POS Integration)
+r17c3: - Can't control sales and projections of each department independently  ⏎ - From pen and paper: Very time consuming conducting projections of departments
+r17c4: - Efficiently plan and budget for each department independently with sales data from the POS, ensuring accurate labor projections, cost control, and preventing understaffing or overworking ⏎ - You can rest assured that managers can make the best scheduling decisions to avoid as many of those difficult, in-the-moment choices as possible. ⏎ - Control how your sales divide and projections are calculated for by each Department
+r18c1: Basic Budgeting Tool ⏎ Budgeting & Sales Forecasting
+r18c2: View daily and weekly totals of hours scheduled and labor costs
+r19c1: Schedule Templates ⏎ Scheduling Automation
+r19c2: Create your schedule in seconds with pre-built schedule templates
+r19c3: - Frustrated with how long it takes to build a schedule
+r19c4: - Template will automatically schedule employees into the shift time, while working around approved availability and time off ⏎ - Quickly choose from prior templates ⏎ - Make as many new templates as you need ⏎ - Turn previous published schedules into a new template you can reuse in the future ⏎  ⏎ Create templates for your schedules that automatically factor in availability, time-off, overtime, and labor compliance. ⏎  ⏎ - Saves time and effort by providing a pre-designed framework that can be quickly adjusted instead of starting from scratch. ⏎ - Reduces the risk of errors as templates are pre-created and typically include standard content that has been created by _____ ⏎ - Simplifies tasks for users who may not be experts in this area ⏎ - Makes it easier to reproduce schedules simliar....... ⏎ - Create schedule templates that can be tailored to specific needs without altering the fundamental structure ⏎ - Helps training new managers by providing standard schedules they can utilize
+r19c5: Save time strategizing the amount of coverage you need in a week ⏎  ⏎ Build the blueprint for your perfect schedule by blueprinting your restaurant's shift and employees needs, you can create perfect schedules in a single click—creating weeks worth of schedules in a few seconds.
+r20c1: Quick Fix / Fix Warnings ⏎ Scheduling Automation
+r20c2: Detect shift warnings like ______ on the schedule before you publich to ensure your resstaurant stays compliant.
+r20c3: As you create your schedule, it's possible for a few labor and compliance warnings to be detected.
+r20c4: - Easily assist to correct these ______ issues, ensuring your schedule remains compliant ⏎ - If there're issues detected in the new schedule that was generated, Quick Fix will automatically be prompted to assist ⏎ - Surface shifts warnings (Labor Exceptions, Conflicts, Overtime, Unassigned Shifts), which _____
+r20c5: Avoid having labor and compliance ____. Automatically detect those warnings before publishing your wchedules to correct these issues to ensure your schedule is compliant, keeping labor costs down.
+r21c1: Auto-Scheduler ⏎ Scheduling Automation
+r21c2: Create labor-accurate schedule in one click, based on your labor targets and project sales
+r21c3: - Frustrated with the amount of time needed to create an accurate schedule
+r21c4: - Create the optimal schedule based on labor budget and past schedules ⏎ - Save time on manually creating new schedules
+r21c5: In just one-click, create labor-optimal schedules with 95% accuracy and eliminate time spent on creating your schedules
+r22c1: Schedule by Dayparts ⏎ Advanced Scheduling
+r22c2: Divide your days into daypart timeframes to improve operational efficiency (ex. AM/PM, Breakfast/Lunch/Dinner)
+r22c3: From Comp: Frustrated with the lack of schedule customization ⏎  ⏎ From pen and paper: not having the right coverage for particular times of the day
+r22c4: - Able to see how their daily schedule looks like based on the time of day ⏎ - Can filter employees by day parts ⏎ - Easy to visualize how much coverage there is at any part of the day
+r22c5: - Helps prevent over and under-staffing ⏎ - Can budget more accurately
+r22c6: Easily separate you schedule by Dayparts (time slots such as Breakfast, Lunch & Dinner) to ensure your day is covered.
+r23c1: Stations ⏎ Advanced Scheduling
+r24c1: Events / Event Management ⏎ Advanced Scheduling
+r24c2: Add events to ensure you're properly staffed and keep your team informed of upcoming activities
+r24c3: - Stressed about understaffing on busy nights
+r24c4: - Conveniently view events alongside your schedule
+r24c5: - Managers can schedule the right number of staff on busy nights
+r25c1: Account-Wide Shift Pool ⏎ Advanced Scheduling
+r25c2: Find staff across all your locations to cover last-minute absences and fill open shifts with ease
+r26c1: Weather Forcasting ⏎ Advanced Scheduling
+r26c2: See daily local weather forecasts displayed directly on the schedule while you're building it
+r26c3: - Stressed about over- or understaffing due to the effect weather factors have on restaurant sales
+r26c4: - See weather forecast incorporated into your schedule
+r26c5: Create more accurate schedules by having the weather forecast easily accessible when building your schedule. ⏎  ⏎ Saving money from over or under-staffing.
+r27c1: Copying Schedules ⏎ Advanced Scheduling
+r28c1: Time Off Management ⏎ Advanced Scheduling
+r29c1: Find Who's Available ⏎ Basic Scheduling
+r30c1: Shift Notes ⏎ Basic Scheduling
+r30c2: Ditch the paper trail and missed information by leaving your team notes when you create their shift
+r31c1: Paid Time Off ⏎ Basic Scheduling
+r32c1: Availability & Time Off Requests ⏎ Basic Scheduling
+r32c2: Track approved hours for Paid Time Off & Sick Paid Time off for Scheduling & Payroll purposes ⏎  ⏎ Avail & TORequsts: Add customer availability reasons and allow employees to submit requests
+r32c3: - Overwhelmed by having to refer to multiple documents, emails, texts, etc. to find out who can work when
+r32c4: - Can easily view when an employee is not available to work due to conflict with school, other job, or another activity ⏎  ⏎ - Can easily approve and view time off requests from employees ⏎  ⏎ Manage all time off requests from the web or on-the-go on the mobile app.
+r32c5: - Improve employee experience by ensuring their timeoff requests are approved/ unapproved in a timely manner ⏎ - Ensuring time off is recorded in a timely manner can allow all managers to build schedules that take into account timeoff
+r33c1: Shift Pool ⏎ Basic Scheduling
+r33c2: Find who on your team can cover last-minute absences and fill open shifts with ease
+r33c3: - Frustrated with having to manually update and move shifts around when employees are absent or want to trade shifts
+r33c4: - Employees can drop their shifts into an open pool and allow for other employees to bid on shifts ⏎ - Automation ensure key information about that shift moves to the new person working it ⏎  ⏎ Empower your employees to adjust their own schedule by trading or offering up their shifts.
+r33c5: - Save time from managers being the middle man to cut down and streamline communication  ⏎ - Potential shift issues are more likely to work out in advance as staff can easily view open shifts and can communicate in one place ⏎  ⏎ With Shift Pool, managers get less last-minute phone calls but can still monitor and approve all changes, its a win-win!
+r34c1: Smaller Subfeature name ⏎ List smaller subfeatures in order of importnace and list the feature it's related to
+r34c2: Smaller Subfeature description
+r34c3: Customer pain points
+r34c4: Customer benefits
+r34c5: Value proposition
+r35c1: Schedule by Stations ⏎ Stations
+r35c2: Break down roles into stations for better labor management. Example: Server (station 1), Server (station 2).
+r35c3: From Comp: Frustrated with the lack of schedule customization ⏎  ⏎ From pen and paper: Miscommunications can occur when employee's stations are changed
+r35c4: - Be able to create custom stations to assign your employees  ⏎ - Allow your employees to easily see which area or section they will be working at during their shift so they can better prepared for their shift
+r35c5: - Staff go into the shift knowing where they are, so they're more prepared to start right when they clock in. ⏎ - Faster and easier for managers to communicate changes to staff ⏎ - Managers can more easily identify coverage issues between stations
+r35c6: With custom stations, you'll be able to assign employees to a specific area of your restaurant in addition to the role they are scheduled. Employees will be able to see their assigned station in their schedule, so all team members get to where they need to be.
+r36c1: Customer Section/Station Naming ⏎ Advanced Scheduling
+r36c2: Break down roles into stations for better labor management. Example: Server (station 1), Server (station 2)
+r37c1: Availability Approvals ⏎ Availability & Time Off Requests
+r37c2: Give Managers the ability to approve or decline the availability by the staff
+r37c3: Lack of awarness and transparancy around availability, casusing fruastration among Managers and Employees: ⏎ - Managers can't review the availability requests submitted by employees  ⏎ - Employees don't know if their availability is approved or not, and why
+r37c4: - Can easily view and approve when an employee is not available to work due to conflict with school, other job, or another activity ⏎ - Can add a comment why availability isn't approved ⏎ - Email notifications are sent to admins/managers to ensure submissions aren't missed ⏎ - See an overview of everyone's submitted availability
+r37c5: Saving time from having to communicate with staff about their availability approval status.  ⏎  ⏎ Avoid being understaffed by making better approval decisions
+r38c1: Paid Time Off ⏎ Availability & Time Off Requests
+r38c2: Track approved hours for Paid Time Off & Sick Paid Time Off for scheduking and payroll purposes
+r39c1: Additional Resources
+r40c1: Testimonials
+r40c2: “Using 7shifts is one of the best decisions our company has ever made! It makes us more efficient and more organized. Our employees love it because they have constant access to their schedules. From a management perspective we have gotten rid of all paper in regards to scheduling. All the great features can't be explained in one review.” — Cameron McNie, Company Administrator at Hawaiian Time ⏎  ⏎ “Now that we've integrated [our POS] with 7shifts, we're getting even more out of it—managing and controlling our labor costs has never been easier.” — Barry Lowenthal, Owner at The Brass Tap ⏎  ⏎ "We've become a profitable organization since using 7shifts - literally, we increased our profitability. 7shifts tells you if you publish that planned shift, you will lose money, but if you optimize that specific date and specific hours you will decrease your employee cost and you will close the week profitable. That's incredibly helpful, and without the right technology in place it's impossible to estimate that. I don't see that any company offers such a powerful feature." - Erhan Seven, Owner of The Factory Girl in Berlin/Amsterdam
+r41c1: ROI statistics
+r41c2: - Restaurants who use 7shifts save 14 hours per month scheduling ⏎ - 70% of customers say 7shifts helps them reduce labor costs
+r42c1: Related case studies
+r43c1: Marketing collateral
+r44c1: Video assets
+r45c1: Market & competitive analysis
+
+==========================================================================================
+SHEET: Time Clocking Positioning 
+==========================================================================================
+r1c1: Owner: Emily Brazill
+r2c1: Squad: LabCom
+r4c1: Time Clocking
+r5c1: Value Proposition
+r5c2: A restaurant time and attendance solution created to cut your labor costs, stay compliant and streamline your payroll process.
+r6c1: Elevator Pitch
+r6c2: Track attendance, stay labor compliant, and sync your data to improve accuracy with our time clocking app. Integrate scheduling, time clocking, and payroll with our all-in-one solution and free 7punches mobile app.
+r7c1: Positioning Statement
+r7c2: For restaurant operators, that need to track and manage labor costs, 7shifts Time Clocking, is a time and attendance solution that helps streamline the restaurant workflow. Unlike, Homebase, WhenIWork, Excel, HotSchedules and toast our product is restaurant focused and easy to use. ⏎  ⏎ For restaurant operators that track and manage labor costs, 7shifts Time Clocking is a time and attendance solution that helps restaurants stay labor-compliant and streamline downstream workflows like payroll.
+r8c1: Long Description
+r8c2: Save time and stay compliant with 7shifts Time Clocking and manage everything on the go with our companion app 7punches. Through our compliance, reporting, and punch management features, 7shifts is the source of truth for your labor data, allowing you to focus on running your restaurant.
+r9c1: Positioning our product/feature  ⏎ How are we positioning our product/feature this way? Why?
+r9c2: 7shifts Time Clocking is our recommended solution. By bringing your restaurant processes under one roof, your labor data will be accurate, compliant and easy to manage. ⏎ Not a fit? No problem, we have many time clocking integrations options you can explore.
+r10c1: COMPLETE THE FOLLOWING SECTIONS BELOW FIRST
+r11c1: Market Category ⏎ The macro market (and submarket as applicable) that your product competes in
+r11c2: Time and attendance management for restaurants
+r12c1: Competitive Alternatives ⏎ If we didn’t exist, what would a customer do?
+r12c2: They would use time-clocking on their POS, payroll solution or potentially use the honor system with paper timesheets.
+r13c1: Competitive Positioning  ⏎ How is the market positioning their product?
+r13c2: Effortless Time Tracking For Your Business. "Competitors" simplify time tracking so you can focus on what matters: running your business.
+r14c1: Target ICP  ⏎ Who is our ideal customer profile? Who cares a lot about this product?
+r14c2: Restaurant manager, owner, or operator that oversee 16-75 employees per location ⏎  ⏎ “"From our perspective, 7shifts literally cuts down 5-10 hours a week of admin time, while also providing us a convenient, central location for communication with staff, basic HR data, etc. We use the free 7punches app to track time punches, which also has some nifty features that help us manage labor costs and keep better tabs on things like lateness."” Geral Coles - Prairie Dog
+r15c1: Pain Points
+r15c2: Difficulty accurately tracking and reviewing labor data, employee time theft, struggles staying legally compliant with evolving labor laws, real-time visibility into current labor and overtime costs, time spent in disparate systems to undedrstand how labor costs track against sales revenue
+r16c1: PRODUCT DIFFERENTIATORS ⏎ Product differentiators are the characteristics that make a product stand out while also solving the previously identified pain point.
+r17c1: Unique Attributes ⏎ Features that make us different
+r17c2: Restaurant-focused
+r17c5: Simple, all-in-one
+r17c8: Labor cost & compliance
+r17c11: Free mobile app
+r18c1: ⭐ Differentiated Value ⏎ What is the benefit/value that makes us different? Translate your unique attributes to value by asking repeatedly, "So what? Why does this matter to my custoer and their business?"
+r18c2: Built specifically for busy restaurant managers, Time Clocking makes manual tasks like tip management and payroll a lot faster by automating calculations and pulling in data for you. ⏎  ⏎ Our native 7punches integrated mobile app was designed for restaurant workers, so they have access to their time and attendance data wherever and whenever they need it.
+r18c5: Use one platform to manage time clocking and scheduling. Reduce stress knowing your employees are punching in properly. ⏎  ⏎ Save time going between multiple tools to compare time punches against scheduled hours to spot anomalies or review your labor budget. ⏎  ⏎ 7shifts syncs data between scheduling, time clocking, and payroll to make managing your labor a breeze.
+r18c8: Ability to reduce unbudgeted labor costs and compliance fees with overtime and break alerts. 7shifts helps customers surface an average of $589 in labor infractions per month.  ⏎  ⏎ Track missed clock-ins at the beginning or end of shifts and use punch audit reports to view any modifications made to staff timesheets.
+r18c11: Employees like clocking in on with 7shifts' time clocking app 7punches, because they can do it quickly on their mobile device (or from the team's shared tablet). It's an easy and convenient way to start a shift.
+r19c1: Differentiated Value Theme ⏎ Cluster yor differentiated value points into 1-3 value themes. People can’t remember 15 things, they can only remember 2-3 things.
+r19c2: - Accuracy ⏎ - Time & cost savings ⏎ - Tip management accuracy ⏎ - Reduce tech stack
+r19c5: - Reduce tech stack ⏎ - Simplify restaurant workflow ⏎ - Labor cost savings ⏎ - Increase employee retention by reducing labor & pay errors
+r19c8: - Avoid costly legal fees in your restaurant's jurisdiction ⏎ - Prevent high overtime costs and stay on budget
+r19c11: - Convenience ⏎ - Simplified employee experience
+r20c1: Differentiated Level ⏎ How differerent is this from alternatives?
+r20c2: High
+r20c5: High
+r20c8: High
+r20c11: High
+r21c1: Proof Points / Reasons to Believe
+r21c2: Restaurants that use 7shifts' Time Clocking to track labor save $2,000 per month on time thefts and payroll errors.
+r22c1: ADDITIONAL RESOURCES
+r23c2: Link any additional resources here.
+r32c3: over limit
+r32c4: use features
+r33c3: over limit
+r33c4: don't use feautres
+r34c3: under
+r34c4: use
+r35c3: under
+r35c4: dont use
+
+==========================================================================================
+SHEET: Time Clocking Value Props
+==========================================================================================
+r1c1: Product name: Time Clocking
+r2c1: Description
+r2c2: As the single source of truth for your labor data, save time and simplify time & attendance management with 7shifts' Time Clocking, equipped with built-in labor compliance tools to avoid costly fees.
+r3c1: Positioning statement
+r3c2: Save time and stay compliant with 7shifts Time Clocking. Through our compliance, cost management, and punch management features, 7shifts is be the source of truth for your labor data, allowing you to focus on running your restaurant while maintaining compliance with state and federal labor laws and simplify your payroll.
+r4c1: Ideal Customer Profile (ICP)
+r4c2: 1 -4 locations, 10 - 50 employees who don't have a Toast POS
+r5c1: Core product's key pain points
+r5c2: Inaccurate Time Tracking: Manual entry increases the risk of errors in recording employee hours, leading to discrepancies in payroll and potential disputes. ⏎ Time Theft and Buddy Punching: Without automated systems, it's easier for employees to clock in or out for each other, resulting in inaccurate labor cost tracking. ⏎ Compliance Risks: Manually managing time clocking makes it challenging to stay compliant with labor laws and regulations, such as break times and overtime, increasing the risk of fines and legal issues. ⏎ Administrative Burden: Manual time tracking requires significant administrative effort for data entry, verification, and correction, consuming valuable time that could be spent on other operational tasks. ⏎ Difficulty in Reporting: Generating accurate reports for payroll, labor costs, and compliance audits is more challenging and time-consuming without automated systems, leading to inefficiencies and potential errors.
+r6c1: Core product's key benefits
+r6c2: Easily keep track of your team's hours, ensure only scheduled staff can clock in, enforce breaks to stay compliant, and sync your timesheets to your payroll. ⏎  ⏎ - Save $100s in unbudgeted labor: Increase punch accuracy and prevent your restaurant from paying unbudgeted labor by only allowing staff who are scheduled to work to clock-in. ⏎ - Save money and remain compliant: With built-in compliance tools, be proactively labor compliant and avoid costly compliance fees. ⏎ - Save time from manual work: Automatically set shift flags and document late/sick/missed shifts, and adjust punches to reduce manual labor and save time. ⏎ - Reduce errors: Reduce costly punch inaccuracies or mistakes, eliminate payroll errors, and increase profitability by allowing only staff who are scheduled to work and on-site clock in. ⏎ - Gain peace of mind: Get that added sense of security to ensure you’re not making any mistakes that could cost you thousands of dollars if an employee were to ever pursue legal action—it’s the best peace of mind you can have.
+r7c1: ⭐ Core value props
+r7c2: - Stop making last-minute changes extending shifts or cutting shifts early. Improve your labor targets and build more effective schedules by bringing together time clocking and scheduling in one place—audit and make edits to what was scheduled vs. actuals so you can avoid unplanned labor cost changes. ⏎  ⏎ - Eliminate unbudgeted labor costs from time theft and payroll errors. Increase punch accuracy and prevent your restaurant from overpaying up to $2,000 in labor costs each month by only allowing staff who are scheduled to work to clock in.  ⏎  ⏎ - Avoid errors and inaccuracies with staff clocking in and out to prevent payroll discrepancies and potential disputes. Gain hours back in your workday by automating employee time tracking, ensuring accurate records, and streamlining payroll processing.  ⏎  ⏎ - Avoid costly compliance fees within your restaurant’s jurisdiction. Proactively stay labor compliant by accurately tracking employee hours and adhering to labor laws & regulations. 7shifts helps customers surface an average of $589 in labor infractions per month. ⏎  ⏎ - Time clocking and payroll mistakes could cost you thousands of dollars in legal action. Get added sense of security to ensure you’re not making any errors with automated reports synced directly from your POS and payroll.
+r8c1: PMM owner
+r8c2: Shanelle Holder
+r9c1: Feature name
+r9c2: Feature description
+r9c3: Customer pain points
+r9c4: Customer benefits
+r9c5: Value proposition
+r10c1: Labor Compliance
+r10c2: Built-in labor compliance tools to stay ahead of dozens of labor laws and keep you on track, no matter which region you operate in
+r10c3: Not being compliant with labor can lead to  ⏎ - Fines ⏎ - Low employee sentiment ⏎ - Turnover
+r10c4: - Save money by ensuring you're compliant with labor laws  ⏎ - Reduce employee turnover by maintaining compliance with labor laws and making sure your employees are paid correctly
+r10c5: Don't get caught out violating labor laws. Comply and avoid costly compliance fees using 7shifts as your source of truth for labor
+r11c1: Labor Cost Management
+r11c2: Keep tabs on and understand how much you're paying in labor. Avoid both under and over-paying employees.
+r11c3: Without managing labor costs you could end up ⏎ - Overpaying your employees or ⏎ - Underpaying your employees leading to turnover
+r11c4: - Save money by not worrying about over or underpaying employees
+r11c5: Don't worry about having to spend time managing your labor costs. 7shifts labor cost management features make it easy to ensure that you're spending exactly what you need to be
+r12c1: Break Management
+r12c2: Manage the breaks your employees can take, both scheduled and not on the schedule
+r12c3: Not accurately managing breaks can lead to ⏎ - Compliance fines ⏎ - Employees' stealing time
+r12c4: - Save money by ensuring you're compliant with break regulations ⏎ - Save money by ensuring your employees aren't taking advantage of breaks
+r12c5: Keep track of your employees' breaks and make sure the breaks are in compliance with labor laws
+r13c1: Time Tracking
+r13c2: Track your employees' time punches via 7punches or POS integrations, including compliance areas like attestations
+r13c3: Without accurate time tracking ⏎ - Pay will be wrong ⏎ - Can lead to compliance fines ⏎ - Can lead to turnover
+r13c4: - Save time by tracking your employees' time in one place
+r13c5: Time tracking in 7shifts gives you piece of mind that your employees are working the hours they're scheduled to, and that the time clocking data feeding into your payroll is correct
+r14c1: Overtime Management
+r14c2: Control how overtime is captured and applied across your employee's time punches and pay periods
+r14c3: Manually, or not at all, managing overtime can lead to  ⏎ - compliance fines ⏎ - over or underpaying employees
+r14c4: - Save money by ensuring you're compliant with overtime regulations, without over or underpaying employees
+r14c5: Keep it simple maintaining accurate overtime wages and alerts with 7shifts overtime management
+r15c1: Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r15c2: Subfeature description
+r15c3: Customer pain points
+r15c4: Customer benefits
+r15c5: Value proposition
+r16c1: Advance Compliance Settings ⏎ Labor Compliance
+r16c2: Adjustable compliance settings based on your location.
+r16c3: Having to ensure your compliance settings are applied manually is time consuming
+r16c5: Set any compliance rules to ensure your employees are working in compliance with the law and your restaurant's rules
+r17c1: Compliance Jurisdiction ⏎ Labor Compliance
+r17c2: future state if we have county/city
+r17c3: Pay and time tracking can be wrong if all labor laws are not accounted for
+r17c5: Save time and money knowing that your being compliant with local compliance rules
+r18c1: State-Based Compliance ⏎ Labor Compliance
+r18c2: Compliance settings that are set based on your State
+r18c3: Can cost money if your not compliant with state laws that can be very specific
+r18c5: Save time and money knowing that you're being compliant with your state's labor laws
+r19c1: Overtime and Break Alerts in the mobile app ⏎ Labor Compliance
+r19c2: Alerts in the mobile app notifiying you when an employee is nearing or in a break or overtime
+r19c3: Can cost money if employees are taking overtime or extra time in breaks
+r19c5: Stop getting caught off guard with breaks and overtime. Mobile alerts keep you on top of your employees' time
+r20c1: Overtime Warnings (while scheduling) ⏎ Labor Compliance
+r20c2: Automated warnings about employees being in overtime if a shift is scheduled
+r20c3: Can cost money if employees are overscheduled and going to be needing overtime before their schedule is published
+r20c5: Make your scheduling simple knowing that you're not putting sometime into overtime when creating a schedule
+r21c1: Compliance Fees ⏎ Labor Compliance
+r21c2: Mechanism in 7shifts to alert you about (exception costs) fees you may be liable for as part of state-based compliance settings as you do a related action in 7shifts
+r21c3: Save time and money not knowing laws you may run afoul of when taking an action in 7shifts
+r21c5: Not too versed in compliance, or simply just doing things quickly? Don't worry about running into exception costs with 7shifts alerts
+r22c1: Employee Document Storage & Certifications ⏎ Labor Compliance
+r22c2: Ability to store and maintain documents/certifications in 7shifts, related to labor laws, payroll, and more
+r22c3: Saves time if documents are stored physically somewhere and need to be maintained
+r22c5: Maintain a single source of truth for your employees' documents. Be prepared and have certifications easily accessible whenever you may need them
+r23c1: Attestation ⏎ Labor Compliance
+r23c2: Tool for employees to attest willingness of not taking meal breaks (specifically in CA)
+r23c3: Can cost money and time if a mechanism isn't in place for an employee to attest to not taking a break
+r23c5: Save money not running into California compliance issues
+r24c1: Schedule Templates ⏎ Scheduling Automation
+r24c2: Templates to set schedules without having to recreate them
+r24c3: Saves time for not having to recreate schedules that are the same
+r24c5: Save time by easily recreating schedules without having to do it step by step
+r25c1: Quick Fix / Fix Warnings ⏎ Scheduling Automation
+r25c2: Automated fixing of any warnings that may pop up in the process of creating a schedule
+r25c3: Saves time without having to manually go and fix errors when creating a schedule
+r25c5: Save time by automatically having any warnings fixed when you're creating a schedule
+r26c1: Auto-Scheduler ⏎ Scheduling Automation
+r26c2: Using availability to set schedules automaticallly
+r26c3: Saves time having to constantly create schedules
+r26c5: Save time using an auto-scheduler to create your schedules for you
+r27c1: Schedule Enforcement ⏎ Labor Cost Management
+r27c2: compare punches against scheduled shifts and grace period to block any overtime. alert with manager approval or wait
+r27c3: Saves time and money if schedules are over-worked and have large variances
+r27c5: Don't run afoul of compliance or even your own rules by setting up rules to enforce your restaurant's schedules and time tracking
+r28c1: Buddy Punch Prevention ⏎ Labor Cost Management
+r28c2: Prevent 3rd parties from punching in for an employee trying to punch in on time/per the schedule
+r28c3: Saves money if a 3rd party punches in early for an employee to make their shift on time
+r28c5: Make sure you're guarding your time by preventing 3rd parties punching in on behalf of your employees
+r29c1: Geofencing ⏎ Labor Cost Management
+r29c2: Set a specific radius around your restaurant, outside of which an employee can not punch in or out
+r29c3: Saves money if an employee is punching in when they're not onsite
+r29c5: Don't lose your time to employees punching in not when not on-site
+r30c1: Alerts for Missing Punches ⏎ Labor Cost Management
+r30c2: push notification comparing schedule and time clocking and alerts if scheduled shifts without time-punch 1 hr after scheduled start
+r30c3: Saves money and time identifying missing punches before processing payroll leading to  ⏎ - errors in pay ⏎ - compliance issues
+r30c5: Don't get caught out missing punches prepping for payroll. Alerts will make sure that all punches are accounted for
+r31c1: Employee Approval of Time Punches ⏎ Labor Cost Management
+r31c2: emp. attestation to say my hours are correct
+r31c3: Saves money and time disputing and reviewing punches with employees can lead to  ⏎ - incorrect pay ⏎ - compliance issues
+r31c5: Ensure you and your employees are on the same page about their hours. Employee Approval of TIme Punches, gives them a way of working with you to ensure their hours are correct
+r32c1: Declare Tips ⏎ Labor Cost Management
+r32c2: Upon punching out, the ability for employees to declare their tips for the specific shift
+r32c3: Saves time without having to track down tips earned by an employee  ⏎ - manual data entry
+r32c5: Have your employees declare their tips when punching out to save you time and money when calculating tips and payroll
+r33c1: Wage-Based Roles ⏎ Labor Cost Management
+r33c2: Setting up roles based on specific wages
+r33c3: Not having this ability leads to more work to maintain a role at a certain wage
+r33c5: Save time creating new roles by setting wages against them
+r34c1: 7punches / Mobile punch ⏎ Time Tracking
+r34c2: 7shifts own time clock app where employees can clock in and out, whether on a central iPad or their mobile phones
+r34c3: Saves time and money with a time clock that is accessible to employees ⏎ - lack of connection to other tech stack leads to more manual data entry
+r34c5: 7shifts becomes your source of truth for punch data by connecting to the rest of the app, saving you time by managing your labor in one place. Bonus, employees can punch from their own app if you choose!
+r35c1: Time Punch Editing ⏎ Time Tracking
+r35c2: Edit time punches when you are reviewing pay periods
+r35c3: Save money editing errors in time punches
+r35c5: Keep peace of mind knowing you can edit time punches to ensure your payroll data is correct
+r36c1: Auto Shift Flags ⏎ Time Tracking
+r36c2: Flags appearing when a shift has been auto created
+r37c1: Overtime Warnings & Alerts ⏎ Overtime Management
+r37c2: Warnings/Alerts when employees are approaching or in overtime
+r37c3: Employees going into overtime costs money
+r37c5: Save money by setting up alerts so that you know when an employee is either approaching or in overtime
+r38c1: Smaller Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r38c2: Smaller Subfeature description
+r38c3: Customer pain points
+r38c4: Customer benefits
+r38c5: Value proposition
+r39c1: Early Punch-In Prevention ⏎ Schedule Enforcement
+r39c2: Set a time window before an employees shift before which they can't punch in
+r39c5: Save money by limiting how early your employees can punch in
+r40c1: Paid & Unpaid Breaks ⏎ Break Management
+r40c2: The ability to set paid and unpaid breaks
+r40c5: Stay compliant by setting up breaks as required for your employees
+r41c1: Custom Breaks ⏎ Break Management
+r41c2: Create custom breaks for your employees to assign while taking a break
+r42c1: Multiple Breaks ⏎ Break Management
+r42c2: The ability to take multiple breaks on a shift
+r43c1: Break Alerts ⏎ Break Management
+r43c2: Alerts for breaks relating to when employees are taking their breaks, having been on break too long, or not taken a break
+r43c5: Save money by setting up alerts so that you know when an employee is either approaching or taking a break
+r44c1: Employee Timesheet Access ⏎ Ensure time entries are correct
+r44c2: Ability for employees to view their own time sheets after clocking out
+r44c5: Save time by allowing employees to review their own timesheets
+r45c1: Overtime Calculations ⏎ Overtime Warnings & Alerts
+r45c2: Calculate overtime payments based on overtime wage set
+r45c5: Avoid manual calculations and save time with overtime calculations done for you
+r46c1: Additional Resources
+r47c1: Testimonials
+r47c2: “If an employee works over 6 hours, they get a 30-minute break. They also get 10 minute paid breaks after certain hours as well. 7shifts allows us to define that and track it. That for me is the greatest feature.” — Chad Stevens, Owner & Operator at French Truck Coffee ⏎  ⏎ “From our perspective, 7shifts literally cuts down 5-10 hours a week of admin time, while also providing us a convenient, central location for communication with staff, basic HR data, etc. We use the free 7punches app to track time punches, which also has some nifty features that help us manage labor costs and keep better tabs on things like lateness.” — Gerad C., Owner and Founder at Prairie Dog Brewing ⏎  ⏎ “My favorite part [of 7shifts] is the companion 7punches app which allows my employees to clock in using a smartphone or tablet at the restaurant location. No more adding up hours by hand when it is time for payroll." — Richard Patella, Vincenzo’s
+r48c1: ROI statistics
+r48c2: - Restaurants that use 7shifts for time tracking save $2,000 per month on time theft and payroll errors ⏎ - Through Schedule Enforcement (geofencing, buddy punch prevention, advanced time clocking/compliance), restaurants who use 7shifts save $508 per month in unbudgeted labor ⏎ - 7shifts helps customers surface an average of $589 in labor infractions per month ⏎ - Restaurants who use 7shifts save 12 hours per month managing labor compliance
+r49c1: Related case studies
+r50c1: Marketing collateral
+r51c1: Video assets
+r52c1: Market & competitive analysis
+
+==========================================================================================
+SHEET: Payroll Value Props
+==========================================================================================
+r1c1: Product name: 7shifts Payroll
+r2c1: Description ⏎ A high level overview of what the product does/how it works.
+r2c2: Short: 7shifts Payroll is an integrated restaurant payroll solution that simplifies pay runs, ensuring teams get paid faster and more accurately. ⏎  ⏎ Long: 7shifts Payroll simplifies payroll management for restaurants by syncing directly to Time Clocking, automating calculations and tax filings. Data is always synced, so your team is paid accurately, on time, and in compliance with labor laws each pay cycle.
+r2c6: 7shifts’ Payroll is a payroll system that gives you onboarding, time clocking, compliance, and payroll all without leaving the app. Setup and run payroll according to the needs of your restaurant.
+r3c1: Positioning statement
+r3c2: For American restaurants, 7shifts Payroll is an embedded payroll software solution that simplifies each pay run to help their teams save time and stay labor-compliant.
+r3c6: For restaurants who want to simplify their payroll process, 7shifts Payroll is a flexible payroll system that is deeply integrated with labor, tips, and onboarding to ensure your employees are paid on time and without issue. A single source of truth across your 7shifts solution so you can save time without worrying about data errors and allowing employees to access their own pay information.
+r4c1: Ideal Customer Profile (ICP)
+r4c2: 1-location restaurants in the US with 10-50+ employees, utilizing Time Clocking (7punches or an integration) in 7shifts
+r5c1: Core product's key pain points ⏎ Illustrates the situation our customers deal with and pinpoints the pain points that situation is causing.
+r5c2: Data Integration Issues ⏎ Manual Data Entry: With multiple systems that don't communicate, restaurant owners often have to manually transfer data between payroll, scheduling, and time-tracking tools, leading to errors and inefficiencies. ⏎ Inconsistent Data: Disparate systems can result in mismatched or outdated information, making it difficult to maintain accurate records across platforms. ⏎  ⏎ Time-Consuming Processes ⏎ Duplicate Efforts: Without integration, tasks like calculating hours worked, managing overtime, and calcuating tips can become repetitive and time-consuming when processing pay runs. ⏎ Delayed Payroll: The extra time required to reconcile data across systems can delay payroll, causing frustration among employees. ⏎  ⏎ Complex Labor Rules ⏎ Regulatory Compliance: Manually ensuring compliance with labor laws, tax regulations, and reporting requirements is harder when data is scattered across different platforms. ⏎ Audit Risk: The lack of a unified system can increase the risk of errors during audits, leading to potential fines and legal issues. ⏎  ⏎ Employee Dissatisfaction ⏎ Payroll Errors: Inaccuracies caused by manual processes or system misalignment can lead to payroll errors, affecting employee satisfaction and trust. ⏎ Lack of Transparency: Employees may find it harder to track their hours, pay, and benefits when data is spread across different systems, leading to frustration ⏎  ⏎ High Cost  ⏎ Multiple Subscriptions: Paying for multiple software solutions can be more expensive than using an integrated system. ⏎ Inefficient Resource Allocation: Time and money spent managing a complex tech stack could be better utilized elsewhere in the business.
+r5c6: - Accuracy and compliance: Manually handling payroll increases the risk of errors in calculations, tax withholdings, and compliance with labor laws, leading to potential penalties and legal issues for businesses. ⏎ - Cost control: Manually managing payroll leads to difficulty tracking labor costs accurately, resulting in overspending. ⏎ - Employee satisfaction: Manually managing payroll can lead to delayed or inaccurate payments, lack of transparency, and administrative errors, resulting in decreased employee satisfaction and trust in your restaurant among staff
+r6c1: Core product's key benefits ⏎ What are the benefits that makes us different? Asking ourselves repeatedly, "So what? Why does this matter to our customer and their business? Why should they care?"
+r6c2: Time savings: Managing the team's schedule, time clocking, attendance and payroll in one place cuts down on time consolidating multiple systems. Automatic labor calculations from Time Clocking sync directly to 7shifts Payroll for speedy processing.  ⏎ Error reduction: Automatic calculations for wages, tips, and PTO reduces manual work and helps pay out employees accurately every time. ⏎ Labor Compliance:  7shifts automatically calculates restaurant teams' earnings based on their jurisdiction's labor laws and takes care of payroll record-keeping.  ⏎ Cost Savings: 7shifts Payroll comes at a low transparent monthly fee, unlike competitors that have hidden fees for off-cycle pay runs, implementation, and onbaording.  ⏎ Accessible Reporting: Restaurants using 7shifts Payroll get access to reports that help them monitor their payroll summaries, keep tabs on labor costs, and compliance with labor laws.  ⏎ Better employee experience: Employees’ lives are easier with a single place for them to onboard and understand their pay.
+r6c6: A single source of truth so you can save time without worrying about data errors and your employees can get paid on time and without issue. ⏎  ⏎ - Save time: Manage employee records including time clocking, attendance, payroll, and more directly in the 7shifts app, rather than managing multiple, complex systems. ⏎ - Increase efficiency: Improve efficiency and accuracy with one platform to house all labor, wage, payroll, tip, and onboarding data. ⏎ - Support your employees’ experience: Make your employees’ lives easier with a single place for them to onboard and understand their pay. ⏎ - Unlock more capabilities: Syncing your data with 7shifts’ Payroll helps manage [get more specific] tips, compliance, and other fees associated with running payroll. ⏎ - Reduce manual work & errors: Automatic tip credit calculations ensure your tipped minimum wage employees' wages are adjusted and employees are paid correctly every time.
+r7c1: ⭐ Core value props ⏎ This incorporates the loss aversion + the benefit gained. Customers need to understand the value of the products but also be reinforced of the problems/challenges they face that they need to overcome.  ⏎  ⏎ These value props are meant to be more detailed and long, so that those who used them can simpify and tweak the copy to what you need them for (e.g., website copy, Sales pitches, etc.)
+r7c2: 7shifts Payroll saves managers time so they can focus on their restaurant, not paperwork. ⏎  ⏎ - Streamlined Payroll Processing: Save time and reduce errors with automatic payroll calculations and tax filings.  ⏎ - Compliance Made Simple: Automatically calculate hours worked, breaks, overtime, PTO and taxes based on your restuarant's federal, state, and local labor laws. ⏎ - Your all-in-one app: 7shifts Payroll syncs directly with Time Clocking to ensure accurate pay calculations and less manual data entry. ⏎ - Help employees self-serve: Your restaurant team gets quick onboarding and easy access to their schedules, pay stubs, and tax forms in one spot.  ⏎ - Affordable and built for restaurants: 7shifts Payroll is designed for restaurant teams with transparent pricing, no hidden fees, and dedicated expert support. ⏎ - Switching is simple: Our team takes care of the heavy-lifting of bringing your previous payroll data over to your new system at no extra cost, so you can focus on running your restaurant
+r7c6: - Save time on your payroll processes by automating, minimizing manual data entry, calculations, and administrative tasks. ⏎  ⏎ - Streamline payroll compliance & accuracy to ensure precise pay calculations and adherence to tax regulations and labor laws, minimize errors, reduce the risk of costly penalties, and provide peace of mind. ⏎  ⏎ - Save time with an all-in-one app that eliminates the need for multiple apps or systems by combining scheduling, time clocking, tips management & payroll into one easy-to-use app, streamlining your operations. ⏎  ⏎ - Make it easy for your employees to have seamless access to schedules, time tracking, pay stubs, and more, saving you time & fostering higher team engagement.
+r8c1: PMM owner
+r8c2: Shanelle Holder
+r9c1: Feature name
+r9c2: Feature description
+r9c3: Customer pain points
+r9c4: Customer benefits
+r9c5: Value proposition
+r10c1: Payroll Processing
+r10c2: 7shifts Payroll simplifes the payroll process for restaurants by automating calculations, tax withholdings, and direct deposits, ensuring accurate and timely payments for the team. Seamlessly integrated with 7shifts Time Clocking, it elimates manual data entry and reduced payroll errors. With compliance rules built with restaurants in mind, automated filings, and a easy-to-use dashboard, you can run payroll in minutes (not hours) giving you more time to focus on managing your restaurant.
+r10c3: - Data living in different systems which takes time to validate and enter into payroll ⏎ - Manual calculations and data entry ⏎ - Complex labor laws impacting restauarant teams ⏎ - Limited time against multiple operational responsibilities ⏎ - Incorrect tax filings which can lead to fines and other compliance issues ⏎ - Poor customer support, often done through 3rd parties leads to frustration and poor experience for the employer
+r10c4: - Consolidated Time Clocking and Payroll systems sync directly to cut down on manual data entry and calculations ⏎ - Automatic labor calculations factor in labor laws unique to your restaurant's set jurisdiction ⏎ - Taxes are filed automatically for your restaurant and payroll records are kept on file  ⏎ - Rest assured that Support is dedicated to helping your payroll issues with the same knowledge and care you expect from 7shifts
+r10c5: Save time and reduce errors with the all-in-one payroll solution built with restaurants in mind. Running payroll couldn't be easier with automatic payroll calculations, tax filings and labor compliance checks.
+r11c1: Tip Integration
+r11c2: Manage your tip data in 7shifts Payroll seamlessly. You can sync your tip pools, your already paid Tip Payouts, and any tipped credit calculations due to tipped minimum wage all in one place and directly to payroll.
+r11c3: - Manual tip pooling takes time to calculate outside of 7shifts and then enter into payroll ⏎ - Tips already paid (outside of payroll) need to be taxed via payroll and without the sync in 7shifts can lead to potentially incorrect tax calculations ⏎ - Manual tip credit calculations can lead to potentially incorrect calculations, taking time and effort
+r11c4: - Save time by removing manual tip calculations from tip pooling, tips already paid, and tip credit calculations ⏎ - Save money by ensuring your tip dollars are both paid to your employees and taxed correctly
+r11c5: Make managing tips simple. Automation through 7shifts Payroll will keep you compliant with taxes and ensure your employees get the tips that are owed to them.
+r12c1: Benefit Management
+r12c2: 7shifts Payroll helps you support your team with accessible and affordable benefits. Easily set up and manage health insurance (SimplyInsured), 401(k) retirement plans (Guideline), and workers' compensation (NEXT Insurance) all within the platform. With seamless payroll deductions and compliance supportm offering benefits to your restaurant team has never been easier -- helping you attract and retain top talent without breaking the bank.
+r12c3: - Having to enter benefits into payroll manually can take time and effort to ensure that the correct amounts are deducted per employee ⏎ - Accessing affordable plans for smaller restarant teams can be difficult
+r12c4: - Save time by minimizing time spent calculating employee benefits that need to be deducted from each payroll run ⏎ - Eliminate headaches of shopping for benefits and aligning them with payroll by connecting to affordable brokers through 7shifts
+r12c5: Simplify Benefits Management with seamless benefits integrations and automated calculations / deductions. Pay your team accurately and on time while offering essential benefits the team loves.
+r13c1: Employee Experience
+r13c2: 7shifts Payroll makes payday stress-free for your team with direct deposit and instant access to pay stubs. New employees can onboard in under 10 minutes by sending our customizable, digital packages. Once set up, employees can track their documents, schedules, earnings and tax forms in one easy-to-use app. With transparency and convenience at their fingertps, your team stays happy and focucsed on what matters most.
+r13c3: - Managing and tracking onboarding forms can be cumbersome and take time to ensure everything is saved in a place where accessible if necessary. There are also some forms/documents that employers want to send to employees that are custom and sometimes needing signatures that are managed separately and outside payroll.  ⏎ - Having to access and provide employee paystubs manually due to lack of employee access to the payroll system also takes time from an employer when they could be using it to run their restaurant
+r13c4: - Time savings: Save time on manually sending, collecting, and organizing physical onboarding documents ⏎ - Simplify processes & documentation: Reduce company's tech stack and keep all onboarding documents in one place ⏎ - Speed up processes: Flexibility as to how employees can fill out the documents will increase the ease and speed of onboarding documents received
+r13c5: Boost employee satisfaction by providing easy access to onboarding, pay stubs, tax forms, and direct deposit -- making payday smooth, transparent, and hassle-free for everyone.
+r14c1: Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r14c2: Subfeature description
+r14c3: Customer pain points
+r14c4: Customer benefits
+r14c5: Value proposition
+r15c1: Automatic Labor, Tips, and Paid Time Off (PTO) Calculations ⏎ Payroll Processing
+r15c2: All your payroll labor data syncs automatically to 7shifts Payroll, removing the need for any manual data entry, including PTO, Tips, and benefits
+r15c3: Manual data entry is time consuming and can lead to: ⏎ - erroneous entries ⏎ - needing to use multiple systems ⏎ - missing data
+r15c4: - Save time processing: With the links to the rest of 7shifts, Payroll pulls in your data automatically for time clocking, tips, PTO and more ⏎ - Source of truth: 7shifts becomes your source of truth for your labor data. You can trust that the information being pulled into 7shifts Payroll is correct ⏎ - No data entry: Skip the manual data entry, removing the possibility of numbers being entered incorrectly
+r15c5: Save time having all of your pay data syncing automatically to payroll. Say goodbye to manual data entry and calculations.
+r16c1: Payroll Notifications ⏎ Payroll Processing
+r16c2: All admins can receive notifications for upcoming, overdue, and missed payroll runs
+r16c3: Missing payroll deadlines can result in employees not getting paid in time, and additional fees to you running expedited or overdue pay runs.
+r16c4: Restaurant managers get reminders and warnings regarding pay runs to avoid fees for late pay runs and ensure their employees are paid on time
+r16c5: Don't get caught missing a payroll deadline. Save on fees and ensure your employees are paid on time with payroll notifications.
+r17c1: Tipped Minimum Wage ⏎ Tip Integration
+r17c2: 7shifts Payroll handles Tipped Minimum Wage structures, automatically calculating tip shortages and credits weekly so employees are paid correctly.
+r17c3: Manually keeping track of tips an employee earned to stay compliant with Tipped Minimum Wage laws can be time-consuming and error prone.
+r17c4: 7shifts Payroll takes the guesswork out of earned tips and automatically handles shortages for labor compliant earnings.
+r17c5: Save time with automatic tip credit calculations done for you and pulled directly into payroll
+r18c1: Overdue Resolutions ⏎ Payroll Processing
+r18c2: Options available to you if the deadline to process payroll is missed (Next Day Pay and off-cycle pay runs).
+r18c3: Missing a deadline can lead to costly overdue runs and potentially aggrieving employees if they don't get paid on time
+r18c4: Restaurant managers can address overdue pay runs with Next Day Pay and off-cycle pay runs.
+r18c5: Missed a payroll deadline? We have multiple options in order to have your employees paid on time
+r19c1: Tip Credit Calculations ⏎ Tip Integration
+r19c2: 7shifts will automatically calculate and process tip credit and shortage amounts when running payroll.
+r19c3: Manually keeping track of tips an employee earned to stay compliant with Tipped Minimum Wage laws can be time-consuming and error prone.
+r19c4: 7shifts Payroll takes the guesswork out of earned tips and automatically handles shortages for labor compliant earnings.
+r19c5: No more manual calculations, let 7shifts calculate any shortages or credits for you in payroll.
+r20c1: Unlimited regular and off-cycle runs ⏎ Payroll Processing
+r20c2: Ability to run unlimited payrolls in a given month without being charged per payroll run
+r20c3: Some companies charge per payroll run which can lead to large costs if offcycles are needed or companies pay on a frequent basis (like weekly)
+r20c4: Restaurants can process payroll off-cycle without worrying about costly fees.
+r20c5: Run payroll on or off-cycle at no extra cost
+r21c1: Payroll Journals & Reports ⏎ Pay Access
+r21c2: Journals, summaries, and reports detailing payroll runs, employee earnings, and taxes used for bookkeeping and tax purposes
+r21c3: Journals and reports are needed to ensure employees are paid correctly and for bookkeeping purposes  and labor compliance.
+r21c4: Save time calculating payroll data for taxes and accounting with our downloadable payroll reports
+r21c5: Stay labor compliant and get quick access to your team's payroll history with 7shifts Payroll Summary and Journal reports.
+r22c1: Time Off Policies ⏎ Payroll Administration
+r22c2: Ability to set different accruals for time off (whether sick or paid) in a policy for employees. PTO / STO hours will be calculated and appear in Payroll exports.
+r22c3: It can be difficult to track employee PTO/STO leading to employees taking too much time off
+r22c4: PTO calculations are automated, saving restaurant managers time and giving them accurate data.
+r22c5: Save time by not having to calculate PTO accruals. Set a policy in 7shifts and it's pulled into payroll automatically
+r23c1: Custom Earnings / Custom Earning Codes ⏎ Payroll Processing
+r23c2: Restaurants can set up additional, custom earnings that can be included in payrolls outside of hourly wages. (full list)
+r23c3: There are certain reimbursements/earnings employees need to be paid that are not part of a typical wage, without which the employer can be held liable
+r23c4: Easily manage custom pay categories for your team, like overtime, commissions. This flexibility ensures accurate earnings for your restaurant's unqiue needs, while streamlining pay runs.
+r23c5: Create tailored pay categories, ensurng accurte compensation for all types of work while streamlining payroll processing.
+r24c1: Quickbooks Accounting Integration ⏎ Payroll Processing
+r24c2: Send payroll data including hours worked and overtime directly to Quickbooks through our secure integration.
+r24c3: Without integrations, doing accounting manually can ⏎ - take too much time ⏎ - lead to calculation errors ⏎ - tax implications
+r24c4: Save time, reduce errors, and ensure financial accuracy across your restaurant's business
+r24c5: Save time and boost accuracy with our direct integration with our Quickbooks accounting integration -- no need to download reports input data manually.
+r25c1: Pay Access ⏎ Employee Experience
+r25c2: Employees can view and download their historical paystubs using both the 7shifts web and mobile apps.
+r25c3: Distributing paper pay stubs each pay run can be time consuming.
+r25c4: Reduce paperwork and enhance pay transparency with employees.
+r25c5: Provide employees with instant, secure access to their earnings and tax information.
+r26c1: Benefit Marketplace ⏎ Benefit Management
+r26c2: Provide access to affordable plans for 401(k) retirement savings, medical and dental, and workers' compensation through our preferred brokers. Deductions are calculated and synced directly to 7shifts Payroll, consolidating employee data in one spot.
+r26c3: Without benefits available, employers may have lower employee satisifcation and increased costs due to higher turnover.
+r26c4: Seamless deductions synced directly to 7shifts Payroll, affordable plans, and boosted employee satisfaction.
+r26c5: Access affordable plans and streamline the setup of employee benefits through one of our preferred providers. Deductions are calculated and synced automatically to Payroll for quick and accurate processing.
+r27c1: Employee Onboarding ⏎ Employee Experience
+r27c2: Send employees custom digital onboarding packages they can fill out to be payroll-ready in minutes. Submitted documents and tax forms are stored for your team's easy access and record-keeping.
+r27c3: Without 7shifts Payroll onboarding employers must ⏎ - manage forms and documents manually ⏎ - consolidate an employee's info in a central location ⏎ - manually enter data into payroll system
+r27c4: Simplify the onboarding experience by automating document collection, tax form submissions,  and payroll setup, helping new hires get set up and payroll-ready quickly.
+r27c5: Make employee onboarding a breeze, send any tax and legal forms to employees with the press of a button. Documents specific to your restaurant? Those can be included too!
+r28c1: Custom document upload and acknowledgement / Custom Documents ⏎ Employee Experience
+r28c2: Upload any custom or restaurant specific documents (like alcohol server training) that employees need to acknowledge or sign as part of employee onboarding
+r28c3: Some documents may be custom/restaurant specific and if not in a payroll system, ⏎ - Managed manually ⏎ - Potential to be lost ⏎ - Employees have to sign/acknowledge something that they may lose
+r28c4: Securely store and manage important employee documents, ensuring easy access and industry-compliance with minimal effort.
+r28c5: Save your time by sending custom documents directly from 7shifts in onboarding to your employees. They'll be able to sign and send back and then everything is saved in 7shifts for whenever you need it.
+r29c1: Smaller Subfeature name ⏎ List smaller subfeatures in order of importnace and list the feature it's related to
+r29c2: Smaller Subfeature description
+r29c3: Customer pain points
+r29c4: Customer benefits
+r29c5: Value proposition
+r30c1: Payroll Reminders & Notifications ⏎ Payoll Notifications
+r30c2: Reminders for deadlines for processing payroll
+r31c1: Direct Deposit Notifications ⏎ Payoll Notifications
+r31c2: Employee notifications regarding receiving their pay on paydays
+r32c1: Reimbursements ⏎ Pay Acccess
+r32c2: Ability to reimburse employees for extra items via payroll
+r33c1: Employee pay stubs on mobile / Mobile Pay Stubs ⏎ Pay Acccess
+r33c2: Abiliity for employees to access their own pay stubs via the mobile app
+r34c1: Downloadable Paper Checks ⏎ Pay Acccess
+r34c2: Download paper checks if employees set up to receive their pay via paper check
+r35c1: Tax Payments and Filing ⏎ Tax and Benefits Management
+r35c2: Automatic tax filings and payments when you process and run payroll
+r36c1: Paper and Paperless W-2 forms ⏎ Tax and Benefits Management
+r36c2: Availability of employee W-2s to be received either by mail or online
+r37c1: Benefits and Post-Tax Deductions ⏎ Tax and Benefits Management
+r37c2: Ability to deduct benefits and other post-tax items when running payroll
+r38c1: Government required form collection ⏎ Forms
+r38c2: Inclusion of state and federal forms for payroll onboarding
+r39c1: Payments method forms ⏎ Forms
+r39c2: Ability to select either direct deposit or paper check as payment methods for employees
+r40c1: Additional Resources
+r41c1: Testimonials
+r41c2: Customer Testimonials (Filter by Feature, Payroll)
+r42c1: ROI statistics
+r42c2: "Onboard your team in under 10 minutes"*  ⏎  "Save up to 12 hours each month running payroll."* ⏎ *Time savings based on user data. Actual results may vary depending on your restaurant's size and operations.
+r43c1: Related case studies
+r43c2: How Little Italy Ristorante Turned Hours of Payroll Processing into Minutes
+r44c1: Marketing collateral
+r44c2: Payroll One Pager_2024 (2).pdf
+r45c1: Video assets
+r45c2: Sizzler: Restaurant payroll software that runs in minutes, not hours
+r46c1: Market & competitive analysis
+r46c2: Payroll Competitor Matrix
+r53c1: *OLD*
+r54c1: Product name: 7shifts Payroll
+r55c1: Description
+r55c2: 7shifts’ Payroll is a payroll system that gives you onboarding, time clocking, compliance, and payroll all without leaving the app. Setup and run payroll according to the needs of your restaurant.
+r56c1: Positioning statement
+r56c2: For restaurants who want to simplify their payroll process, 7shifts Payroll is a flexible payroll system that is deeply integrated with labor, tips, and onboarding to ensure your employees are paid on time and without issue. A single source of truth across your 7shifts solution so you can save time without worrying about data errors and allowing employees to access their own pay information.
+r57c1: Ideal Customer Profile (ICP)
+r57c2: 1 location restaurants in the US with 10-50 employees using time clocking
+r58c1: Core product's key pain points
+r58c2: - Time-Consuming Manual Processes: manual tasks like data entry, calculations, and tax filing that increases your time spent & accuracy issues  ⏎ - Accuracy and Compliance: Manually handling payroll increases the risk of errors in calculations, tax withholdings, and compliance with labor laws, leading to potential penalties and legal issues for businesses ⏎ - Cost Control: Manually managing payroll leads to difficulty in tracking labor costs accurately, potentially resulting in overspending and financial inefficiencies for businesses ⏎ - Employee Satisfaction: Manually managing payroll can lead to delayed or inaccurate payments, lack of transparency, and administrative errors, resulting in decreased employee satisfaction and trust in the organization
+r59c1: Core product's key benefits
+r59c2: A single source of truth so you can save time without worrying about data errors and your employees can get paid on time and without issue ⏎ - Save time: Manage employee records including time clocking, attendance, payroll (and more) directly in the 7shifts app, rather than managing multiple, complex systems ⏎ - Increase efficiency: Improve efficiency and accuracy with one platform to house all labor, wage, payroll, tip, and onboarding data ⏎ - Support your employees’ experience: Make your employees’ lives easier with a single place for them to onboard and understand their pay  ⏎ - Unlock more capabilities: Syncing your data with 7shifts’ Payroll helps manage [get more specific] tips, compliance, and other fees associated with running payroll ⏎ - Reduce manual work & errors: Automatic tip credit calculations ensure your tipped minimum wage employees' wages are adjusted and employees are paid correctly every time
+r60c1: ⭐ Core value props
+r60c2: 1. Save time on your payroll processes by automating, minimizing manual data entry, calculations, and administrative tasks ⏎ 2. Streamline payroll compliance & accuracy ensure precise pay calculations and adherence to tax regulations and labor laws, minimizes errors, reduces the risk of costly penalties, and provides peace of mind  ⏎ 3. Save time with an all-in-one app that eliminates the need for multiple apps or systems by combining scheduling, time clocking, tips management & payroll into one easy-to-use app, streamlining your operations ⏎ 4. Make it easy for your employees to have seamless access to schedules, time tracking, pay stubs, and more, saving you time & fostering higher team engagement
+r61c1: PMM owner
+r61c2: TBD
+r62c1: Value Prop Category
+r62c2: Feature description
+r62c3: Customer pain points
+r62c4: Customer benefits
+r62c5: Value proposition
+r62c6: External Facing Messaging
+r63c1: Payroll Automation
+r63c2: A product built to allow you to run payroll on your terms. It's a flexible system that works for you and your restaurant, using automated syncing across your labor, PTO, and Tip data in 7shifts. Pay your employees on your specific pay periods with no limit on payroll runs (including off-cycles), stay up to date with notifications and reports, and rest assured that your taxes will be filed for you. We have a dedicated Payroll Support team that's part of the 7shifts Support team that you already know and love.
+r63c3: - Data living in different systems which takes time to validate and enter into payroll ⏎ - Incorrect tax filings which can lead to fines and other compliance issues ⏎ - No employee access to paystubs means that employers have to take their own time to go into payroll and get employee pay stubs and other payroll information ⏎ - Poor customer support, often done through 3rd parties leads to frustration and poor experience for the employer
+r63c4: - Save time by removing data entry, eliminating manual calculations, and setting up payroll to work for you  ⏎ - Automatically track hours, breaks, overtime, and PTO — and calculate hours and wages ⏎ - Reminders to clock in and out and add their breaks, so you aren’t chasing down time cards everyday ⏎ - No data entry required: with just a few clicks timesheets turn into paychecks ⏎ - We handle your tax calculations, send direct deposits, and file your payroll taxes
+r63c5: Save time and money with an all in one payroll system that fits your needs. Running payroll couldn't be easier with automated data syncing and a dedicated support team.
+r63c6: Reduce manual work ⏎ - Automatically track hours, breaks, overtime, and PTO — and calculate hours and wages ⏎ - Reminders to clock in and out and add their breaks, so you aren’t chasing down time cards everyday ⏎ - No data entry required: with just a few clicks timesheets turn into paychecks ⏎ - We handle your tax calculations, send direct deposits, and file your payroll taxes
+r64c1: All In One
+r64c2: 7shifts payroll system offers a comprehensive all-in-one solution that seamlessly integrates time clocking, payroll processing, and automated tip calculations. This unified platform allows businesses to manage employee time tracking with precision, capturing accurate clock-in and clock-out data directly linked to payroll. The system automates the entire payroll process, from calculating regular and overtime wages to handling deductions and tax filings, ensuring timely and error-free paychecks. Additionally, 7shifts simplifies tip management by automatically calculating and distributing tips according to pre-set rules, eliminating manual calculations and ensuring fair and compliant tip distribution. This integrated approach not only enhances efficiency and accuracy but also provides a streamlined experience for managing labor costs and payroll compliance, ultimately freeing up valuable time and resources for business owners
+r64c3: - Managing payroll, time clocking, scheduling, and tips across multiple systems or tools often leads to fragmented data and inconsistencies due to manual data entry, resulting in inaccuracies in wage calculations and tip distributions ⏎ - Juggling multiple systems or tools for payroll, time clocking, scheduling, and tip management requires additional administrative effort, including maintaining separate logins, reconciling data across platforms, and resolving discrepancies, which can be time-consuming and prone to errors. ⏎ - Integrating disparate systems or tools for payroll, time clocking, scheduling, and tips can be challenging, especially if the platforms are not designed to work seamlessly together, leading to compatibility issues, data synchronization problems, and additional technical support requirements.
+r64c4: - With 7shifts' all-in-one system, businesses can consolidate payroll, time clocking, scheduling, and tip management into a single platform, reducing complexity and streamlining operations. This integration saves time and resources by eliminating the need to manage multiple systems or tools separately. ⏎ - By having all payroll-related functions in one system, data consistency is ensured, reducing the risk of errors and discrepancies. Automated processes for wage calculations, time tracking, and tip distributions enhance accuracy and efficiency, freeing up administrative time for more strategic tasks. ⏎ - 7shifts' all-in-one system simplifies compliance management by automatically updating payroll processes to adhere to the latest labor laws and regulations. This ensures that businesses stay compliant with federal, state, and local requirements without the need for manual adjustments or separate compliance checks across multiple systems.
+r64c5: Save time with an all-in-one app that eliminates the need for multiple apps or systems by combining scheduling, time clocking, tips management & payroll into one easy-to-use app, streamlining your operations
+r64c6: Save time with an all-in-one app ⏎ ​​- Streamline your restaurant operations with payroll, time clocking, and scheduling in one simple app. No more switching between multiple systems ⏎ - Manage your tip data in 7shifts Payroll seamlessly. Sync your tip pools, your already paid Tip Payouts, and any tipped credit calculations all in one place and directly to payroll.
+r65c1: Payroll Compliance & Accuracy
+r65c2: 7shifts payroll is designed to ensure accuracy and robust compliance for resturants. Its automates processes significantly to reduce the risk of human error by calculating wages, accounting for tips, overtime, etc. Integrated with real-time labor data, the system ensures that all payroll activities adhere to the latest labor laws and regulations, maintaining compliance effortlessly. This includes features such as automatic tax calculations and filings, ensuring that businesses meet federal, state, and local requirements without manual intervention. Furthermore, 7shifts offers detailed reporting and audit trails, enabling businesses to track and verify every payroll transaction, thereby enhancing transparency and trust. Overall, 7shifts payroll system combines accuracy and compliance to streamline payroll management, providing peace of mind and operational efficiency for businesses
+r65c3: - Many customers struggle with inaccuracies in payroll due to manual entry errors, leading to incorrect wage calculations, missed overtime payments, and potential disputes with employees. ⏎ - Keeping up with ever-changing labor laws and regulations at federal, state, and local levels can be overwhelming, often resulting in unintentional non-compliance and the risk of fines or legal issues. ⏎ - The traditional payroll process can be extremely time-consuming, involving multiple steps to ensure accuracy and compliance, which diverts valuable time and resources away from other critical business operations.
+r65c4: - 7shifts payroll system automates wage calculations, including tips and overtime, significantly reducing human errors and ensuring employees are paid correctly and on time. ⏎ - The system stays up-to-date with the latest labor laws and regulations, automatically adjusting payroll processes to maintain compliance, thereby minimizing the risk of fines and legal complications. ⏎ - By automating and simplifying payroll tasks, 7shifts saves time and resources, allowing businesses to focus more on strategic activities while ensuring payroll is handled accurately and compliantly.
+r65c5: Streamline payroll compliance & accuracy ensure precise pay calculations and adherence to tax regulations and labor laws, minimizes errors, reduces the risk of costly penalties, and provides peace of mind
+r65c6: Streamline payroll compliance & accuracy  ⏎ - Automatically calculate hours, breaks, overtime, wages, and taxes based on your city, state, and federal labor laws. ⏎ - Set up paid time off policies and track balances and accruals right in 7shifts. ⏎ - Store your time card and payroll records to comply with FLSA record-keeping rules
+r66c1: Employee Experience
+r66c2: 7shifts Employee Onboarding is included with the cost of Payroll. Whenever you need to onboard an employee, you can easily send an onboarding package that's customizable with the documents you need. We'll include state and federal required documents automatically, and you can add any additional restaurant-specific documents you'd like to the package to be sent and signed (if necessary). The employee payroll experience also takes the onus out of management's hands with paystub access directly available through an employee's mobile app, including pay-day notifications. The can also update information as necessary as well. Admins also have the ability to opt-in their team for paperless W-2s in addition to the employees' ability to do so via the app
+r66c3: - Managing and tracking onboarding forms can be cumbersome and take time to ensure everything is saved in a place where accessible if necessary. There are also some forms/documents that employers want to send to employees that are custom and sometimes needing signatures that are managed separately and outside payroll.  ⏎ - Having to access and provide employee paystubs manually due to lack of employee access to the payroll system also takes time from an employer when they could be using it to run their restaurant
+r66c4: - Time savings: Save time on manually sending, collecting, and organizing physical onboarding documents ⏎ - Simplify processes & documentation: Reduce company's tech stack and keep all onboarding documents in one place ⏎ - Speed up processes: Flexibility as to how employees can fill out the documents will increase the ease and speed of onboarding documents received
+r66c5: Save yours and your employees time with employee onboarding that can be done in minutes directly from their apps so that they can get back to work without worrying about filiing in form after form. Your time will be freed up by giving them access directly to any pay information including stubs via their apps.
+r66c6: Make it easy for your employees ⏎ - Give your team access with an easy-to-use app for all their scheduling and payroll needs—from requesting time off to viewing pay stubs ⏎ - Automatically send payday alerts, so your team knows exactly when they’ve been paid ⏎ - When your team has all their hours, schedules, and  information on-demand, you get less questions
+r67c1: Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r67c2: Subfeature description
+r67c3: Customer pain points
+r67c4: Customer benefits
+r67c5: Value proposition
+r68c1: Automatic Labor, Tips, and Paid Time Off (PTO) ⏎ Payroll Administration
+r68c2: All your payroll labor data syncs automatically to 7shifts Payroll, removing the need for any manual data entry, including PTO, Tips, and benefits
+r68c3: Manual data entry is time consuming and can lead to: ⏎ - erroneous entries ⏎ - needing to use multiple systems ⏎ - missing data
+r68c4: - Save time processing: With the links to the rest of 7shifts, Payroll pulls in your data automatically for time clocking, tips, PTO and more ⏎ - Source of truth: 7shifts becomes your source of truth for your labor data. You can trust that the information being pulled into 7shifts Payroll is correct ⏎ - No data entry: Skip the manual data entry, removing the possibility of numbers being entered incorrectly
+r68c5: Save time having all of your pay data syncing automatically to payroll. Say goodbye to manual data entry and calculations
+r69c1: Payroll Notifications ⏎ Payroll Administration
+r69c2: Payroll notifications related to processing deadlines, pay dates, and getting paid
+r69c3: Missing payroll deadlines can result in employees not getting paid in time, and additional fees to you running overdue payrolls
+r69c5: Don't get caught out missing a payroll deadline. Save time and ensure your employees are paid on time with payroll notifications
+r70c1: Tipped Minimum Wage ⏎ Tip Integration
+r70c2: The ability to handle scenarios where jurisdictions allow restaurants to pay a minimum wage less than standard due to the make up via tips
+r70c3: Paying an employee lower than state mandated minimum wage means that tips must cover the difference to minimum wage
+r70c5: Save time with automatic tip credit calculations done for you and pulled directly into payroll
+r71c1: Overdue Resolutions ⏎ Unlimited payroll runs
+r71c2: Options available to you if the deadline to process payroll is missed
+r71c3: Missing a deadline can lead to costly overdue runs and potentially aggrieving employees if they don't get paid on time
+r71c5: Missed a payroll deadline? We have multiple options in order to have your employees paid on time
+r72c1: Tip Credit Calculations ⏎ Tip Integration
+r72c2: Calculate any tip shortage or credits in relation to tipped minimum wage
+r72c3: Calculations must be done manually to ensure the tips earned by an employee make up at least a minimum wage rate over the course of a pay period
+r72c5: No more manual calculations, let 7shifts calculate any shortages or credits for you in payroll
+r73c1: Unlimited regular and off-cycle runs ⏎ Payroll Administration
+r73c2: Ability to run unlimited payrolls in a given month without being charged per payroll run
+r73c3: Some companies charge per payroll run which can lead to large costs if offcycles are needed or companies pay on a frequent basis (like weekly)
+r73c5: Save money not having to worry about paying for every payroll run. Unlimited payrolls are included with 7shifts
+r74c1: Payroll Journals & Reports ⏎ Pay Access
+r74c2: Journals, summaries, and reports detailing payroll runs, used for bookkeeping and tax purposes
+r74c3: Journals and reports are needed to ensure employees are paid correctly and for bookkeeping purposes so you're not losing money
+r74c5: Save time calculating payroll data for taxes and accounting with our downloadable payroll reports
+r75c1: Time Off Policies ⏎ Payroll Administration
+r75c2: Ability to set accruals for time off (whether sick or paid) in a policy for employees
+r75c3: It can be difficult to track employee PTO/STO leading to employees taking too much time off
+r75c5: Save time by not having to calculate PTO accruals. Set a policy in 7shifts and it's pulled into payroll automatically
+r76c1: Custom Earnings / Custom Earning Codes ⏎ Payroll Administration
+r76c2: Certain additional earnings that can be included in payrolls outside of hourly wages
+r76c3: There are certain reimbursements/earnings employees need to be paid that are not part of a typical wage, without which the employer can be held liable
+r76c5: Don't worry if you need to add additional earnings to payroll, 7shifts saves you time calculating these for you
+r77c1: Quickbooks Accounting Integration ⏎ Payroll Administration
+r77c2: Integrate payroll journeys with accounting software
+r77c3: Without integrations, doing accounting manually can ⏎ - take too much time ⏎ - lead to calculation errors ⏎ - tax implications
+r77c5: Save time and money with our direct integration with our Quickbooks Accounting integration, no need to download reports and figure out accounting manually
+r78c1: Pay Access ⏎ Payroll Administration
+r78c2: The ability to self-serve for paystubs for employees via the 7shifts app
+r78c3: Employers need to manage everyone's access to pay, taking up alot of time
+r78c5: Save your time with pay stub access avaiable to employees on their mobile apps
+r79c1: Benefit Marketplace ⏎ Benefit Management
+r79c2: Connect with benefit brokers to get quotes for health benefits and worker's comp plans
+r79c3: Without benefits available, employers may have high turnover and not be attractive for prospective employees
+r79c5: Need benefits to ease turnover? Our marketplace allows you to get quotes from brokers to find the best plan for you. Then once you sign up for a plan, that info is pulled automatically into 7shifts and Payroll for you
+r80c1: Employee Onboarding ⏎ Employee Experience
+r80c2: Send employees any forms and documents needed to set up their profiles for payroll
+r80c3: Without onboarding employers must ⏎ - manage forms and documents manually ⏎ - consolidate an employee's info in a central location ⏎ - manually enter data into payroll system
+r80c5: Make employee onboarding a breeze, send any tax and legal forms to employees with the press of a button. Documents specific to your restaurant? Those can be included too!
+r81c1: Custom document upload and acknowledgement / Custom Documents ⏎ Employee Onboarding
+r81c2: Upload any custom or restaurant specific documents that employees need to acknowledge or sign as part of employee onboarding
+r81c3: Some documents may be custom/restaurant specific and if not in a payroll system, ⏎ - Managed manually ⏎ - Potential to be lost ⏎ - Employees have to sign/acknowledge something that they may lose
+r81c5: Save your time by sending custom documents directly from 7shifts in onboarding to your employees. They'll be able to sign and send back and then everything is saved in 7shifts for whenever you need it
+r82c1: Smaller Subfeature name ⏎ List smaller subfeatures in order of importnace and list the feature it's related to
+r82c2: Smaller Subfeature description
+r82c3: Customer pain points
+r82c4: Customer benefits
+r82c5: Value proposition
+r83c1: Payroll Reminders & Notifications ⏎ Payoll Notifications
+r83c2: Reminders for deadlines for processing payroll
+r84c1: Direct Deposit Notifications ⏎ Payoll Notifications
+r84c2: Employee notifications regarding receiving their pay on paydays
+r85c1: Reimbursements ⏎ Pay Acccess
+r85c2: Ability to reimburse employees for extra items via payroll
+r86c1: Employee pay stubs on mobile / Mobile Pay Stubs ⏎ Pay Acccess
+r86c2: Abiliity for employees to access their own pay stubs via the mobile app
+r87c1: Downloadable Paper Checks ⏎ Pay Acccess
+r87c2: Download paper checks if employees set up to receive their pay via paper check
+r88c1: Tax Payments and Filing ⏎ Tax and Benefits Management
+r88c2: Automatic tax filings and payments when you process and run payroll
+r89c1: Paper and Paperless W-2 forms ⏎ Tax and Benefits Management
+r89c2: Availability of employee W-2s to be received either by mail or online
+r90c1: Benefits and Post-Tax Deductions ⏎ Tax and Benefits Management
+r90c2: Ability to deduct benefits and other post-tax items when running payroll
+r91c1: Government required form collection ⏎ Forms
+r91c2: Inclusion of state and federal forms for payroll onboarding
+r92c1: Payments method forms ⏎ Forms
+r92c2: Ability to select either direct deposit or paper check as payment methods for employees
+r93c1: Additional Resources
+r94c1: Testimonials
+r94c2: “I was originally drawn to 7shifts because of their simple and easy interface for scheduling, but when I found out they also did payroll, it was a no-brainer. My employees onboarded via the 7shifts mobile app in 10 minutes and I'm already saving hours of time when it comes to processing payroll. Total game changer.” — Fahad Hanif, Owner/Operator at Halal Guys
+r95c1: ROI statistics
+r96c1: Related case studies
+r97c1: Marketing collateral
+r98c1: Video assets
+r99c1: Market & competitive analysis
+
+==========================================================================================
+SHEET: Tip Management Value Props
+==========================================================================================
+r1c1: Product name: Tip Management
+r2c1: Description
+r2c2: Overseeing your team and distributing tips can be overwhelming when having to constantly switch back and forth between non-integrated systems.  ⏎  ⏎ With 7shifts Tip Management, you can centralize your team's labor, tips, and pay in a single platform, while easily accessing other tools you need to run your restaurant effectively. Automate your tip calculation processes, send instant direct deposits at the end of each shift, give employees full visibility into their daily earnings, and bring it all together seamlessly for easy taxation on payroll. ⏎  ⏎ Simplify your tip processes with all-in-one Tip Management.
+r3c1: Positioning statement
+r3c2: For restaurants that need to consolidate their tip management systems, Tip Management is an all-in-one tip management solution that saves you money by calculating, distributing, paying, and reporting tips, while giving you access to many other cost-saving features. Unlike Tiphaus, Toast, or Paid AnyDay, our product is integrated directly into your labor management system so you can manage your team and their tips in a single place.
+r4c1: Ideal Customer Profile (ICP)
+r4c2: US-based FSRs who currently use two disjointed systems for tip pooling and tip payouts, using Toast or Square POS, with 1-8 locations and 20-75 employees per location, earning more than $500 of tipped revenue per day.
+r5c1: Core product's key pain points
+r5c2: - Disjointed tech stack (e.g., Square + Payroll, SpotOn + Kickfin, etc.) ⏎ - Non-consolidated vendor costs ⏎ - Time spent learning and switching between multiple softwares
+r6c1: Core product's key benefits
+r6c2: Automatic Tip Calculation ⏎ If your current calculation model isn't broken, don't change it—just automate it! With your team's time and attendance tracked directly in 7shifts, you can outline your custom set-and-forget distribution rules matching your existing policy one time, and sit back while we accurately calculate tips for you in real time, every time. ⏎  ⏎ Instant Tip Payments ⏎ Rewarding your team for their hard work shouldn't have to be a pain for you. Send digital tips instantly from the same place you schedule your team.  ⏎  ⏎ Employee Transparency ⏎ For employees, being able to see what they've earned in tips on a day-to-day basis should be the norm. Your team can easily view their personal earned, calculated, and paid tips in real-time from the mobile app so you don't have to spend time answering all of their questions. ⏎  ⏎ Easy Accounting ⏎ Taxing tips on payroll shouldn't be keeping you up at night. Integrate your payroll of choice and have tips automatically reported for easy payment or taxation.
+r7c1: ⭐ Core value props
+r7c2: Don't pay for multiple, disjointed tech systems to manage your restaurant's tips. Save hundreds of dollars each month with a single tip management tool that calculates, pays, and reports tips from the same place you build your schedules. ⏎  ⏎ Avoid errors ⏎ Distribute tips accurately every time with hands-free calculations matching your restaurant’s current tipping policy. ⏎  ⏎ Increase productivity ⏎ Switching back and forth between systems isn't efficient. Pay calculated tips instantly to your team's debit accounts—without using a separate service. ⏎  ⏎ Save Time/Increases Employee Trust ⏎ Stop spending so much time addressing tip concerns. Give employees visibility into their tip earnings and your calculation processes so they feel confident about their pay and build trust with you as their employer. ⏎  ⏎ Reduce your workload ⏎ Make reporting tips on payroll a piece of cake. Reduce administrative workload with payroll integrations that automate this process for you.
+r8c1: PMM owner
+r9c1: Feature name
+r9c2: Feature description
+r9c3: Customer pain points
+r9c4: Customer benefits
+r9c5: Value proposition
+r10c1: Tip Management
+r10c2: Overseeing your team and distributing tips can be overwhelming when having to constantly switch back and forth between non-integrated systems.  ⏎  ⏎ With 7shifts Tip Management, you can centralize your team's labor, tips, and pay in a single platform, while easily accessing other tools you need to run your restaurant effectively. Automate your tip calculation processes, send instant direct deposits at the end of each shift, give employees full visibility into their daily earnings, and bring it all together seamlessly for easy taxation on payroll. ⏎  ⏎ Simplify your tip processes with all-in-one Tip Management.
+r10c3: - Disjointed tech stack ⏎ - Non-consolidated vendor costs ⏎ - Time spent learning and switching between multiple softwares
+r10c4: - Avoid errors with automatic calculations that distribute tips accurately and consistently every time ⏎  ⏎ - Increase productivity by eliminating the need to switch back and forth between different systems for tip management and scheduling ⏎  ⏎ - Save time by exposing the details of tip earnings and calculations to your team on the mobile app, reducing employee questions around tips. ⏎  ⏎ - Increase employee trust by allowing your team to see how their tips are calculated, giving them a more positive regard toward your restaurant and leading to reduced turnover. ⏎  ⏎ - Reduce administrative workload with automated payroll integrations that report tips on payroll for easy taxation.
+r10c5: Don't pay for multiple, disjointed tech systems to manage your restaurant's tips. Save hundreds of dollars each month with a single tip management tool that calculates, pays, and reports tips from the same place you build your schedules.
+r11c1: Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r11c2: Subfeature description
+r11c3: Customer pain points
+r11c4: Customer benefits
+r11c5: Value proposition
+r12c1: Tip Calculation ⏎ Tip Management
+r12c2: Automatically calculate employee tip outs based on your restaurant's custom tip entry and distribution rules. Easily send tips to payroll, view comprehensive reports, and keep all your labor data in one place
+r12c3: - Pay inaccuracy of employee tips from human error or complexity ⏎  ⏎ - Time/labor spent manually entering tips into and managing tip pools ⏎  ⏎ - Potential change management required to transition to a system that doesn't support their existing tip calculation pollcies
+r12c4: - Increase accuracy with hands-free, consistent tip pool calculations ⏎  ⏎ - Save time and labor with automatic calculations based on your set rules ⏎  ⏎ - Maintain your existing tip policies with set-and-forget calculation rules that match your current process
+r12c5: Distribute tips accurately every time with hands-free calculations matching your restaurant’s current tipping policy.
+r13c1: Tip Payouts ⏎ Tip Management
+r13c2: Instantly send tips to employees' debit accounts, providing fast and convenient access to earnings.
+r13c3: - Employee turnover/difficulty hiring from delayed tip payments (from paying tips on biweekly payroll) ⏎  ⏎ - Lack of security, unnecesssary labor spend (bank runs, cash-counting, employees waiting for tips), lack of tip tracking (from paying tips in cash) ⏎  ⏎ - Non-integrated tip management systems (from paying through competitors)
+r13c4: - Pay daily tips instantly with direct deposits to your team's debit accounts, while easily reporting tips on payroll for taxation. ⏎  ⏎ - Uphold security, limit labor spend, and automate tip documentation with cashless payouts. ⏎  ⏎ - Increase productivity by automating your tip payout processes.
+r13c5: Switching back and forth between systems isn't efficient. Pay calculated tips instantly to your team's debit accounts—without using a separate service.
+r14c1: Tips to Payroll ⏎ Tip Management
+r14c2: Automate tips fully by setting rules for your tips to be sent to your payroll provider to simplify tip declaration, taxes and compliance.
+r14c3: - Have to manually enter tip amounts from POS to Tip Payouts/Payroll (Tip Calculation) ⏎ - Employees don't know how much they've collected, contributed, or will be receiving in tips until they're paid (Employee Tip Transparency) ⏎ - Restaurant has to cover processing fees of tips paid by card (Credit Card Withholding)
+r14c4: - Reduce administrative workload by automatically syncing tips from your POS or Tip Pooling to Tip Payouts or Payroll (Tips to payroll) ⏎  ⏎ - Increase employee trust by letting your team view their own collected, contributed, earned, and paid tips in real time (Employee visibility of tips) ⏎   ⏎ - Save time by automatically reclaiming processing fees from tips paid by card before they're calculated (Credit Card Withholding)
+r14c5: Take control of how your employee's tips are viewed and processed.
+r15c1: Tips Overview ⏎ Tip Management
+r15c2: Track and visualize employees' earned, paid, and owed tips over a pay period.
+r15c3: - Lack of transparency and detail: Can't easily view a breakdown of each employees' earned, owed, and paid tips; likely would have to create this manually
+r15c4: - Save time managing employee tips with a detailed breakdown of earned, paid, and owed tips in a single place.
+r15c5: Stop spending time digging into the details of employee tips. View your team's earned, paid, and owed tips in one place.
+r16c1: Smaller Subfeature name ⏎ List smaller subfeatures in order of importnace and list the feature it's related to
+r16c2: Smaller Subfeature description
+r16c3: Customer pain points
+r16c4: Customer benefits
+r16c5: Value proposition
+r17c1: POS Entry Tip Pooling ⏎ Tip Pooling
+r17c2: Automatically sync tips from your POS to be pooled in 7shifts.
+r17c3: - Have to manually enter tip amounts into their tip pool (human error & time/labor spent)
+r17c4: - Save time and improve accuracy by automatically syncing tips from your POS to your 7shifts tip pool
+r17c5: Stop manually entering tips for calculation. Automatically sync tips from your POS to save time and avoid errors.
+r18c1: Manual Entry Tip Pooling ⏎ Tip Pooling
+r18c2: Automatically calculate employee tip outs based on your restaurant's custom distribution rules. Easily send tips to payroll, view comprehensive reports, and keep all your labor data in one place.
+r18c3: - Have to manually calculate or configure formulas to pool tips (human error & time/labor spent)
+r18c4: - Save time and effort with calculations automatically done for you. Just set your custom distribution rules, and pull your tip pool reports whenever you need them.
+r18c5: Stop spending time calculating tips. Automate the process, and let us do the math for you.
+r19c1: Tip Pooling Report ⏎ Tip Pooling
+r19c2: View a full breakdown of each employee's contribution to the tip pool, as well as how much they are to receive.
+r19c3: - Have to create their own reports and documentation
+r19c4: - Save time with access to tip pool reports whenever you need them.
+r19c5: Don't worry about documentation. Save time with tip calculation reports that are ready whenever you need them.
+r20c1: Tip Pooling by Daypart ⏎ Tip Pooling (requires The Works plan)
+r20c2: Limit tip pools to only apply during certain times of day (e.g., specific shifts, meal times)
+r20c3: - Can't separate tip pools based on time of day
+r20c4: - Save time by automating when tip pools should be active based on day and time of day.
+r20c5: Stop spending time figuring out which tips Tip pools that apply when you want them to.
+r21c1: Custom Tip Pool Distribution ⏎ Tip Pooling
+r21c2: Distribute tips to employees based on hours worked, percentages, or weighted points.
+r21c3: - Can't customize how your tip pool is divided
+r21c4: - Maintain your existing tip calculation policy with custom distribution options.
+r21c5: We calculate tips how you calculate tips. Maintain your existing tip policies with custom calculation rules.
+r22c1: Automatic Tip Sync ⏎ Tip Payouts
+r22c2: Automatically sync tips from your POS, 7shifts tip pool, or 7punches to Tip Payouts.
+r22c3: - Manually entering tips into payroll, or spend too much time counting cash
+r22c4: -  Reduce your workload by having your POS, Tip Pool, or declared tips from 7punches automatically sync into Tip Payouts, ready for payment.
+r22c5: Stop spending time counting cash or manually entering tips into payroll. Reduce your workload with tips automatically pulled into Tip Payouts, ready for payment.
+r23c1: Payout Log ⏎ Tip Payouts
+r23c2: View a history of payouts sent, as well as transactions going in and out of Tip Payouts.
+r23c3: - Can't see a log of outgoing payouts, or they have to manually document it themselves
+r23c4: - Stay aware of all incoming transactions, and outgoing payouts.
+r23c5: Oversee all transactions in one place.
+r24c1: Tip Payouts Report ⏎ Tip Payouts
+r24c2: View & download a report of tips paid, associated fees, and the total amount withdrawn from Tip Payouts.
+r24c3: - Have to manually track employees' paid tips, as well as the amounts used to pay them
+r24c4: - Automatically keep track of employees' paid tips with full reporting.
+r24c5: All of your employees' paid tips, documented.
+r25c1: Tip Calculation ⏎ Tip Management Settings
+r25c2: Automate how employee tips are to be paid after they've been calculated or synced (options: paid on payroll/paid through Tip Payouts or Tips paid on shift)
+r25c3: - Manually entering tips into Tip Payouts or Payroll, or pay tips in cash but can't denote that in 7shifts.
+r25c4: - Choose what happens to employee tips once they're calculated in 7shifts. Send them to Tip Payouts, Payroll, or mark them as paid on shift.
+r25c5: Make reporting tips on payroll a piece of cake. Reduce administrative workload with set-and-forget calculation rules and payroll integrations that automate this process for you.
+r26c1: Employee visibility of tips ⏎ Tip Management Settings/Labor Settings
+r26c2: Give employees the ability to view a tip report including their own tips collected, as well as contributed and received from tip pools.
+r26c3: Lack of employee transparency: Employees can't transparently see their tips collected and earned
+r26c4: - Let your employees view their earned tips in real time.
+r26c5: Stop spending so much time addressing tip concerns. Give employees visibility into their tip earnings and your calculation processes so they feel confident about their pay and build trust with you as their employer.
+r27c1: Per-employee Tip Breakdown ⏎ Tips Dashboard
+r27c2: View a breakdown of an individual employees' earned, owed, and paid tips, including a record of any manual adjustments made.
+r27c3: - Have difficulty answering detailed questions from employees about their tip earnings.
+r27c4: - Answer even the most difficult employee tip questions with a full breakdown per each employee.
+r27c5: Answer all of your employees' tip questions.
+r28c1: Even Smaller Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r28c2: Smaller Subfeature description
+r28c3: Customer pain points
+r28c4: Customer benefits
+r28c5: Value proposition
+r29c1: Tip Pool entry by percentage of percentage of tips, percentage of sales, or dollar value ⏎ POS Entry Tip Pooling
+r29c2: Sync a portion of employees' tips to tip pools by percentage of tips or percentage of sales, or enter your own dollar values.
+r29c3: - Don't have full control over how employees contribute tips to the tip pool; can't maintain their current policy with other options
+r29c4: - Keep your existing tip pool policy. Choose for employees to contribute to tip pools based on a percentage of tips, a percentage of sales, or by a total dollar value.
+r29c5: Don't change your existing tip pool policy.
+r30c1: Contribute & distribute by dollar value ⏎ Manual Entry Tip Pooling
+r30c2: Add tips to your tip pool by entering dollar values.
+r30c3: - Don't have a tip-supported POS integration, so can't sync tips into their tip pool automatically
+r30c4: - Pool tips with or without a POS integration. Input custom dollar values to divide tips among your team.
+r30c5: Pool tips, even without a POS.
+r31c1: Credit Card Withholding ⏎ Tip Management Settings/POS Contribution by Tip Pooling
+r31c2: Reclaim a portion of employees' tips paid by card (i.e., debit/credit) to cover processing fees.
+r31c3: - Manually calculate processing fees for each employees' tips paid by card.
+r31c4: - Cover processing fee costs by automatically reclaiming a portion of tips paid by card before they're entered into the tip pool.
+r31c5: Recover payment processing fees before tips hit your tip pool.
+r32c1: Additional Resources
+r33c1: Testimonials
+r33c2: - "Having multiple places to find most of my tips and other information is a pain to handle. I like being able to find everything in one place with ease. I like 7shifts' tips features since I can check the schedule and check tips in one place." (Kevin Castellanos, Melting Pot) ⏎  ⏎ "I like to consolidate our vendors to save on costs and make things easier." (Hollis Silva, The Melting Pot - Spokane; speaking on Tip Management)
+r34c1: ROI statistics
+r34c2: Save up to 8 hours per week by using 7shifts' Tip Pooling Software to manage your tip pool.  ⏎ Save up to 34 hours per month using Tip Pooling ⏎ Customers using Tip Payouts have seen a 39% increase in time savings per week processing payouts to send to their teams
+r35c1: Related case studies
+r35c2: To be created for Phase 2 (ETA November)
+r36c1: Marketing collateral
+r36c2: To be created for September launch
+r37c1: Video assets
+r37c2: To be created
+r38c1: Market & competitive analysis
+r38c2: Tip Pooling Market & Competitor Analysis ⏎  ⏎ Tip Payouts Market & Competitor Analysis
+
+==========================================================================================
+SHEET: Team Engagement Positioning (de
+==========================================================================================
+r1c1: Owner: Corina Lee
+r2c1: Squad: Foundations/Scheduling/LabCom
+r4c1: PRODUCT NAME
+r5c1: Value Proposition
+r5c2: Spend less time digging through data to track employee performance and engagement. Spend more time on creating a culture that fosters collaboration, accountability, and continuous improvement—ultimately helping reduce staff turnover. ⏎  ⏎ Stop juggling multiple apps and having your staff give away their personal contact information. Ensure your team stays connected with a single, secured communication app.
+r6c1: Elevator Pitch
+r6c2: One restaurant employee quitting can cost a restaurant thousands of dollars. 7shifts' Team Engagement features allows you to easily track your team's performance and engagement, so you can  give recognition when it's deserved, have the right performance conversation, and identify issues before they bceome problems. You'll also be able to ensure your team stays connected with a secure communication app.
+r7c1: Positioning Statement
+r7c2: For restaurant oeprators struggling to keep their team connected and engaged, Team Engagement is a suite of tools that gives you actionable insights on how to boost team collaboration, accountability, and retention.  Unlike Homebase, Deputy, Whatsapp, and Slack, our product is easy to use, centralized, and restaurant-specific.
+r8c1: Long Description
+r8c2: Teams are at the heart of successful restaruants. 7shifts' Team Engagement tools are built to help restaurants create a culture that fosters collaboration, accountability, and continuous improvement—ultimately helping increase staff happiness and reduce turnover. ⏎  ⏎ With our suite of tools, you can easily track your team's performance and engagement to gain actionable operational insights and drive impactful performance conversations. Our communication tool will make keeping your team connected a breeze. You'll be able to streamline communication between staff, quickly deliver critical information, and increase collaboration to build a closer, higher-functioning team. ⏎  ⏎ To quote Charlotte Burdette, Manager at Colleen's Kitchen, "Since using 7shifts we have been able to maximize performance and labor. We have a stronger team communication, and it is a great way to get feedback from staff!".
+r9c1: Positioning our product/feature  ⏎ How are we positioning our product/feature this way? Why?
+r9c2: Explain how and why we are positioning this product/feature this way.
+r10c1: COMPLETE THE FOLLOWING SECTIONS BELOW FIRST
+r11c1: Market Category ⏎ The macro market (and submarket as applicable) that your product competes in
+r11c2: Workplace Communication App > Restaurant Communication App ⏎ Employee Engagement App ⏎ Performance Management App
+r12c1: Competitive Alternatives ⏎ If we didn’t exist, what would a customer do?
+r12c2: Communication - Text, phone calls, email, Slack, Whatsapp, When I Work, Homebase, Sling ⏎ Employee Engagement App - Pen and paper, Deputy, Homebase, Connecteam, Jolt, Lattice, 15five, Rippling ⏎ Performance Management App - Pen and paper, Homebase, Connectteam, Jolt, Lattice, 15five, Humi
+r13c1: Competitive Positioning  ⏎ How is the market positioning their product?
+r13c2: Communication:  ⏎  ⏎ Employee Engagement: Focus on employee’s experience and the ability to improve retention. Uncover trends and insights as to what drives top performers. Increase engagement by measuring what matters. ⏎  ⏎ Performance Management: Boost employee performance by keeping a clear record & provide training to save time and increase productivity. Drive performance and development with continuous feedback and goal tracking.
+r14c1: Target ICP  ⏎ Who is our ideal customer profile? Who cares a lot about this product?
+r14c2: Performance Management: 41-50 employees per location, ~4 locations,
+r15c1: Pain Points
+r15c2: - Lack of control and visibility in communication between management and employees ⏎ - Privacy concerns over sharing employee personal information among staff ⏎ - High employee turnover and small hiring market. Team culture and poor management are top reasons for employees leaving.  ⏎ - Restaurants have little time for formal performance reviews
+r16c1: PRODUCT DIFFERENTIATORS ⏎ Product differentiators are the characteristics that make a product stand out while also solving the previously identified pain point.
+r17c1: Unique Attributes ⏎ Features that make us different
+r17c2: All-in-One
+r17c5: Engage Dashboard
+r17c8: Manager Log Book
+r17c11: Restaurant-only
+r18c1: ⭐ Differentiated Value ⏎ What is the benefit/value that makes us different? Translate your unique attributes to value by asking repeatedly, "So what? Why does this matter to my custoer and their business?"
+r18c2: - No need to juggle multiple apps to schedule, communicaite, and manage your team's performance ⏎ - Many team engagement and performance apps in the market require separate subscriptions
+r18c5: - Many of other softwareds have features similar to our Shift Feedback, but not many have a dedicated dashboard to showcase employee performance and attendance at the location level
+r19c1: Differentiated Value Theme ⏎ Cluster yor differentiated value points into 1-3 value themes. People can’t remember 15 things, they can only remember 2-3 things.
+r20c1: Differentiated Level ⏎ How differerent is this from alternatives?
+r21c1: Proof Points / Reasons to Believe
+r21c2: This can include case studies, quotes, statistics, third-party validation, and customer reviews.
+r22c1: ADDITIONAL RESOURCES
+r23c2: Team Engagement Market & Competitor Analysis (Q4 2023) Team Engagement Ideal Customer Profiles (ICP)
+
+==========================================================================================
+SHEET: Team Engagement Value Props (de
+==========================================================================================
+r1c1: Product name: Team Engagement
+r2c1: Description
+r2c2: One restaurant employee quitting can cost a business thousands of dollars in backfilling, hiring, and training, only for another person to quit. The best way to control these excruciating labor costs is to prevent or at least reduce turnover in the first place, and 7shifts’ Team Engagement gives you all of the tools to do that.
+r3c1: Positioning statement
+r3c2: For QSR and FSR struggling to keep their team connected and engaged, Team Engagement is a suite of tools that gives you actionable insights on how to boost team collaboration, accountability, and retention.  Unlike Homebase, Deputy, Whatsapp, and Slack, our product is easy to use, centralized, and restaurant-specific.
+r4c1: Ideal Customer Profile (ICP)
+r4c2: Restaurants with 2-4 locations, 20-50 employees per location, with an integrated POS ⏎ Team Engagement Ideal Customer Profiles (ICP)
+r5c1: Core product's key pain points
+r5c2: - Restaurants are struggling with high employee turn over and poor team culture ⏎ - It's difficult to track employee performance and engagement over time, making it difficult to have impactful performance-related conversations ⏎ - It's time consuming to ensure everyone at the restaurant are in sync and connected  ⏎ - There is a lack of control and visibility in communication between management and employees, which can pose legal risks
+r6c1: Core product's key benefits
+r6c2: Monitor your team’s engagement to gather actionable insights from your team, improve coaching, and identify operational issues early, ultimately increasing employee retention. ⏎ - Improve team retention: Proactively uncover and solve issues early—recognize top performers and improve training & coaching with low performers ⏎ - Let your team be heard: Team members receive automated shift feedback surveys so you can quickly identify and address issues before they become problems ⏎ - Increase team happiness & morale: Encourage engagement, give shout-outs, and highlight milestones like work anniversaries & birthdays to recognize your team ⏎ - Increase team communication & accountability: streamline communication between staff, quickly deliver critical information to your team, and increase collaboration to build a closer, higher-functioning team.
+r7c1: ⭐ Core value props
+r7c2: - Spend less time digging through data to track employee performance and engagement, and more time on creating a culture that fosters collaboration, accountability, and continuous improvement. ⏎ - Save time and money from juggling multiple apps, and ensure your team stays connected with a secured communication app
+r8c1: PMM owner
+r8c2: Not supported
+r9c1: Feature name
+r9c2: Feature description
+r9c3: Customer pain points
+r9c4: Customer benefits
+r9c5: Value proposition
+r10c1: Employee Engagement
+r10c2: Track your team's engagement and satisfaction over time, so you identify trends, improve coaching, and uncover operational issues early. Give your team a way to be heard through shift surveys and public recognition channels.
+r10c3: Restaurants are struggling with high employee turnover. Team culture and poor management are top reasons for employees leaving.
+r10c4: - Reduce costly and unpredictable employee turnover by keeping a frequent pulse on each employee and fostering a culture that enhances overall employee satisfaction
+r10c5: Stop worrying about high turnover caused by disengaged employees. Gain actionable insights to boost employee satisfaction, recognition, and engagement. Remember, an engaged staff means higher productivity, satisfied customers, and a better bottom line.
+r11c1: Performance Management
+r11c2: Document your employees’ accomplishments and identify areas of improvements in one secured place. Plus, easily identify performance trends based on team engagement and performance over time.
+r11c3: - It's difficult to track individual employees' performance over time, as data is scattered among different places ⏎ - It's challenging for new management to access and undestand employee's past performance and contributions
+r11c4: - Save time tracking down important metrics that can help drive performance conversations ⏎ - Enable instant access to employee performance history for improved coaching and better decision making
+r11c5: Boost team performance by tracking important metrics and identifying trends to drive impactful conversations. Managers have easy access to employee performance history, so they can make smarter decisions and coach more effectively.
+r12c1: Communications
+r12c2: A team communications app that keeps your whole team connected, including announcements, one-on-one chats, group chats, flexible notifications, and an activity log
+r12c3: - It's time consuming to ensure everyone at the restaurant are in sync and connected  ⏎ - There is a lack of control and visibility in communication between management and employees, which can pose legal risks
+r12c4: - Cut calls, texts, and emails by 50% using 7shifts' team communication tools ⏎ - Ensure accountability and traceability in all work-related communciations
+r12c5: Communication is key to running a successful restaurant! Ensure your whole team stays connected with a secure and centralized communication app, boosting collaboration and accountability.
+r13c1: Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r13c2: Subfeature description
+r13c3: Customer pain points
+r13c4: Customer benefits
+r13c5: Value proposition
+r14c1: Engage Dashboard ⏎ Employee Engagement
+r14c2: A dashboard that pulls in data from your schedule, time clock, shift pool, and shift flags to help you track employee engagement across your entire business.
+r14c3: It's time consuming for managers to compile their team's performance stats and shift feedback comments. This makes it difficult for them to: ⏎ - Identify strong and weak performers ⏎ - Build trust with employees ⏎ - Identify operational issues
+r14c4: - Build a strong work culture and reduce turnover by rewarding engaged employees ⏎ - Boost productivity by tracking disengaged employees to offer more training and coaching
+r14c5: Get a snapshot of your location's performance and engagement. Save time identifying strong and weak performers, and more time on boosting engagement and productivity.
+r15c1: Shift Feedback ⏎ Employee Engagement
+r15c2: Send automated surveys to your staff and get real-time feedback on their shift satisfaction. Employees can choose from default categories as to why a shift may have been good or back, annd optionally leave actionable comments.
+r15c3: It's difficult for managers to know if their team are happy at work. Especially for managers that are not always on the floor, it can be challenging to track conflict between employees or any operational issues (such as understaffing, malfunctioning equipment, etc.)
+r15c4: - Increase employee happiness and decrease turnover by addressing operational and human resource issues before they become larger problems
+r15c5: Reduce employee turnover by keeping a close eye on your team's happiness. Your automated post-shift surveys can help you easily see what went wrong (or right) with their shift, helping you identify issues before they become problems.
+r16c1: Shout-outs ⏎ Employee Engagement
+r16c2: Within the mobile app, managers and employees can express appreciation and recognition to each other by sending a "shout-out" in a dedicated Team Channel. Choose from one of five shout-outs to send and include an optional message.
+r16c3: A lack of recognition in the workplace is leading to a decrease in productivity and increase in absenteeism
+r16c4: - Build a more connected team by celebrating each other’s success ⏎ - Faciliates performance conversations as managers can view and track all shout-outs in a dedicated team channel within Messaging
+r16c5: Boost morale and improve employee retention by giving your team the public recognition they deserve. Plus, you can keep track of your team’s shout-outs to drive future performance conversations.
+r17c1: Performance Log ⏎ Performance Management
+r17c2: Document an individual employee's engagement and performance over time in one centralized place
+r17c3: - It's difficult for managers to keep track of their employee's individual performance overtime ⏎ - New managers joining the restaurant have little information on their employee's past performance
+r17c4: - Ensure your managers stay in sync with an organized record of your team’s performance ⏎ - Save time during performance reviews and reduce bias
+r17c5: Save time tracking down performance-related notes and focus on creating a productive and engaging culture. By documenting your team's accomplishments and areas of improvements in one centralized place, you can gain clarity into each team members' progress and achievements, saving you time and driving fair and impactful performance conversaions.
+r18c1: Employee Performance Insights ⏎ Performance Management
+r18c2: Within an employee's 7shifts profile, managers can view and track that employee’s performance metrics overtime, including: # of shifts worked, # of lates, # of no shows, # shift bids, # shifts dropped, # tasks completed, and individual Shift Feedback comment and score
+r18c3: - Performance stats are tracked in multiple places  ⏎ - Difficult to get a holistic sense of how each team member is doing.
+r18c4: - Monitor an indivdiual employee's engagement and performance over time
+r18c5: Stop going to multiple places to gather information about your employee’s performance. All the essential data you need, like punctuality and dropped shifts, is compiled directly in the employee’s profile within 7shifts. Get a clearer picture of how a specific employee is doing and easily recognize wins and identify areas of improvement.
+r19c1: Messaging ⏎ Communications
+r19c2: A secured, one-way or two-way team chat to keep your team connected. Managers can start chats based on who’s scheduled to work on specific dates or based on location, department, or role.
+r19c3: - It can be frustrating for managers to have to communcate with their emplyees on multiple messaging platforms.  ⏎ - It's time consuming for managers to share important updates to everyone on their team ⏎ - There is a lack of control and visibility in messages between management and employees, which can pose legal risks
+r19c4: - Save time from having to use multiple platforms to communicate with your team ⏎ - Increase transparency and collaboration between your team, as employees can easily reach their coworkers without having to exchange contact information ⏎ - Ensure accountability and traceability in all work-related communciations ⏎ - Flexible recipient options ensures the updates are communicated to the right people
+r19c5: Stop juggling multiple platforms to communicate with your team. Increase transparency, collaboration, and accountability with secured and centralized messaging, and be confident that important updates get to the right people.
+r20c1: Activity Log / Activity Audit Log ⏎ Communications
+r20c2: A log that tracks changes that other managers and staff are making within 7shifts, including publishing and editing schedules, approving or unapproving availability and shift trade requests, and announcements sent.
+r20c3: - It's difficult to track which managers are updating schedules, approving availiabity and more. This leads to a lack of accountability if issues arises.
+r20c4: - Increase accountability and transparency of the actions managers are making  ⏎ - Improve the ease of auditing or reviewing the actions taken by managers
+r20c5: Stop guessing who did what and easily track all the actions and changes made my managers. Improve transparency and increase responsible decision-making.
+r21c1: Notifications ⏎ Communications
+r21c2: Choose to receive SMS, push, and email notifications when changes happen in 7shifts. Get notified when messages are sent, when a schedule is updated, when employees submit availbility, time off, or shift trade requests, and more.
+r21c3: Managers are missing important schedule changes or employee requests, leading to inefficient operations and unhappy employees.
+r21c4: - Increase employee happiness by prompty responding to their time off, availability, and shift trade requests ⏎ - Increase collaboration between managers, by ensuring everyone is notified when announcements and log book summaries are posted, when schedules are published and edited, and when location performance summaries are sent out weekly.
+r21c5: Say goodbye to missing important updates. Managers and employees can customize the notifications they receive, ensuring they stay connected with their team, always have the most up-to-date schedule, and can respond promptly to requests.
+r22c1: Smaller Subfeature name ⏎ List smaller subfeatures in order of importnace and list the feature it's related to
+r22c2: Smaller Subfeature description
+r22c3: Customer pain points
+r22c4: Customer benefits
+r22c5: Value proposition
+r23c1: Shift Feedback Report ⏎ Employee Engagement
+r23c2: View a graph of your shift scores over time to easily identify trends. Click into a specific day, week, or month to see a detailed breakdown of feedback scores and comments.
+r23c3: It's challenging for managers to spot patterns in shift feedback and identify unusual trends, which makes it difficult to: ⏎ - understand their team's sentiment over time ⏎ - address team and/or operational issues promptly
+r23c4: - Increase manager’s visibility into shift feedback trends and outliers so they can better understand how their team is doing and action upon any issues as quickly as possible.
+r23c5: Spend less time digging through data, and more time increasing your team’s satisfaction.  See all of your team’s shift feedback in one place, view your team’s average shift score over time, and identify trends and outliers.
+r24c1: Team Chat ⏎ Messaging
+r24c2: Chat with individual employees and create group chats by department and role.
+r24c3: - It can be frustrating for managers to have to communcate with their emplyees on multiple messaging platforms.  ⏎ - There is a lack of control and visibility in messages between management and employees, which can pose legal risks ⏎ - Employees can't easily communicate with one another, leading to a disengaged staff and poor workplace culture
+r24c4: - Save time from having to use multiple platforms to communicate with your team ⏎ - Increase transparency and collaboration between your team, as employees can easily reach their coworkers without having to exchange contact information ⏎ - Send multi-media messages to make messages more engagement and impactful ⏎ - Keep messages organized with the ability to start a thread and reply to specific messages
+r24c5: Boost team collaboration and enable your team to stay connected through 7shifts! Send GIFs or PDFs, videos, images to communicate effectively with team members. Plus, you can start a thread to keep conversation organized and the group chat clutter-free.
+r25c1: Announcements ⏎ Messaging
+r25c2: Send a one-way message blast to specific employees, departments, or your whole team to relay important information.
+r25c3: It's time consuming for managers to share important updates to everyone on their team
+r25c4: - Save time delivery important information to your team ⏎ - Increase accountability with announcement read receipts
+r25c5: Getting everyone on the same page can be simple. With Announcements, send important one-way messages to your team and easily track who has, or hasn't, read your message
+r26c1: Shift Notifications ⏎ Notifications
+r26c2: When schedules are published and updated, employees are instantly notified of their upcoming shifts via push, text, or email.
+r26c3: - It's easy for employees forget to check their schedule, which can lead to missed shifts or late shifts ⏎ - Employees are frustrated because they are unaware of shift changes which can lead to decreased engagement and increased turnover
+r26c4: Increase accountability and transparency by ensuring employees have an easy way of being notified of schedule and/or shift changes.
+r26c5: Say good bye to missed or late shifts. With Shift Notifications, increase accountability and transparency by ensuring employees are promptly notified of schedule changes, reducing missed shifts and boosting engagement.
+r27c1: Mobile Shift Reminders ⏎ Notifications
+r27c2: Send automatic push or text reminders to employees on their mobile device to ensure they are aware of upcoming shifts.
+r27c3: Employees don't check their email and miss schedule notifications, which can lead to missed or late shifts
+r27c4: - Increased visiblity of shift reminders, ensuring employees are informed about their shifts in real-time and reduicing the risk of missed shifts
+r27c5: Stay informed on-the-go! Employees receive real-time shift notifications directly to their phones, reducing missed shifts and boosting engagement.
+r28c1: SMS Notifications ⏎ Notifications
+r28c2: All staff can receive text notifications for new schedules, shift pool requests, time off alerts, and announcements.
+r28c3: - Employees without a smartphone or email can't receive important information about their shifts or schedule
+r28c4: - Multiple ways for employees to receive notifications about their schedule and announcments, ensuring employees are always informed
+r28c5: Keep your team informed and engaged with our flexible notification system. In addition to email and push notifications, employees can choose to receive schedule updates and announcements via SMS, ensuring everyone stays in the loop.
+r29c1: Even Smaller Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r29c2: Smaller Subfeature description
+r29c3: Customer pain points
+r29c4: Customer benefits
+r29c5: Value proposition
+r30c1: Read Reciepts ⏎ Announcements
+r30c2: Gain visibility into which message was seen from your team, and reach out to those who haven’t yet read
+r30c3: - Unable to understand if all employees have read important announcements
+r30c4: - Increase transparency and ensure that important information is read and acknowledged by your team
+r30c5: Avoid the frustration of overlooked announcements by using read receipts to track who has or hasn't read your message and follow up if necessary.
+r31c1: Additional Resources
+r32c1: Testimonials
+r32c2: “The biggest change 7shifts brought was the employee experience. That’s what we wanted it to do, and we can see the results.”  — Travis Leaming, Director of Store Operations at Andy’s Frozen Custard ⏎  ⏎ "Our supervisors use the Manager Log Book and it has been extremely helpful in keeping everyone up to speed on daily operations, issues and ideas. We act much quicker when addressing problems with staff and maintenance, and reduce the distortion of facts when compared to transferring information along a chain of conversations. This is a valuable feature not to be overlooked." — Shannon Stebelko, Chef and Owner at Spicy Radish Cafe ⏎  ⏎ “[The Engage Dashboard] has been really impactful, being able to track on the dashboard, most reliable, most eager, and most often late. It has been good to see our stats on no shows and [dropped shifts] have improved.” – Sam Aguilar, VP of Operations, Oak and Stone ⏎  ⏎ "Since using 7shifts we have been able to maximize performance and labor. We have a stronger team communication, and it is a great way to get feedback from staff!" - Charlotte Burdette, Manager at Colleen's Kitchen ⏎  ⏎ "7 Shift has made a great impact on working conditions. Fewer hours are spent scheduling, easy to connect with the team individually and in groups. Easy to set up different teams/markets with different schedules. You can view specific group schedules or everyone. I like how we can see the availability while scheduling. One of the best features is that the app is available on the app store and has easy notifications." -- Rose Lama, Assistant Manager at Village Market
+r33c1: ROI statistics
+r33c2: 93% of teams using Shift Feedback said it helped them resolve team conflict and identify operational issues ⏎ 88% of teams using Engage saw improved team morale, retention, or performance ⏎ 90% of teams using Manager Log Book report improved communications
+r34c1: Related case studies
+r35c1: Marketing collateral
+r36c1: Video assets
+r37c1: Market & competitive analysis
+r37c2: Team Engagement: Team Engagement Market & Competitor Analysis (Q4 2023)
+
+==========================================================================================
+SHEET: POSITIONING FRAMEWORK TEMPLATE
+==========================================================================================
+r1c1: Owner: [Insert PMM name]
+r2c1: Squad: [Insert squad name]
+r4c1: PRODUCT NAME
+r5c1: Value Proposition
+r5c2: Is a clear, succinct statement of the unique value you offer customers. It's closely tied to your positioning and has one, clear focal point.
+r6c1: Elevator Pitch
+r6c2: 1 - 2 sentences that incorporates your value proposition. What do you bring to the table that others don't? Make sure the pitch is unique, captures emotions, states the target market and includes the top one to two value points you deliver.
+r7c1: Positioning Statement
+r7c2: For (target market), that need (audience your product addresses), (name your product/feature), is a (define product category) that (how does your product's need in a sentence). Unlike (competitors), our product (how is it different then competitors).
+r8c1: Long Description
+r8c2: Include the value points uncovered in your positioning work, as well as product/feature details, headline benefits, an indication of your target market and some proof points, too (e.g., names of current customers or anything brag-worthy). ⏎  ⏎ Tip #1: Keep It Super Simple (KISS). Stay away from industry jargon and express your pitch as simply and purely as you can. ⏎  ⏎ Tip #2: Run your pitch through the Readability and/or Hemingway apps to make sure they're easily understood. ⏎  ⏎ Tip #3: Focus on what you want the recipient to remember after seeing the elevator pitch (e.g., which outcomes and emotions should they have and feel).
+r9c1: Positioning our product/feature  ⏎ How are we positioning our product/feature this way? Why?
+r9c2: Explain how and why we are positioning this product/feature this way.
+r10c1: COMPLETE THE FOLLOWING SECTIONS BELOW FIRST
+r11c1: Market Category ⏎ The macro market (and submarket as applicable) that your product competes in
+r11c2: What is the frame of reference customers will use to evaluate your product and understand its unique value? ⏎ Ex. "Scheduling software" or "Team management tool" or "Tip pooling management" // How do you find a category that makes immediately clear what your product is? ⏎ Goal: find a market category that best answers the question, what are you?
+r12c1: Competitive Alternatives ⏎ If we didn’t exist, what would a customer do?
+r12c2: What would customers use if your product didn't exist? This can go beyond other software, such as, 'Use sticky notes.'
+r13c1: Competitive Positioning  ⏎ How is the market positioning their product?
+r13c2: How is the market positioning their offering currently?
+r14c1: Target ICP  ⏎ Who is our ideal customer profile? Who cares a lot about this product?
+r14c2: Who is the core ICP for this feature/product? Also consider user behavior, organizational characteristics, geographical details, and consumption habits. What are the characteristics of a customer that makes them care a lot about the value we deliver? Back-up what you're saying with a proof points, insights, or data from the market (e.g., Productboard, data, stats, quotes).
+r15c1: Pain Points
+r15c2: What are the list of pain points this ICP faces? A pain point is something that causes friction in the target audience's day-to-day life that our product aims to solve.
+r16c1: PRODUCT DIFFERENTIATORS ⏎ Product differentiators are the characteristics that make a product stand out while also solving the previously identified pain point.
+r17c1: Unique Attributes ⏎ Features that make us different
+r17c2: What we’ve got that the competition doesn’t. You don’t need to worry that a feature or capability is differentiating against every competitor on your list—it only needs to be differentiating against one of the competitive alternatives.
+r18c1: ⭐ Differentiated Value ⏎ What is the benefit/value that makes us different? Translate your unique attributes to value by asking repeatedly, "So what? Why does this matter to my custoer and their business?"
+r18c2: Differentiated value is the holy grail of product positioning! What value do those unique attributes enable for customers? Connect your product's unique features and capabilities to a goal your ideal customers are trying to achieve.
+r19c1: Differentiated Value Theme ⏎ Cluster yor differentiated value points into 1-3 value themes. People can’t remember 15 things, they can only remember 2-3 things.
+r20c1: Differentiated Level ⏎ How differerent is this from alternatives?
+r21c1: Proof Points / Reasons to Believe
+r21c2: This can include case studies, quotes, statistics, third-party validation, and customer reviews.
+r22c1: ADDITIONAL RESOURCES
+r23c2: Link any additional resources here.
+
+==========================================================================================
+SHEET: VALUE PROP TEMPLATEINSTRUCTIONS
+==========================================================================================
+r1c1: Product name:
+r2c1: Description
+r3c1: Positioning statement
+r3c2: In 1-3 sentence, describe overarching and what it is. Think of this section as if you were a Sales Rep defining it to a customer.
+r4c1: Ideal Customer Profile (ICP)
+r4c2: Who is the core ICP for this product?
+r5c1: Core product's key pain points
+r5c2: What are the list of pain points our customer faces around this product (think more wider than a specific feature)? A pain point is something that causes friction in our target audience's day-to-day life that our product aims to solve.
+r6c1: Core product's key benefits
+r6c2: What is the benefit/value that makes us different? Asking repeatedly, "So what? Why does this matter to our customer and their business?"
+r7c1: ⭐ Core value props
+r8c1: PMM owner
+r9c1: Feature name
+r9c2: Feature description
+r9c3: Customer pain points
+r9c4: Customer benefits
+r9c5: Value proposition
+r10c1: What is the name of this feature/subfeature? Please put in your proposed spelling and grammar of this feature/subfeature as there are some which are inconsistent across our company (e.g., Labor Buget Tool vs. Labor Budgeting Tool vs. Labor Budgeting).
+r10c2: In 1-3 sentence, describe what the feature/subfeature does. Think of this section as if you were a Sales Rep explaining it to a customer. Don't mention the benefits, focus on a high level overview of what it does/how it works.
+r10c3: Illustrate the situation they're dealing with in 1-2 sentences, then pinpoint the pain points that situation is causing.
+r10c4: What are the benefits that makes us different? Asking repeatedly, "So what? Why does this matter to our customer and their business?"
+r10c5: Consider loss aversion when starting the proposition. People will think twice as hard to avoid loss than the benefit gained. Customers need to understand the value of the products but also be reinforced of the problems/challenge they face that they need to overcome. ⏎  ⏎ Utilize elements from the customer pain points section and the customer benefits section, and combine them into a value prop. ex. "Stop wasting time doing repetitive tasks that are easy to automate."
+r14c1: Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r14c2: Subfeature description
+r14c3: Customer pain points
+r14c4: Customer benefits
+r14c5: Value proposition
+r32c1: Smaller Subfeature name ⏎ List subfeatures in order of importnace and list the feature it's related to
+r32c2: Smaller Subfeature description
+r32c3: Customer pain points
+r32c4: Customer benefits
+r32c5: Value proposition
+r37c1: Additional Resources
+r38c1: Testimonials
+r39c1: ROI statistics
+r40c1: Related case studies
+r41c1: Marketing collateral
+r42c1: Video assets
+r43c1: Market & competitive analysis
+
+==========================================================================================
+SHEET: Template example
+==========================================================================================
+
+==========================================================================================
+SHEET: 7tasks poll results
+==========================================================================================
+r1c1: Poll Results From Summer Specials Webinar - July 2021
+r3c1: SUMMARY
+r4c1: 7tasks
+r4c3: 5.0
+r4c4: 0.2
+r5c1: Pen and Paper
+r5c3: 5.0
+r5c4: 0.2
+r6c1: Text/email/online communication channels
+r6c3: 7.0
+r6c4: 0.28
+r7c1: Verbally
+r7c3: 3.0
+r7c4: 0.12
+r8c1: Whiteboard
+r8c3: 4.0
+r8c4: 0.16
+r9c1: Other
+r9c3: 1.0
+r9c4: 0.04
+r10c1: TOTAL
+r10c3: 25
+r14c1: #
+r14c2: User Name
+r14c3: User Email
+r14c4: Submitted Date/Time
+r14c5: Poll Question
+r14c6: Poll Answers
+r15c1: 54.0
+r15c2: Andy Doebele
+r15c3: andy@greatlakesdistillery.com
+r15c4: 2021-07-21 18:21:00
+r15c5: How do you currently manage your restaurant’s tasks?
+r15c6: Whiteboard
+r16c1: 59.0
+r16c2: Jordan Andrian
+r16c3: jordan@jo-pizza.com
+r16c4: 2021-07-21 18:21:00
+r16c5: How do you currently manage your restaurant’s tasks?
+r16c6: 7tasks
+r17c1: 61.0
+r17c2: Ashley Romkes
+r17c3: info@mercatowest.com
+r17c4: 2021-07-21 18:21:00
+r17c5: How do you currently manage your restaurant’s tasks?
+r17c6: 7tasks
+r18c1: 64.0
+r18c2: Brett Millard
+r18c3: brett@saskatoonsoccer.onmicrosoft.com
+r18c4: 2021-07-21 18:21:00
+r18c5: How do you currently manage your restaurant’s tasks?
+r18c6: 7tasks
+r19c1: 72.0
+r19c2: Curt Tappendorf
+r19c3: curttappendorf@gmail.com
+r19c4: 2021-07-21 18:21:00
+r19c5: How do you currently manage your restaurant’s tasks?
+r19c6: 7tasks
+r20c1: 78.0
+r20c2: Denise Parenchuck
+r20c3: dparenchuck@reinsdeli.com
+r20c4: 2021-07-21 18:21:00
+r20c5: How do you currently manage your restaurant’s tasks?
+r20c6: 7tasks
+r21c1: 74.0
+r21c2: Alexis Daniels
+r21c3: alexis@beyondjuiceryeatery.com
+r21c4: 2021-07-21 18:21:00
+r21c5: How do you currently manage your restaurant’s tasks?
+r21c6: Other
+r22c1: 55.0
+r22c2: Eileen Gannon
+r22c3: eileen@gannonsicecream.com
+r22c4: 2021-07-21 18:21:00
+r22c5: How do you currently manage your restaurant’s tasks?
+r22c6: Pen and paper
+r23c1: 60.0
+r23c2: Rhonda Wiebe
+r23c3: Rhondaevewiebe@gmail.com
+r23c4: 2021-07-21 18:21:00
+r23c5: How do you currently manage your restaurant’s tasks?
+r23c6: Pen and paper
+r24c1: 62.0
+r24c2: Thomas Dambrine
+r24c3: thomas@thenaughtygreek.com
+r24c4: 2021-07-21 18:21:00
+r24c5: How do you currently manage your restaurant’s tasks?
+r24c6: Pen and paper
+r25c1: 65.0
+r25c2: Shawn Craft
+r25c3: shawn.craft@menlofoodlabs.com
+r25c4: 2021-07-21 18:21:00
+r25c5: How do you currently manage your restaurant’s tasks?
+r25c6: Pen and paper
+r26c1: 76.0
+r26c2: Mark Naylor
+r26c3: cl089@choppedleaf.ca
+r26c4: 2021-07-21 18:21:00
+r26c5: How do you currently manage your restaurant’s tasks?
+r26c6: Pen and paper
+r27c1: 56.0
+r27c2: laura potts
+r27c3: llp9197@yahoo.com
+r27c4: 2021-07-21 18:21:00
+r27c5: How do you currently manage your restaurant’s tasks?
+r27c6: Text/email/online communication channels
+r28c1: 57.0
+r28c2: Seamus Dooley
+r28c3: sdooley@phantomcreekestates.com
+r28c4: 2021-07-21 18:21:00
+r28c5: How do you currently manage your restaurant’s tasks?
+r28c6: Text/email/online communication channels
+r29c1: 63.0
+r29c2: Brian Reilly
+r29c3: brian@eatjustice.com
+r29c4: 2021-07-21 18:21:00
+r29c5: How do you currently manage your restaurant’s tasks?
+r29c6: Text/email/online communication channels
+r30c1: 67.0
+r30c2: Rodrigo Rodas
+r30c3: rodrigo@thankyouhospitality.com
+r30c4: 2021-07-21 18:21:00
+r30c5: How do you currently manage your restaurant’s tasks?
+r30c6: Text/email/online communication channels
+r31c1: 68.0
+r31c2: Stacy Brockmyre
+r31c3: stacy@windjammergroup.com
+r31c4: 2021-07-21 18:21:00
+r31c5: How do you currently manage your restaurant’s tasks?
+r31c6: Text/email/online communication channels
+r32c1: 69.0
+r32c2: camila kallmann
+r32c3: camila@pubbellyusa.com
+r32c4: 2021-07-21 18:21:00
+r32c5: How do you currently manage your restaurant’s tasks?
+r32c6: Text/email/online communication channels
+r33c1: 73.0
+r33c2: Kelley Trosko
+r33c3: ktrosko0728@gmail.com
+r33c4: 2021-07-21 18:21:00
+r33c5: How do you currently manage your restaurant’s tasks?
+r33c6: Text/email/online communication channels
+r34c1: 58.0
+r34c2: Linda thorne
+r34c3: ControlAnalyst@AnitasCorp.com
+r34c4: 2021-07-21 18:21:00
+r34c5: How do you currently manage your restaurant’s tasks?
+r34c6: Verbally
+r35c1: 70.0
+r35c2: Genevieve Escalante
+r35c3: genevieve@theiceboxct.com
+r35c4: 2021-07-21 18:21:00
+r35c5: How do you currently manage your restaurant’s tasks?
+r35c6: Verbally
+r36c1: 77.0
+r36c2: Hugh Wainman-Wood
+r36c3: controller@strathconahotel.com
+r36c4: 2021-07-21 18:21:00
+r36c5: How do you currently manage your restaurant’s tasks?
+r36c6: Verbally
+r37c1: 66.0
+r37c2: Brenna Young
+r37c3: Brenna@Smokeydsbbq.com
+r37c4: 2021-07-21 18:21:00
+r37c5: How do you currently manage your restaurant’s tasks?
+r37c6: Whiteboard
+r38c1: 71.0
+r38c2: emmanuelleproulx-wallace
+r38c3: emmanuelle@bizcat.ca
+r38c4: 2021-07-21 18:21:00
+r38c5: How do you currently manage your restaurant’s tasks?
+r38c6: Whiteboard
+r39c1: 75.0
+r39c2: Emily Coburn
+r39c3: emilyvanisle@gmail.com
+r39c4: 2021-07-21 18:21:00
+r39c5: How do you currently manage your restaurant’s tasks?
+r39c6: Whiteboard
