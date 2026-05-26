@@ -114,23 +114,9 @@ Two **independent** components — never locked together (the symbol's "7" repea
 
 ## Voice & tone
 
-**Voice (never changes):** Knowledgeable, Clear, Warm, Helpful.
+**Voice (never changes):** Knowledgeable, Clear, Warm, Helpful. The operator and staff are the hero; 7shifts is the trustworthy sidekick.
 
-**Tone (shifts by context):**
-- To **employees** → playful, conversational. *"Knives down: It's break time."*
-- To **operators in-product** → straightforward, action-oriented. *"Attention needed. Review the scheduling conflicts below."*
-- To **operators in marketing** → confident. *"Easy to use, easier to love. Make your first schedule for free."*
-- About **ourselves** → reassuring, clear-cut. *"We're here to support your entire restaurant team."*
-
-**Calibration ("we always sound clear"):** Not enough → "Improve your restaurant operations with better labor cost management." · Just right → "Save time and money with team scheduling and payroll." · Too much → "Schedule and pay your team."
-
-**Sanctioned statements (use or write in their key):** Great teams make great restaurants · Building successful restaurants, one shift at a time · The all-in-one app behind strong restaurant teams · You support your team, we support you · Restaurants are chaotic — 7shifts isn't · We just 86'd kitchen commotion · People-powered, every step of the way.
-
-**Restaurant vocab welcome** (86, knives down, last call, tip-out, FOH/BOH, in the weeds) — one per piece, not three.
-
-**Never:** generic SaaS speak ("optimize workflows," "leverage synergies," "transform your business"), corporate hedges ("we strive to," "we aim to"), or anything that talks down to a hospitality worker.
-
-> Note: this is the **7shifts brand voice**. Justin's personal writing uses the `justin-voice` skill. They're complementary — brand voice for company-facing 7shifts copy, justin-voice for Justin's own posts/memos/talk tracks.
+➡️ **Verbal voice lives in [`voice.md`](voice.md)** — tone by audience, calibration, sanctioned statements, restaurant vocab, and what we never write. That's the single source for how we write. This file owns the visual system; `voice.md` owns the words.
 
 ---
 
