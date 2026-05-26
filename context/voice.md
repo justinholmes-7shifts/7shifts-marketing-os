@@ -67,6 +67,8 @@ Also avoid: corporate buzzwords (ecosystem, empower); hedge words (maybe, possib
 
 **Use instead:** "proven methods," "make easier," "simplify," "connect," "bring together."
 
+**Why they're banned:** each describes functionality, not a quantified customer outcome. The buzzword is usually the tell that the metric is missing. See [`positioning.md`](positioning.md) → "What makes a value prop (not a feature)."
+
 ## Word selection
 
 - Anglo-Saxon over Latinate (help not assist, use not utilize)

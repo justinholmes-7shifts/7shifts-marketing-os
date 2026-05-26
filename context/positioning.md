@@ -45,6 +45,33 @@ People remember three things, not fifteen. Everything ladders up to:
 2. **Cost savings**
 3. **Increased employee retention**
 
+## What makes a value prop (not a feature)
+
+A value prop is a quantified customer outcome, not a description of the product. Every line climbs this ladder and stops only at the top:
+
+**feature → functionality → benefit → value prop (quantified outcome + the pain avoided)**
+
+- **Feature:** what it is. "Auto-Scheduler."
+- **Functionality:** what it does. "Builds a schedule in one click." This is where the banned words live ("seamless," "streamline," "all-in-one," "optimize"). They describe the product doing things, not the customer's gain.
+- **Benefit:** what the customer gets. "Save time."
+- **Value prop:** the measurable gain set against the pain. "Stop overpaying on labor and save an average of $1,045 a month."
+
+**The test:** if you can't name the metric (time, money, retention, or risk), you stopped at functionality. A buzzword is the tell that the number is missing. We have the numbers (see ROI below), so there's no excuse to stop short.
+
+### 7shifts before / after
+
+| 🚫 Feature + buzzword | ✅ Value prop (metric-based) |
+|---|---|
+| "Optimize your labor with our all-in-one platform." | "Stop overpaying on labor. Forecast sales and labor to avoid over- and under-staffing and save an average of $1,045 a month in overtime." |
+| "Streamline scheduling with an intuitive interface." | "Get your Sunday back. Managers save 14 hours a month building schedules in 7shifts instead of fighting a spreadsheet." |
+| "Seamlessly connect scheduling, time clocking, and payroll." | "Stop re-keying the same hours into three systems. One set of shift data cuts the manual work that eats 45 minutes a pay run, and the errors with it." |
+| "Robust time clocking to streamline attendance." | "Stop paying for shifts that didn't happen. Only scheduled, on-site staff can clock in, saving about $2,000 a month on time theft and payroll errors." |
+| "Cutting-edge labor compliance functionality." | "Catch the fines before they hit. 7shifts surfaces an average of $589 a month in labor infractions so you fix them instead of paying them." |
+| "An all-in-one, seamless tip management solution." | "Stop the four-hour weekly tip math and the disputes that follow. 7shifts calculates and pays out tips automatically, matching your existing tip-out rules." |
+| "Leverage team engagement to boost retention." | "One server quitting costs thousands to backfill. Keep a pulse on team sentiment to cut turnover by up to 13%." |
+
+> The messaging guide already espouses this ("translate attributes to value by asking 'so what? why does this matter?'"). This standard just holds the line on finishing the climb.
+
 ## Core value props
 
 Pain + benefit, framed as loss-avoidance plus gain. Use these as the backbone of campaign and web copy:
@@ -86,11 +113,11 @@ Pain + benefit, framed as loss-avoidance plus gain. Use these as the backbone of
 
 **Testimonials:** Danny Meyer (Union Square Hospitality Group); David Adjey (BOUFFE by Adjey); Barry Lowenthal (The Brass Tap); Erhan Seven (The Factory Girl). **Case studies:** Andolini's, gusto!, Chatime Canada. Full block in [`source/`](source/).
 
-## ⚠️ One conflict to resolve: banned words vs the messaging guide
+## On the banned words: the standard resolves it
 
-The PMM messaging guide leans on words the content writing guidelines **ban**: "seamless," "optimize," "streamline," and "all-in-one" as a descriptor of 7shifts. The value props above are quoted as written, but when you turn them into published content, rewrite per [`voice.md`](voice.md):
-- "all-in-one" → **"in one app" / "one easy-to-use app"** (the idea is sanctioned; the literal phrase as a descriptor is not)
-- "seamlessly connect" → **"connect" / "bring together"**
-- "optimize / streamline" → **"make easier" / "simplify"**
+This looked like a conflict (the messaging guide uses "seamless / optimize / streamline / all-in-one," which [`voice.md`](voice.md) bans). It isn't one to negotiate. Those words show up exactly where a line stopped at functionality instead of climbing to a metric-based value prop. Fix the value prop and the banned word disappears on its own.
 
-This is worth a real decision with PMM (Danielle Wong owns the guide): align the source on the content team's banned-word list, or formally scope the banned list to blog/editorial only. Flagged for Justin.
+**Decision (per Justin): stick with the positioning guide as the source. No banned-word reconciliation project.** The value-prop standard above, which the guide already espouses, is the real fix. At the editorial layer, apply the voice.md swaps if a phrase slips through:
+- "all-in-one" → "in one app" / "one easy-to-use app"
+- "seamlessly connect" → "connect" / "bring together"
+- "optimize / streamline" → "make easier" / "simplify"
