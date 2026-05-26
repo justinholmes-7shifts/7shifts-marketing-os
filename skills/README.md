@@ -4,6 +4,7 @@ Repeatable thinking tools the whole team shares. Each skill is a folder with a `
 
 ## What goes here
 Team-level skills, not personal ones. For example:
+- **brand-designer** — a senior 7shifts brand designer with point of view. Produces on-brand assets (social, slides, web, illustration, swag, co-brands) and pushes back on off-brand requests. Pulls the visual system from `context/brand-guidelines.md` and copy voice from `context/voice.md`.
 - **clear-communications-v2** — rate and improve any writing with the Pyramid Principle (answer first, SCQA). Generic clarity tool, useful for readouts and memos. (Shared from the CMO OS; team repo is now its canonical home.)
 - **campaign-orchestration** (Tamara) — drop the skill folder here.
 - Any skill more than one person should run the same way.
