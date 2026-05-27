@@ -13,7 +13,7 @@ The restaurant version: Tamara's doc sets up your station. The Marketing OS is t
 To get going:
 
 1. Run Tamara's doc to set up your workspace.
-2. Clone the Marketing OS into it. (Link coming once it's hosted.)
+2. Clone the Marketing OS into it: `git clone https://github.com/justinholmes-7shifts/7shifts-marketing-os.git`
 3. Point your CLAUDE.md at the brain so it loads every session.
 
 Personal workspace, shared brain. Set yours up once, pull from the same source, give back as you learn.
