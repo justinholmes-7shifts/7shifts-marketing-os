@@ -21,6 +21,8 @@ You'll have two folders side by side: your personal `~/your-workspace/` and `~/7
 
 **3. Run `git pull` when you start working,** so you always have the latest.
 
+Set up? Run your first play from [`docs/starter-plays.md`](docs/starter-plays.md) to feel the payoff in week one.
+
 ## When to use the brain, and when not
 
 - **Pull from it constantly.** Writing copy, planning a campaign, needing the ICP or a persona, checking positioning, running a team skill. Read from it, don't retype it.
