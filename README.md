@@ -4,7 +4,7 @@ The Growth Marketing team's shared brain: who we sell to, how we sound, what we'
 
 ## Start here (about 10 minutes)
 
-New to Claude Code? Set up your personal workspace first with Tamara's "Claude Code Setup" doc, then do these three steps.
+New to Claude Code? Set up your own personal workspace first, then do these three steps.
 
 **1. Clone this as a sibling to your workspace** (not inside it, it's its own git repo):
 
@@ -31,6 +31,20 @@ You'll have two folders side by side: your personal `~/your-workspace/` and `~/7
 
 One folder per campaign in your personal workspace under `Projects/`, named to sort (`YYYY-QN-name`). Do the work there. When it wraps or teaches you something, write the record into this brain's `campaigns/` (template in `campaigns/README.md`) and promote the lesson to `learnings.md`. Skip organizing by lifecycle stage, stage is a tag, not a folder.
 
+## Contributing back to the brain
+
+The Marketing OS is its own git repo, separate from your workspace. Anything you add or change here is local until you push it, so the team only sees it once you do. Two ways to push, depending on what you're contributing.
+
+**The easy path (learnings and campaign records).** Tell Claude "share this learning" or "log this campaign." The `share-learning` skill checks it's worth keeping, writes it in the right place, and runs the pull, commit, and push for you. You never touch git.
+
+**The general path (editing a shared file like positioning or voice).** Bigger changes follow the normal git flow, and Claude can run it for you if you ask ("commit and push this to the brain"):
+
+1. `git pull` first, so you're working off the latest.
+2. Make the change.
+3. `git add`, commit with a clear message, then `git push`.
+
+The one rule either way: **pull before you push.** Several people contribute to this repo, so starting from the latest copy keeps it conflict-free.
+
 ## What's in here
 
 | Folder | What it holds |
@@ -39,7 +53,7 @@ One folder per campaign in your personal workspace under `Projects/`, named to s
 | `skills/` | Team skills: brand-designer, lifecycle-campaign-strategy, clear-communications-v2. |
 | `campaigns/` | The shared campaign record. You contribute here. |
 | `learnings.md` | The team's accumulated lessons. You contribute here. |
-| `docs/` | How this fits with your personal workspace, and other team notes. |
+| `docs/` | How it fits with your personal workspace (`how-this-fits-with-your-workspace.md`, plus a shareable HTML version `how-it-fits.html`), and other team notes. |
 
 ## Why this exists
 

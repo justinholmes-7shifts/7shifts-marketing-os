@@ -1,6 +1,6 @@
 # Growth Marketing Framework
 
-> The shared vocabulary the team uses for lifecycle, programs, and channels. Use these names exactly, so plans, briefs, and the `lifecycle-campaign-strategy` skill all speak the same language. Source: 7shifts Growth Marketing (Tamara's team).
+> The shared vocabulary the team uses for lifecycle, programs, and channels. Use these names exactly, so plans, briefs, and the `lifecycle-campaign-strategy` skill all speak the same language. Source: 7shifts Growth Marketing.
 
 ## Lifecycle stages
 

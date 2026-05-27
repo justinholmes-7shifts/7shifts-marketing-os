@@ -2,8 +2,11 @@
 
 Repeatable thinking tools the whole team shares. Each skill is a folder with a `SKILL.md` (and optional `reference.md` / `examples.md`).
 
+**Building or reviewing a skill? Use the `skill-builder` skill** (or read its `reference.md`). It encodes our standards, drawn from Anthropic's "Complete Guide to Building Skills" and Thariq's "Lessons from Building Claude Code."
+
 ## What goes here
 Team-level skills, not personal ones. For example:
+- **skill-builder** — how we build and review skills to a consistent standard (the nine categories, lean SKILL.md, trigger-rich descriptions, gotchas, progressive disclosure). Based on Anthropic's skill guide and Thariq's lessons. Use it before making any new skill.
 - **brand-designer** — a senior 7shifts brand designer with point of view. Produces on-brand assets (social, slides, web, illustration, swag, co-brands) and pushes back on off-brand requests. Pulls the visual system from `context/brand-guidelines.md` and copy voice from `context/voice.md`.
 - **lifecycle-campaign-strategy** — pressure-tests campaign strategy before build: problem-first design framework, the 11-question pressure test, measurement layers, and the evolve/retire/rebuild call. The thinking layer above execution. (Rebuilt from the team's Lifecycle & Campaign Strategy doc into proper skill shape.)
 - **share-learning** — gets a durable learning or campaign record from someone's local work into this shared brain (`learnings.md` / `campaigns/`), handling the format and the git push so non-technical users never touch git. Checks the learning is durable, transferable, and evidenced first.
