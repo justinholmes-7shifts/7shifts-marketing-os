@@ -88,6 +88,18 @@ Also avoid: corporate buzzwords (ecosystem, empower); hedge words (maybe, possib
 - **Paragraphs:** 2-4 sentences max. Vary sentence length for rhythm. Short sentences for impact. White space between dense sections.
 - **Intros:** pass the "So what?" test immediately. Never "In this article, we will..." or "Let's explore..."
 
+## Precision with numbers and claims
+
+- **Don't prefix a rate with "+".** If a conversion rate is 30%, write "30%". Reserve "+" for an actual increase or lift ("+4pp", "+15% lift").
+- **Show comparison context in body copy, not in a callout box.** "30% referral conversion (up from 26%)" belongs in the sentence; the callout shows "30%".
+- **Be precise about metric type.** Rate, lift, attainment, and absolute number are different things. Don't conflate them.
+
+## Source fidelity
+
+- **Don't introduce distinctions that aren't in the source.** If the input says "new customers," don't write "core and expansion customers."
+- **Don't invent segmentation, caveats, or context** that wasn't in the brief.
+- **Use the program-type labels exactly** (Program, Campaign, Journey/Flow, Experiment, One-Off Send, see [`framework.md`](framework.md)). Don't call a launched initiative an Experiment.
+
 ## Analogies
 
 Draw from universal experience (sports, cooking, physical objects, weather, household tasks). Use one and move on, don't extend it. Connect to something tangible.

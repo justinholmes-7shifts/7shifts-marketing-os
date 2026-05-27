@@ -10,6 +10,7 @@ This file loads on every session. Keep it curated. Durable team truth lives here
   - `context/positioning.md` — value prop, differentiators, competitors, messaging pillars, ROI stats
   - `context/icp.md` — segments (Best/Strong/Emerging/Selective fit), market size, GTM motion by segment
   - `context/personas.md` — the 7 buyers and users (Chloe, Mike, Olivia, Daniel, George, Michelle, Jason)
+  - `context/framework.md` — shared vocabulary: lifecycle stages, program types, channels
   - `context/voice.md` — how we write: tone, banned words, AP style, the tone scale
   - `context/brand-guidelines.md` — the visual system: color, type, logo, photography, bento
   - `context/source/` — the raw 2025 Product Messaging Guide (xlsx + dump) behind positioning
