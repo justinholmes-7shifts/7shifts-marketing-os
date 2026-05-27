@@ -6,6 +6,7 @@ Repeatable thinking tools the whole team shares. Each skill is a folder with a `
 Team-level skills, not personal ones. For example:
 - **brand-designer** — a senior 7shifts brand designer with point of view. Produces on-brand assets (social, slides, web, illustration, swag, co-brands) and pushes back on off-brand requests. Pulls the visual system from `context/brand-guidelines.md` and copy voice from `context/voice.md`.
 - **lifecycle-campaign-strategy** — pressure-tests campaign strategy before build: problem-first design framework, the 11-question pressure test, measurement layers, and the evolve/retire/rebuild call. The thinking layer above execution. (Rebuilt from the team's Lifecycle & Campaign Strategy doc into proper skill shape.)
+- **share-learning** — gets a durable learning or campaign record from someone's local work into this shared brain (`learnings.md` / `campaigns/`), handling the format and the git push so non-technical users never touch git. Checks the learning is durable, transferable, and evidenced first.
 - **clear-communications-v2** — rate and improve any writing with the Pyramid Principle (answer first, SCQA). Generic clarity tool, useful for readouts and memos. (Shared from the CMO OS; team repo is now its canonical home.)
 - **campaign-orchestration** (Tamara) — drop the skill folder here.
 - Any skill more than one person should run the same way.
