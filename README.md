@@ -2,6 +2,8 @@
 
 The marketing team's shared brain. One place for who we sell to, how we sound, what we've shipped, and what we've learned. We all work out of the same repo so our context and our learnings compound instead of getting trapped in separate cloud Projects.
 
+**New here? Start with [GETTING-STARTED.md](GETTING-STARTED.md).** It walks you through cloning the brain, wiring it into your workspace, when to pull from it, and where campaign work goes.
+
 ## Why this exists
 
 Individual cloud Projects are isolated containers. Each one is a private copy of some files. Project A can't see what Project B learned, and the files inside go stale the moment you update them somewhere else. So knowledge fragments by design.
