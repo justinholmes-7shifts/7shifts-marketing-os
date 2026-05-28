@@ -129,7 +129,7 @@
     <p>The tell is simple: if you're re-explaining context, or the work spans more than one sitting, you should be in Code.</p>
     <div class="callout">
       <h2>Skip-permissions: start off, then turn it on</h2>
-      <p>Start in Code <strong>without</strong> skip-permissions so you can watch what it does and approve each step. Once you trust it, turn skip-permissions on and it gets a lot faster. Your files are markdown and docs, in your own workspace and the brain, all git-backed, so a wrong move is just an undo.</p>
+      <p>Start in Code <strong>without</strong> skip-permissions so you can watch what it does and approve each step. Once you trust it, turn skip-permissions on and it gets a lot faster. Your files here are markdown and docs, all git-backed, so a wrong move is just an undo. One caution: skip-permissions applies to your whole Claude Code session, not only this repo, so it can also act on files outside the brain that are not git-backed. Keep it on while you're working in the brain, and off otherwise.</p>
     </div>
 
     <h2>Why two and not one</h2>
@@ -140,12 +140,19 @@
     </div>
 
     <h2>To get going</h2>
+    <p>These commands assume macOS. On Windows, run them inside WSL.</p>
     <ol class="steps">
-      <li>Set up your own Claude Code workspace.</li>
+      <li>Set up your own Claude Code workspace (see <code>docs/set-up-your-workspace.md</code>).</li>
+      <li>Get repo access: ask Justin for a GitHub invite to the private repo, then sign in and pick HTTPS when asked (install the GitHub CLI first with <code>brew install gh</code> if you need it):
+        <div class="pre">gh auth login</div>
+      </li>
       <li>Clone the Marketing OS next to it:
         <div class="pre">git clone https://github.com/justinholmes-7shifts/7shifts-marketing-os.git</div>
       </li>
       <li>Point your CLAUDE.md at the brain so it loads every session.</li>
+      <li>Install the team skills so Claude Code loads them everywhere (safe to re-run; it skips any skill you already have):
+        <div class="pre">mkdir -p ~/.claude/skills &amp;&amp; cd ~/7shifts-marketing-os &amp;&amp; for s in skills/*/; do n=$(basename "$s"); [ -e ~/.claude/skills/"$n" ] &amp;&amp; echo "skip $n" || ln -s "$PWD/$s" ~/.claude/skills/"$n"; done</div>
+      </li>
     </ol>
 
     <div class="callout">

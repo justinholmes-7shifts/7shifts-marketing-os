@@ -2,9 +2,9 @@
 
 The Growth Marketing team's shared brain: who we sell to, how we sound, what we've shipped, and what we've learned. Everyone clones it and works alongside it, so our context and learnings compound in one place instead of scattering across eight laptops.
 
-## Start here (about 10 minutes)
+## Start here (about 15 minutes)
 
-New to Claude Code? Set up your own personal workspace first ([`docs/set-up-your-workspace.md`](docs/set-up-your-workspace.md), about 15 minutes), then do these four steps.
+New to Claude Code? Set up your own personal workspace first ([`docs/set-up-your-workspace.md`](docs/set-up-your-workspace.md), about 15 to 20 minutes the first time), then do these four steps. The commands below assume macOS. On Windows, run them inside WSL.
 
 **Before you clone, get access.** This is a private repo. Ask Justin for a GitHub invite to `justinholmes-7shifts/7shifts-marketing-os` and accept it. Then connect git on your machine the easy way (install the GitHub CLI first if you need it with `brew install gh`, and pick HTTPS when asked):
 
@@ -25,13 +25,13 @@ You'll have two folders side by side: your personal `~/your-workspace/` and `~/7
 
 > The 7shifts Marketing OS team brain lives at `~/7shifts-marketing-os`. For anything involving brand, ICP, positioning, personas, voice, or a team skill, read from there first. It is the source of truth.
 
-**3. Install the team skills.** They live in the repo, but Claude Code only loads them once they're linked into `~/.claude/skills/`. One command links all of them:
+**3. Install the team skills.** They live in the repo, but Claude Code only loads them once they're linked into `~/.claude/skills/`. This one command links all of them. It's safe to run again, and it leaves alone any skill you already have:
 
 ```
-mkdir -p ~/.claude/skills && cd ~/7shifts-marketing-os && for s in skills/*/; do ln -s "$(pwd)/$s" ~/.claude/skills/"$(basename "$s")"; done
+mkdir -p ~/.claude/skills && cd ~/7shifts-marketing-os && for s in skills/*/; do n=$(basename "$s"); [ -e ~/.claude/skills/"$n" ] && echo "skip $n (already there)" || ln -s "$PWD/$s" ~/.claude/skills/"$n"; done
 ```
 
-Now `brand-designer`, `lifecycle-campaign-strategy`, `clear-communications-v2`, `share-learning`, and `skill-builder` work in any session. Edit them in the repo, not in `~/.claude/skills/`, so a `git pull` keeps everyone current. (More in [`skills/README.md`](skills/README.md).)
+Now `brand-designer`, `lifecycle-campaign-strategy`, `clear-communications-v2`, `share-learning`, and `skill-builder` work in any session. Already have your own skill with one of those names? It's left untouched. To use the team version instead, remove yours first (`rm ~/.claude/skills/<name>`) and run the command again. Edit skills in the repo, not in `~/.claude/skills/`, so a `git pull` keeps everyone current. (More in [`skills/README.md`](skills/README.md).)
 
 **4. Run `git pull` when you start working,** so you always have the latest.
 
@@ -66,7 +66,7 @@ The one rule either way: **pull before you push.** Several people contribute to 
 | Folder | What it holds |
 |---|---|
 | `context/` | The reference brain: company-context, positioning, icp, personas, voice, brand-guidelines + assets, framework. |
-| `skills/` | Team skills: brand-designer, lifecycle-campaign-strategy, clear-communications-v2. |
+| `skills/` | Team skills: brand-designer, lifecycle-campaign-strategy, clear-communications-v2, share-learning, skill-builder. |
 | `campaigns/` | The shared campaign record. You contribute here. |
 | `learnings.md` | The team's accumulated lessons. You contribute here. |
 | `docs/` | How it fits with your personal workspace (`how-this-fits-with-your-workspace.md`, plus a shareable HTML version `how-it-fits.html`), and other team notes. |

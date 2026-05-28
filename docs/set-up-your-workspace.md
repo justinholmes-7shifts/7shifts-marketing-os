@@ -1,6 +1,6 @@
 # Set up your personal Claude Code workspace
 
-Before the shared brain is useful, you need your own workspace: the folder where you actually work, with your own `CLAUDE.md` and memory. It lives on your machine and never gets shared. This takes about 15 minutes, once.
+Before the shared brain is useful, you need your own workspace: the folder where you actually work, with your own `CLAUDE.md` and memory. It lives on your machine and never gets shared. This takes about 15 to 20 minutes the first time. The commands here assume macOS; on Windows, run them inside WSL.
 
 The restaurant version: this is your own station, set up the way you like it. The [Marketing OS](../README.md) is the walk-in the whole kitchen shares. Set up your station first, then connect the walk-in.
 
@@ -9,7 +9,7 @@ The restaurant version: this is your own station, set up the way you like it. Th
 Two ways to run it. If you're new, start with the desktop app and add the terminal later.
 
 - **Desktop app (recommended):** download from [claude.ai/code](https://claude.ai/code) and sign in with your 7shifts Google account.
-- **Terminal (optional):** install the GitHub CLI and Node first if you need them, then `npm install -g @anthropic-ai/claude-code`. Run `claude` inside any folder to start.
+- **Terminal (optional, more technical):** you'll need Homebrew ([brew.sh](https://brew.sh)) and Node. Install them with `brew install node gh`, then `npm install -g @anthropic-ai/claude-code`. Run `claude` inside any folder to start.
 
 ## 2. Make your workspace folder
 

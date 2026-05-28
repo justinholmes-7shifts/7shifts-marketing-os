@@ -15,7 +15,7 @@ The restaurant version: your workspace is your own station. The Marketing OS is 
 To get going:
 
 1. Set up your own Claude Code workspace ([`set-up-your-workspace.md`](set-up-your-workspace.md)).
-2. Get repo access (ask Justin for a GitHub invite), then clone the Marketing OS next to it: `git clone https://github.com/justinholmes-7shifts/7shifts-marketing-os.git`
+2. Get repo access (ask Justin for a GitHub invite), then clone the Marketing OS next to your workspace: `cd ~ && git clone https://github.com/justinholmes-7shifts/7shifts-marketing-os.git`
 3. Point your CLAUDE.md at the brain so it loads every session, and install the team skills (README step 3).
 
 Your workspace, the shared brain. Set yours up once, pull from the same source, give back as you learn.

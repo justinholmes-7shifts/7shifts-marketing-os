@@ -18,10 +18,10 @@ Team-level skills, not personal ones. For example:
 - Personal-voice skills. `justin-voice` is Justin's and lives in `7shifts-cmo-os`. The team's writing voice is `../context/voice.md`, the 7shifts brand voice.
 
 ## How skills load into Claude Code
-The canonical source lives here in the repo. Symlink each one into `~/.claude/skills/` so Claude Code loads it everywhere:
+The canonical source lives here in the repo. Claude Code only loads a skill once it's linked into `~/.claude/skills/`. This one command links every skill in this folder (safe to re-run; it skips any you already have):
 
 ```
-ln -s "$(pwd)/skills/campaign-orchestration" ~/.claude/skills/campaign-orchestration
+mkdir -p ~/.claude/skills && cd ~/7shifts-marketing-os && for s in skills/*/; do n=$(basename "$s"); [ -e ~/.claude/skills/"$n" ] && echo "skip $n" || ln -s "$PWD/$s" ~/.claude/skills/"$n"; done
 ```
 
 Edit the skill **here**, not in `~/.claude/skills/`. That way changes are version-controlled and the whole team gets them on `git pull`.
