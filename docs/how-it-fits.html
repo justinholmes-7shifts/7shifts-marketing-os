@@ -6,9 +6,8 @@
 <title>7shifts Marketing OS — How it fits together</title>
 <style>
   :root{
-    --curacao:#4370FF; --mojito:#02FEB3; --marshmallow:#F1F0EC;
-    --caviar:#000; --earl:#6E6D6C; --spritz:#FF6709; --ice:#D6E0FF;
-    --line:#e3ded3;
+    --curacao:#4370FF; --mojito:#02FEB3; --zest:#C6FF94; --marshmallow:#F1F0EC;
+    --caviar:#000; --earl:#6E6D6C; --spritz:#FF6709; --ice:#D6E0FF; --line:#e3ded3;
   }
   *{box-sizing:border-box;}
   body{
@@ -16,18 +15,13 @@
     font-family:-apple-system,system-ui,"SF Pro Text","Inter",sans-serif;
     line-height:1.55; -webkit-font-smoothing:antialiased;
   }
-  .wrap{max-width:740px; margin:0 auto; padding:72px 24px 96px;}
+  .wrap{max-width:760px; margin:0 auto; padding:72px 24px 96px;}
   .eyebrow{font-size:12px; letter-spacing:.1em; text-transform:uppercase; color:var(--curacao); font-weight:700; margin-bottom:16px;}
-  h1{
-    font-family:"Universal Sans",system-ui,-apple-system,"Inter",sans-serif;
-    font-size:48px; line-height:1.03; letter-spacing:-0.025em; font-weight:800; margin:0 0 18px;
-  }
+  h1{font-family:"Universal Sans",system-ui,-apple-system,"Inter",sans-serif; font-size:48px; line-height:1.03; letter-spacing:-0.025em; font-weight:800; margin:0 0 18px;}
   .lede{font-size:19px; color:var(--earl); margin:0;}
-  h2{
-    font-family:"Universal Sans",system-ui,-apple-system,sans-serif;
-    font-size:23px; letter-spacing:-0.015em; font-weight:700; margin:52px 0 14px;
-  }
+  h2{font-family:"Universal Sans",system-ui,-apple-system,sans-serif; font-size:23px; letter-spacing:-0.015em; font-weight:700; margin:54px 0 14px;}
   p{margin:0 0 14px;}
+  strong{color:var(--caviar);}
   .cards{display:grid; grid-template-columns:1fr 1fr; gap:16px; margin:30px 0;}
   .card{border-radius:18px; padding:26px;}
   .card.work{background:#fff; border:1px solid var(--line);}
@@ -39,6 +33,29 @@
   .pill{display:inline-block; font-size:11px; font-weight:700; letter-spacing:.04em; text-transform:uppercase; padding:4px 11px; border-radius:999px; margin-bottom:14px;}
   .card.work .pill{background:var(--ice); color:var(--curacao);}
   .card.os .pill{background:rgba(255,255,255,.18); color:#fff;}
+
+  /* workflow loop diagram */
+  .flow{display:grid; grid-template-columns:1fr minmax(190px,auto) 1fr; gap:14px; align-items:center; margin:26px 0;}
+  .flow-box{border-radius:18px; padding:22px 18px; text-align:center;}
+  .flow-box.work{background:#fff; border:1px solid var(--line);}
+  .flow-box.os{background:var(--curacao); color:#fff;}
+  .flow-box b{font-family:"Universal Sans",system-ui,sans-serif; font-size:16px; display:block; letter-spacing:-0.01em; margin-bottom:4px;}
+  .flow-box small{font-size:12.5px; color:var(--earl);}
+  .flow-box.os small{color:#dbe6ff;}
+  .flow-mid{display:flex; flex-direction:column; gap:10px;}
+  .arrow{border-radius:10px; padding:9px 12px; text-align:center; font-size:11px; font-weight:700; letter-spacing:.05em; text-transform:uppercase;}
+  .arrow.pull{background:var(--ice); color:var(--curacao);}
+  .arrow.push{background:var(--zest); color:var(--caviar);}
+  .arrow small{display:block; margin-top:3px; font-size:11px; font-weight:500; letter-spacing:0; text-transform:none; color:var(--earl);}
+
+  /* decision chart */
+  table{width:100%; border-collapse:collapse; margin:18px 0; font-size:14.5px;}
+  th,td{text-align:left; padding:12px 12px; border-bottom:1px solid var(--line); vertical-align:top;}
+  th{font-family:"Universal Sans",system-ui,sans-serif; font-size:12px; letter-spacing:.04em; text-transform:uppercase; color:var(--earl);}
+  td .tag{display:inline-block; font-size:11px; font-weight:700; padding:2px 9px; border-radius:999px;}
+  .tag.work{background:var(--ice); color:var(--curacao);}
+  .tag.os{background:var(--curacao); color:#fff;}
+
   .quote{background:var(--caviar); color:#fff; border-radius:18px; padding:30px; margin:40px 0; font-size:18px; line-height:1.5;}
   .quote .accent{color:var(--spritz); font-weight:600;}
   .callout{background:var(--ice); border-radius:18px; padding:26px; margin:30px 0;}
@@ -46,43 +63,62 @@
   ul{padding-left:20px;} li{margin:8px 0;}
   ol.steps{counter-reset:step; list-style:none; padding:0; margin:18px 0;}
   ol.steps li{position:relative; padding-left:46px; margin:16px 0;}
-  ol.steps li::before{
-    counter-increment:step; content:counter(step);
-    position:absolute; left:0; top:-1px; width:30px; height:30px; border-radius:999px;
-    background:var(--curacao); color:#fff; font-weight:800; font-size:14px;
-    display:flex; align-items:center; justify-content:center;
-  }
+  ol.steps li::before{counter-increment:step; content:counter(step); position:absolute; left:0; top:-1px; width:30px; height:30px; border-radius:999px; background:var(--curacao); color:#fff; font-weight:800; font-size:14px; display:flex; align-items:center; justify-content:center;}
   code{background:rgba(0,0,0,.06); padding:2px 7px; border-radius:6px; font-size:13px; font-family:ui-monospace,Menlo,monospace;}
   .pre{background:#fff; border:1px solid var(--line); border-radius:12px; padding:14px 16px; font-family:ui-monospace,Menlo,monospace; font-size:13px; overflow-x:auto; margin:14px 0;}
   .foot{margin-top:68px; padding-top:20px; border-top:1px solid var(--line); color:var(--earl); font-size:13px;}
-  strong{color:var(--caviar);}
-  @media(max-width:600px){ .cards{grid-template-columns:1fr;} h1{font-size:34px;} .wrap{padding:48px 20px 72px;} }
+  @media(max-width:600px){
+    .cards{grid-template-columns:1fr;} h1{font-size:34px;} .wrap{padding:48px 20px 72px;}
+    .flow{grid-template-columns:1fr;} .flow-mid{order:2;}
+  }
 </style>
 </head>
 <body>
   <main class="wrap">
     <div class="eyebrow">7shifts Marketing OS</div>
     <h1>How it fits together</h1>
-    <p class="lede">You're getting two things this week. They stack, so you don't pick one.</p>
+    <p class="lede">You're working with two repos. They stack, so you don't pick one. Here's which is which, and when you use each.</p>
 
     <div class="cards">
       <div class="card work">
-        <span class="pill">Yours</span>
+        <span class="pill">Your repo</span>
         <h3>Your Workspace</h3>
-        <p>Your own Claude Code setup: folders, your CLAUDE.md, your memory, and the habits that keep it usable past month two. This is where you do your work, and it never leaves your machine.</p>
+        <p>Your own Claude Code setup: folders, your CLAUDE.md, your memory, your projects. Where you do the work. It never leaves your machine.</p>
       </div>
       <div class="card os">
-        <span class="pill">Shared</span>
+        <span class="pill">The main repo</span>
         <h3>The Marketing OS</h3>
-        <p>The shared brain everyone works from: brand guidelines, ICP and segment sizing, positioning, the seven personas, voice rules, and our skills. One repo, one copy, everyone pulls from it.</p>
+        <p>The shared brain everyone works from: brand, ICP, segment sizing, positioning, the seven personas, voice, and skills. One copy, everyone pulls from it.</p>
       </div>
     </div>
 
-    <h2>Why two and not one</h2>
-    <p>If we each keep our own copy of the brand guidelines, the day brand changes the palette, most of them are quietly wrong. The shared brain means we update once and everyone's next piece of work is current. It also gets smarter every time someone feeds a learning back in, which a pile of private folders never does.</p>
+    <h2>How the workflow runs</h2>
+    <p>Your work lives in your repo. Shared truth lives in the main repo. You read from the main repo constantly, and you write back to it deliberately.</p>
+    <div class="flow">
+      <div class="flow-box work"><b>Your Workspace</b><small>your work-in-progress</small></div>
+      <div class="flow-mid">
+        <div class="arrow pull">&larr; Pull<small>brand, ICP, voice, a skill (constant)</small></div>
+        <div class="arrow push">Push &rarr;<small>learnings &amp; campaign records (deliberate)</small></div>
+      </div>
+      <div class="flow-box os"><b>The Marketing OS</b><small>shared source of truth</small></div>
+    </div>
 
-    <h2>It runs both ways</h2>
-    <p>You <strong>pull</strong> from the brain constantly: copy, campaigns, the ICP, a persona, a skill. You <strong>push</strong> back to it when you learn something worth keeping, and the <code>share-learning</code> skill does the git for you, so you never touch a command line.</p>
+    <h2>Which repo, when</h2>
+    <table>
+      <thead><tr><th>What you're doing</th><th>Where it lives</th><th>Read or write</th></tr></thead>
+      <tbody>
+        <tr><td>Drafting copy, a brief, a campaign</td><td><span class="tag work">Your repo</span></td><td>reads the OS to stay on-brand</td></tr>
+        <tr><td>Notes, drafts, work-in-progress, assets</td><td><span class="tag work">Your repo</span></td><td>local only</td></tr>
+        <tr><td>1:1s, performance, anything people</td><td><span class="tag work">Your repo</span></td><td>local only, never the OS</td></tr>
+        <tr><td>Need brand, ICP, a persona, voice, positioning</td><td><span class="tag os">Marketing OS</span></td><td>read (loads automatically)</td></tr>
+        <tr><td>Want a team skill (brand-designer, etc.)</td><td><span class="tag os">Marketing OS</span></td><td>read</td></tr>
+        <tr><td>Finished a campaign, or learned something durable</td><td><span class="tag os">Marketing OS</span></td><td>write (push via <code>share-learning</code>)</td></tr>
+      </tbody>
+    </table>
+    <p><strong>Rule of thumb:</strong> your work lives in your workspace; shared truth lives in the OS. Read from the OS constantly, write to it deliberately.</p>
+
+    <h2>Why two and not one</h2>
+    <p>If we each kept our own copy of the brand guidelines, the day brand changes the palette, most of them would be quietly wrong. The shared repo means we update once and everyone's next piece of work is current. It also gets smarter every time someone pushes a learning back, which a pile of private folders never does.</p>
 
     <div class="quote">
       Your workspace is your own station. The Marketing OS is the walk-in the whole kitchen shares. You don't each buy your own tomatoes, and when you figure out a better prep, <span class="accent">you put it back in the walk-in for everyone.</span>
@@ -105,7 +141,7 @@
     <h2>What's in the brain</h2>
     <ul>
       <li><strong>context/</strong> — company context, positioning, ICP and sizing, personas, voice, brand guidelines and assets, framework</li>
-      <li><strong>skills/</strong> — brand-designer, lifecycle-campaign-strategy, clear-communications-v2, share-learning</li>
+      <li><strong>skills/</strong> — skill-builder, brand-designer, lifecycle-campaign-strategy, clear-communications-v2, share-learning</li>
       <li><strong>campaigns/</strong> — the shared campaign record</li>
       <li><strong>learnings.md</strong> — the team's accumulated lessons</li>
     </ul>
