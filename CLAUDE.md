@@ -14,6 +14,7 @@ This file loads on every session. Keep it curated. Durable team truth lives here
   - `context/voice.md` — how we write: tone, banned words, AP style, the tone scale
   - `context/brand-guidelines.md` — the visual system: color, type, logo, photography, bento
   - `context/source/` — the raw 2025 Product Messaging Guide (xlsx + dump) behind positioning
+- **Tool choice.** A one-off you can finish in a chat, do it in chat. Anything ongoing that needs memory and this shared context, work in Claude Code with the brain loaded. Start without skip-permissions, then turn it on once you trust it (your files are git-backed, so a wrong move is an undo).
 - **Brand is not optional.** Any visual or written artifact pulls styling from `context/brand-guidelines.md` and tone from `context/voice.md`. Do not invent colors, fonts, layout, or voice defaults.
 - **Write learnings back.** When a campaign or piece of research teaches us something durable (a subject line that won, a segment that converted, a channel that flopped), add a line to `learnings.md`. That is how the brain compounds.
 - **One file per campaign.** Working notes and outcomes for a campaign go in `campaigns/`. That's the running log. Distil the durable parts up into `learnings.md`.
@@ -32,4 +33,4 @@ This file loads on every session. Keep it curated. Durable team truth lives here
 
 ## Notes
 - This is a docs/ops repo, not an app. No stack, no deploy. Mostly markdown.
-- Usable two ways: open the folder in Claude Code (best, full context every session), or point the desktop app at the files. Same brain either way.
+- Work in Claude Code with the brain loaded for anything ongoing (see Tool choice above). Quick one-offs are fine in chat. Same files either way.
