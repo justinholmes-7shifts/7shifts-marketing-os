@@ -4,7 +4,13 @@ The Growth Marketing team's shared brain: who we sell to, how we sound, what we'
 
 ## Start here (about 10 minutes)
 
-New to Claude Code? Set up your own personal workspace first, then do these three steps.
+New to Claude Code? Set up your own personal workspace first ([`docs/set-up-your-workspace.md`](docs/set-up-your-workspace.md), about 15 minutes), then do these four steps.
+
+**Before you clone, get access.** This is a private repo. Ask Justin for a GitHub invite to `justinholmes-7shifts/7shifts-marketing-os` and accept it. Then connect git on your machine the easy way (install the GitHub CLI first if you need it with `brew install gh`, and pick HTTPS when asked):
+
+```
+gh auth login
+```
 
 **1. Clone this as a sibling to your workspace** (not inside it, it's its own git repo):
 
@@ -19,7 +25,15 @@ You'll have two folders side by side: your personal `~/your-workspace/` and `~/7
 
 > The 7shifts Marketing OS team brain lives at `~/7shifts-marketing-os`. For anything involving brand, ICP, positioning, personas, voice, or a team skill, read from there first. It is the source of truth.
 
-**3. Run `git pull` when you start working,** so you always have the latest.
+**3. Install the team skills.** They live in the repo, but Claude Code only loads them once they're linked into `~/.claude/skills/`. One command links all of them:
+
+```
+mkdir -p ~/.claude/skills && cd ~/7shifts-marketing-os && for s in skills/*/; do ln -s "$(pwd)/$s" ~/.claude/skills/"$(basename "$s")"; done
+```
+
+Now `brand-designer`, `lifecycle-campaign-strategy`, `clear-communications-v2`, `share-learning`, and `skill-builder` work in any session. Edit them in the repo, not in `~/.claude/skills/`, so a `git pull` keeps everyone current. (More in [`skills/README.md`](skills/README.md).)
+
+**4. Run `git pull` when you start working,** so you always have the latest.
 
 Set up? Run your first play from [`docs/starter-plays.md`](docs/starter-plays.md) to feel the payoff in week one.
 
