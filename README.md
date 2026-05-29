@@ -69,6 +69,14 @@ The one rule either way: **pull before you push.** Several people contribute to 
 | `learnings.md` | The team's accumulated lessons. You contribute here. |
 | `docs/` | How it fits with your personal workspace (`how-this-fits-with-your-workspace.md`, plus a shareable HTML version `how-it-fits.html`), and other team notes. |
 
+**The team skills** (fuller write-ups in [`skills/README.md`](skills/README.md)):
+
+- **brand-designer** — a senior 7shifts designer with a point of view. On-brand social posts, slides, web modules, and ad creative, and it pushes back on off-brand asks.
+- **lifecycle-campaign-strategy** — pressure-tests a campaign before you build it: the customer outcome, the one business metric, the audience, and the kill condition.
+- **clear-communications-v2** — tightens any writing with the Pyramid Principle, answer first. Good for readouts and memos.
+- **share-learning** — gets a durable learning or campaign record into the brain and does the git push for you, so you never touch a command line.
+- **skill-builder** — how we build and review new skills to one standard, from Anthropic's skills guide. Use it before you make a new one.
+
 ## Why this exists
 
 Individual cloud Projects (and private local folders) are isolated containers. Each is a private copy that goes stale the moment someone updates the real thing somewhere else. Eight people, eight copies of the brand guidelines, and the day brand changes the palette, seven are quietly wrong. This repo fixes that: one living source everyone shares, that gets smarter every time someone feeds a learning back in.
