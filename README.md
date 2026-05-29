@@ -1,41 +1,39 @@
 # 7shifts Marketing OS
 
-The Growth Marketing team's shared brain: who we sell to, how we sound, what we've shipped, and what we've learned. Everyone clones it and works alongside it, so our context and learnings compound in one place instead of scattering across eight laptops.
+The Growth Marketing team's shared brain: who we sell to, how we sound, what we've shipped, and what we've learned. Everyone works alongside it, so our context and learnings compound in one place instead of scattering across eight laptops.
 
-## Start here (about 15 minutes)
+## Start here (about 10 minutes)
 
-New to Claude Code? Set up your own personal workspace first ([`docs/set-up-your-workspace.md`](docs/set-up-your-workspace.md), about 15 to 20 minutes the first time), then do these four steps. The commands below assume macOS. On Windows, run them inside WSL.
+New to Claude Code? Set up your own personal workspace first ([`docs/set-up-your-workspace.md`](docs/set-up-your-workspace.md), about 15 to 20 minutes the first time). The commands below assume macOS. On Windows, run them inside WSL.
 
-**Before you clone, get access.** This is a private repo. Ask Justin for a GitHub invite to `justinholmes-7shifts/7shifts-marketing-os` and accept it. Then connect git on your machine the easy way (install the GitHub CLI first if you need it with `brew install gh`, and pick HTTPS when asked):
+You've got the zip Justin shared. Here's the 10-minute setup, and you don't need GitHub access for any of it yet.
 
-```
-gh auth login
-```
+**1. Unzip it into your home folder so you end up with `~/7shifts-marketing-os`.** It sits next to your workspace, not inside it. If the unzipped folder has a longer name, rename it to `7shifts-marketing-os`.
 
-**1. Clone this as a sibling to your workspace** (not inside it, it's its own git repo):
-
-```
-cd ~
-git clone https://github.com/justinholmes-7shifts/7shifts-marketing-os.git
-```
-
-You'll have two folders side by side: your personal `~/your-workspace/` and `~/7shifts-marketing-os/`.
+> Already have GitHub access and prefer git? Skip the zip: `cd ~ && git clone https://github.com/justinholmes-7shifts/7shifts-marketing-os.git`
 
 **2. Point your CLAUDE.md at it.** Add this line so Claude reads the brain every session:
 
 > The 7shifts Marketing OS team brain lives at `~/7shifts-marketing-os`. For anything involving brand, ICP, positioning, personas, voice, or a team skill, read from there first. It is the source of truth.
 
-**3. Install the team skills.** They live in the repo, but Claude Code only loads them once they're linked into `~/.claude/skills/`. This one command links all of them. It's safe to run again, and it leaves alone any skill you already have:
+**3. Install the team skills.** They live in the folder, but Claude Code only loads them once they're linked into `~/.claude/skills/`. This one command links all of them. It's safe to run again, and it leaves alone any skill you already have:
 
 ```
 mkdir -p ~/.claude/skills && cd ~/7shifts-marketing-os && for s in skills/*/; do n=$(basename "$s"); [ -e ~/.claude/skills/"$n" ] && echo "skip $n (already there)" || ln -s "$PWD/$s" ~/.claude/skills/"$n"; done
 ```
 
-Now `brand-designer`, `lifecycle-campaign-strategy`, `clear-communications-v2`, `share-learning`, and `skill-builder` work in any session. Already have your own skill with one of those names? It's left untouched. To use the team version instead, remove yours first (`rm ~/.claude/skills/<name>`) and run the command again. Edit skills in the repo, not in `~/.claude/skills/`, so a `git pull` keeps everyone current. (More in [`skills/README.md`](skills/README.md).)
+Now `brand-designer`, `lifecycle-campaign-strategy`, `clear-communications-v2`, `share-learning`, and `skill-builder` work in any session. Already have your own skill with one of those names? It's left untouched. To use the team version instead, remove yours first (`rm ~/.claude/skills/<name>`) and run the command again. Edit skills in the folder, not in `~/.claude/skills/`. (More in [`skills/README.md`](skills/README.md).)
 
-**4. Run `git pull` when you start working,** so you always have the latest.
+**4. Run a starter play** from [`docs/starter-plays.md`](docs/starter-plays.md) to feel the payoff in week one.
 
-Set up? Run your first play from [`docs/starter-plays.md`](docs/starter-plays.md) to feel the payoff in week one.
+## Getting updates and pushing your learnings back
+
+The copy Justin shared is connected to the live repo, so once he gives you access you can pull updates and contribute back.
+
+- **Get the latest:** from inside `~/7shifts-marketing-os`, run `git pull`.
+- **Push a learning or campaign record:** tell Claude "share this learning" and it handles the commit and push for you. You never touch git.
+
+Justin is sorting out repo access. If a `git pull` or push asks you to sign in, install the GitHub CLI (`brew install gh`), run `gh auth login` (pick HTTPS), or just ping Justin. If your copy turns out not to be connected to git, ping Justin and he'll swap you onto one that is.
 
 ## When to use the brain, and when not
 

@@ -143,12 +143,7 @@
     <p>These commands assume macOS. On Windows, run them inside WSL.</p>
     <ol class="steps">
       <li>Set up your own Claude Code workspace (see <code>docs/set-up-your-workspace.md</code>).</li>
-      <li>Get repo access: ask Justin for a GitHub invite to the private repo, then sign in and pick HTTPS when asked (install the GitHub CLI first with <code>brew install gh</code> if you need it):
-        <div class="pre">gh auth login</div>
-      </li>
-      <li>Clone the Marketing OS next to it:
-        <div class="pre">git clone https://github.com/justinholmes-7shifts/7shifts-marketing-os.git</div>
-      </li>
+      <li>Unzip the copy Justin shared into your home folder so you have <code>~/7shifts-marketing-os</code>. (Have GitHub access and prefer git? <code>cd ~ &amp;&amp; git clone https://github.com/justinholmes-7shifts/7shifts-marketing-os.git</code>.)</li>
       <li>Point your CLAUDE.md at the brain so it loads every session.</li>
       <li>Install the team skills so Claude Code loads them everywhere (safe to re-run; it skips any skill you already have):
         <div class="pre">mkdir -p ~/.claude/skills &amp;&amp; cd ~/7shifts-marketing-os &amp;&amp; for s in skills/*/; do n=$(basename "$s"); [ -e ~/.claude/skills/"$n" ] &amp;&amp; echo "skip $n" || ln -s "$PWD/$s" ~/.claude/skills/"$n"; done</div>
@@ -157,7 +152,7 @@
 
     <div class="callout">
       <h2>Giving back</h2>
-      <p>When a campaign teaches you something durable, tell Claude <strong>"share this learning."</strong> It checks the lesson is worth keeping, writes it into the brain, and pushes it so the whole team gets it on their next pull. Keep your drafts and work-in-progress in your own workspace. The brain holds the shared, finished, reusable stuff.</p>
+      <p>When a campaign teaches you something durable, tell Claude <strong>"share this learning."</strong> It checks the lesson is worth keeping, writes it into the brain, and pushes it so the whole team gets it on their next pull. (Justin sorts out repo access so your push lands.) Keep your drafts and work-in-progress in your own workspace. The brain holds the shared, finished, reusable stuff.</p>
     </div>
 
     <h2>What's in the brain</h2>

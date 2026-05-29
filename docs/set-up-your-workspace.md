@@ -47,6 +47,6 @@ Claude Code keeps a memory across sessions. When you tell it something worth kee
 
 ## 5. Connect the shared brain
 
-Your station is ready. Go back to the [README](../README.md) "Start here" steps to clone the Marketing OS next to your workspace, point your CLAUDE.md at it, and install the team skills.
+Your station is ready. Go back to the [README](../README.md) "Start here" steps to set up the Marketing OS next to your workspace (from the zip Justin shared, or a git clone if you have access), point your CLAUDE.md at it, and install the team skills.
 
 That's the whole setup: your station first, then the shared walk-in.
