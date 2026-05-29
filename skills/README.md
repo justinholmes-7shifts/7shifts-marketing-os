@@ -11,6 +11,7 @@ Team-level skills, not personal ones. For example:
 - **lifecycle-campaign-strategy** — pressure-tests campaign strategy before build: problem-first design framework, the 11-question pressure test, measurement layers, and the evolve/retire/rebuild call. The thinking layer above execution. (Rebuilt from the team's Lifecycle & Campaign Strategy doc into proper skill shape.)
 - **share-learning** — gets a durable learning or campaign record from someone's local work into this shared brain (`learnings.md` / `campaigns/`), handling the format and the git push so non-technical users never touch git. Checks the learning is durable, transferable, and evidenced first.
 - **clear-communications-v2** — rate and improve any writing with the Pyramid Principle (answer first, SCQA). Generic clarity tool, useful for readouts and memos. (Shared from the CMO OS; team repo is now its canonical home.)
+- **session-log** — keep a per-session work log, one dated file per session in the project's `sessions/` folder, and read the last few to pick up where you left off. Writes the file only, never commits.
 - **campaign-orchestration** (Tamara) — drop the skill folder here.
 - Any skill more than one person should run the same way.
 

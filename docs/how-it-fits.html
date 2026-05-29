@@ -129,7 +129,9 @@
     <p>The tell is simple: if you're re-explaining context, or the work spans more than one sitting, you should be in Code.</p>
     <div class="callout">
       <h2>Skip-permissions: start off, then turn it on</h2>
-      <p>Start in Code <strong>without</strong> skip-permissions so you can watch what it does and approve each step. Once you trust it, turn skip-permissions on and it gets a lot faster. Your files here are markdown and docs, all git-backed, so a wrong move is just an undo. One caution: skip-permissions applies to your whole Claude Code session, not only this repo, so it can also act on files outside the brain that are not git-backed. Keep it on while you're working in the brain, and off otherwise.</p>
+      <p>Start in Code <strong>without</strong> skip-permissions so you can watch what it does and approve each step. Once you trust it, you can launch Claude with permissions skipped and it moves a lot faster. From inside <code>~/7shifts-marketing-os</code>, run:</p>
+      <div class="pre">claude --dangerously-skip-permissions</div>
+      <p>Your files here are markdown and docs, all git-backed, so a wrong move is just an undo. One caution: the flag applies to your whole Claude Code session, not only this repo, so Claude can also touch files outside the brain that are not git-backed. Use it when you're working in the brain, and launch plain <code>claude</code> otherwise.</p>
     </div>
 
     <h2>Why two and not one</h2>
@@ -165,6 +167,7 @@
           <li><strong>clear-communications-v2</strong> — tightens any writing with the Pyramid Principle, answer first. Good for readouts and memos.</li>
           <li><strong>share-learning</strong> — gets a durable learning or campaign record into the brain and does the git push for you, so you never touch a command line.</li>
           <li><strong>skill-builder</strong> — how we build and review new skills to one standard, from Anthropic's skills guide. Use it before you make a new one.</li>
+          <li><strong>session-log</strong> — keeps a per-session work log, one dated file per session, so you (or the next session) can pick up where you left off. Writes the file only, never commits.</li>
         </ul>
       </li>
       <li><strong>campaigns/</strong> — the shared campaign record</li>

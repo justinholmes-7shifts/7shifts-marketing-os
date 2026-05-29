@@ -76,6 +76,7 @@ The one rule either way: **pull before you push.** Several people contribute to 
 - **clear-communications-v2** — tightens any writing with the Pyramid Principle, answer first. Good for readouts and memos.
 - **share-learning** — gets a durable learning or campaign record into the brain and does the git push for you, so you never touch a command line.
 - **skill-builder** — how we build and review new skills to one standard, from Anthropic's skills guide. Use it before you make a new one.
+- **session-log** — keeps a per-session work log, one dated file per session, so you (or the next session) can pick up where you left off. Writes the file only, never commits.
 
 ## Why this exists
 
